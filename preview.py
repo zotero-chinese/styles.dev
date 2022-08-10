@@ -143,7 +143,7 @@ if __name__ == '__main__':
    #  config_value = read_yaml_to_dict("config.yaml")
    #  assert config_value == my_config_dict
    # fmdata = '---\n' + yaml.dump(dict, sort_keys=False) + '\n ---\n'
-   with open('test.md', 'w') as yaml_file:
+   with open('docs/preview/test.md', 'w') as yaml_file:
       yaml.dump(dict, yaml_file, sort_keys=False)
    # yaml.dump(dict, 'test.md', allow_unicode=True)
 
