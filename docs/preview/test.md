@@ -1,20 +1,6 @@
-style_class: in-text
-title: "GB/T 7714-2015 (\u987A\u5E8F\u7F16\u7801, \u53CC\u8BED)"
-id: http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual
-link_self: http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual
-link_template: http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric
-link_documentation: http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A
+---
 author: {}
-contributor: {}
-citation-format: Undefined
-category: []
-summary: Undefined
-updated: Undefined
-citations: '<sup>[1,2]</sup>, <sup>[3,4]</sup>, <sup>[4]</sup>, <sup>[<i>but see</i>
-  5]</sup>, <sup>[2]</sup>, <sup>[6]</sup>, <sup>[7]</sup>, '
-bibstart: '<div class="csl-bib-body">
-
-  '
+bibend: </div>
 bibliography:
 - "  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"\
   csl-right-inline\">D\u2019ARCUS B. Boundaries of Dissent: Protest and State Power\
@@ -47,4 +33,25 @@ bibliography:
 - "  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"\
   csl-right-inline\">MALONE K. Chapters on Chaucer[M]. Baltimore: Johns Hopkins Press,\
   \ 1951.</div>\n  </div>\n"
-bibend: </div>
+bibstart: '<div class="csl-bib-body">
+
+  '
+category: []
+citation-format: Undefined
+citations: '<sup>[1,2]</sup>, <sup>[3,4]</sup>, <sup>[4]</sup>, <sup>[<i>but see</i>
+  5]</sup>, <sup>[2]</sup>, <sup>[6]</sup>, <sup>[7]</sup>, '
+contributor: {}
+id: http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual
+link_documentation: http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A
+link_self: http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual
+link_template: http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric
+style_class: in-text
+summary: Undefined
+title: "GB/T 7714-2015 (\u987A\u5E8F\u7F16\u7801, \u53CC\u8BED)"
+updated: Undefined
+
+template: preview.html
+
+---
+
+44254

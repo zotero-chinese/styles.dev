@@ -1,0 +1,126 @@
+site_name: CSL 中文文档
+site_description: Citations Style Language 中文文档
+site_url: https://csl-cn.github.io/csl-chinese
+repo_name: csl-doc-chinese
+repo_url: https://github.com/zotero-cn/csl-doc-chinese
+
+theme:
+    name: 'material'
+    # favicon: assets/logo/favicons.png
+    # logo: assets/logo/favicons.png
+    icon:
+      repo: fontawesome/brands/github
+    custom_dir: overrides
+    font:
+        text: Karla
+        code: Ubuntu Mono
+    language: zh
+    palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+    
+    features:
+        - navigation.indexes
+        - navigation.top
+        # - navigation.tabs
+        # - navigation.tabs.sticky
+        # - navigation.sections
+        # - navigation.instant
+        # - navigation.expand
+        # - toc.integrate
+# Extensions
+markdown_extensions:
+  - footnotes
+  - nl2br
+  - attr_list
+  - sane_lists
+  - def_list
+  - meta
+  - smarty
+  - tables
+  - mdx_breakless_lists
+  - admonition
+  - toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.tasklist:
+       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: dataview
+          class: dataview
+          format: !!python/name:pymdownx.superfences.fence_div_format
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+plugins:
+  - search
+  - ezlinks: # https://github.com/orbikm/mkdocs-ezlinks-plugin
+        wikilinks: true
+  # - mermaid2
+  - awesome-pages:
+      # collapse_single_pages: true
+  - git-revision-date-localized: # https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/
+      type: iso_datetime
+      # enable_creation_date: true
+      locale: zh
+      timezone: Asia/Shanghai
+      # enabled: false
+  - callouts
+extra_javascript:
+  # - assets/js/utils.js
+  # - assets/js/custom.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - assets/js/tooltipster.bundle.js  
+extra_css:
+    - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+    # - assets/css/template/blog.css
+    # # - assets/css/template/grid.css
+    # # - assets/css/template/img-grids-float.css
+    # # - assets/css/template/tooltipster.bundle.min.css
+    # - assets/css/template/utils.css
+    # # - assets/css/admonition.css
+    # - assets/css/custom_attributes.css
+    # - assets/css/customization.css
+extra:
+  social:
+    - icon: fontawesome/regular/user
+      link: https://github.com/ZMAlt/CSL-Chinese
+    - icon: fontawesome/brands/github
+      link: https://github.com/zotero-cn/csl-doc-chinese
+copyright: Copyright &copy; 2022 Zotero CN 
+
+
+
