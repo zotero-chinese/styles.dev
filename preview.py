@@ -1,8 +1,10 @@
+import os
+import uuid
 import yaml
 import xml.dom.minidom
 import requests
 import json
-import frontmatter
+
 
 def get_info(style_file):
     '''获取指定 csl 文件的 info 信息和 preview
@@ -42,6 +44,13 @@ def get_info(style_file):
     dict['title'] = info.getElementsByTagName('title')[0].childNodes[0].data
     dict['id'] = info.getElementsByTagName('id')[0].childNodes[0].data
 
+    # 变更 id 为 uuid
+    # if (check_uuid4(info.id) != True):
+    #     # dict['id']=uuid.uuid4()
+    #     info.id = uuid.uuid4()
+    #     info.id.write(info.id);
+    #     dict['id'] = info.getElementsByTagName('id')[0].childNodes[0].data  
+
     links = info.getElementsByTagName('link')
     for link in links:
         match (link.getAttribute('rel')):
@@ -54,7 +63,8 @@ def get_info(style_file):
             case default:
                 pass
 
-    dict['citations'], dict['bibliography'], dict['bibstart'], dict['bibend'] = get_preview('000gb-t-7714-2015-numeric-bilingual')
+    dict['citations'], dict['bibliography'], dict['bibstart'], dict['bibend'] = get_preview(
+        '000gb-t-7714-2015-numeric-bilingual')
 
     return dict
 
@@ -68,27 +78,26 @@ def get_preview(style_name):
     Returns:
         tuple: (citation, bibliography)
     '''
-    # response
+    # requests
     headers = {'content-type': 'application/json'}
-    data = open('sampledata.json', 'r', encoding='utf-8')
     post = 'http://127.0.0.1:8085?responseformat=json&citations=1&style=' + style_name
-    response_content = json.loads(requests.post(
-        post, headers=headers, data=data).content)  # json
+    with open('sampledata.json', 'r', encoding='utf-8') as data:
+        r = requests.post(post, headers=headers, data=data.read())
+    # print(r.status_code, r.content)
+    content = json.loads(r.content)  # json
+
     # bibliography
-    response_content_bibliography = response_content['bibliography'][1]  # list
-    bibstart = response_content['bibliography'][0]['bibstart']
-    bibend = response_content['bibliography'][0]['bibend']
-   #  bibliography = bibstart + ''
-   #  for bibo in response_content_bibliography:
-   #      bibliography += bibo
-   #  bibliography += bibend
+    bibliography = content['bibliography'][1]  # list
+    bibstart = content['bibliography'][0]['bibstart']
+    bibend = content['bibliography'][0]['bibend']
+
     # citation
-    response_content_citations = response_content['citations']  # list
+    response_content_citations = content['citations']  # list
     citations = ''
     for response_content_citation in response_content_citations:
         citations += response_content_citation[1] + ', '
 
-    return citations, response_content_bibliography, bibstart, bibend
+    return citations, bibliography, bibstart, bibend
 
 
 def check_uuid4(test_uuid, version=4):
@@ -102,54 +111,53 @@ def check_uuid4(test_uuid, version=4):
         bool: 合法 1，非法 0
     '''
     try:
-        return id.UUID(test_uuid).version == version
+        return uuid.UUID(test_uuid).version == version
     except ValueError:
         return False
 
+    
+            
+def get_files(dirPath='./csl', suffix='csl'):
+    """
+    遍历给定文件夹下指定后缀的文件，并将相对于dirPath的路径和文件名返回
 
-def save_dict_to_yaml(dict_value: dict, save_path: str):
-    """dict保存为yaml"""
-    with open(save_path, 'w') as file:
-        file.write(yaml.dump(dict_value, allow_unicode=True))
+    Args:
+        dirPath (str, optional): 文件夹路径. Defaults to './csl'.
+        suffix (str, optional): 后缀名. Defaults to 'csl'.
 
-
-def read_yaml_to_dict(yaml_path: str, ):
-    with open(yaml_path) as file:
-        dict_value = yaml.load(file.read(), Loader=yaml.FullLoader)
-        return dict_value
+    Returns:
+        list: 复合列表，[[文件1路径,文件1名],[文件2路径,文件2名]]
+    """
+    csl_files = []
+    dirs = os.listdir(dirPath)
+    for currentFile in dirs:
+        absPath = dirPath + '/' + currentFile
+        if os.path.isdir(absPath):
+            get_files(absPath, suffix)
+        elif currentFile.split('.')[-1] == suffix:
+            csl_files.append([absPath, currentFile])
+            # csl_files += [absPath, currentFile]
+    return csl_files
 
 
 if __name__ == '__main__':
 
-   # 在给定的文件夹中遍历所有.csl文件
+    # 在给定的文件夹中遍历所有.csl文件
+    csl_files = get_files('./csl', 'csl')
+    # print(csl_files)
 
-   dict = get_info('csl/000gb-t-7714-2015-numeric-bilingual.csl')
-   for key, value in dict.items():
-      print('key: ', key, 'value: ', value)
-
-   #  my_config_dict = {
-   #      "mysql": {
-   #          "host": "127.0.0.1",
-   #          "tables": ["table_1", "table_2"],
-   #      },
-   #      "redis": {
-   #          "host": "127.0.0.1",
-   #          "db": 3,
-   #      }
-   #  }
-   #  # 保存yaml
-   #  save_dict_to_yaml(my_config_dict, "config.yaml")
-   #  # 读取yaml
-   #  config_value = read_yaml_to_dict("config.yaml")
-   #  assert config_value == my_config_dict
-   # fmdata = '---\n' + yaml.dump(dict, sort_keys=False) + '\n ---\n'
-   with open('docs/preview/test.md', 'w') as yaml_file:
-      yaml.dump(dict, yaml_file, sort_keys=False)
-   # yaml.dump(dict, 'test.md', allow_unicode=True)
-
-   # data = frontmatter.load(fmdata)
-   # with open('test.md') as f:
-   #    metadata, content = frontmatter.parse(f.read())
-   #    metadata = dict
-   #    frontmatter.dump(metadata, f)
-   # print(metadata['title'])
+    # 获取每一个 CSL 的信息
+    dicts=[]
+    
+    for csl_file in csl_files:
+        dict = get_info(csl_file[0])
+        dicts.append(dict)
+        # for key, value in dict.items():
+        #     print( key, ': ', value)
+        # with open('docs/preview/'+csl_file[1]+'.md', 'w') as f:
+        #     f.write('---\n\n')
+        #     yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
+        #     f.write('template: preview.html')
+        #     f.write('\n\n---\n\n')
+    
+    result = [dict for dict in dicts if dict['title']=='GB/T 7714-2015 (顺序编码, 双语)']
