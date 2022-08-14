@@ -6,7 +6,7 @@ import requests
 import json
 
 
-def get_info(style_file):
+def get_info(style_file_path, style_file_name):
     '''获取指定 csl 文件的 info 信息和 preview
 
     Args:
@@ -34,7 +34,7 @@ def get_info(style_file):
         'bibend': '</div>'
     }
     # 使用 minidom 解析器打开 XML 文档
-    DOMTree = xml.dom.minidom.parse(style_file)
+    DOMTree = xml.dom.minidom.parse(style_file_path)
     style = DOMTree.documentElement
     if style.hasAttribute('class'):
         dict['style_class'] = style.getAttribute('class')
@@ -51,20 +51,33 @@ def get_info(style_file):
     #     info.id.write(info.id);
     #     dict['id'] = info.getElementsByTagName('id')[0].childNodes[0].data  
 
-    links = info.getElementsByTagName('link')
-    for link in links:
-        match (link.getAttribute('rel')):
-            case 'self':
-                dict['link_self'] = link.getAttribute('href')
-            case 'template':
-                dict['link_template'] = link.getAttribute('href')
-            case 'documentation':
-                dict['link_documentation'] = link.getAttribute('href')
-            case default:
-                pass
+    if info.getElementsByTagName('link'):
+        for link in info.getElementsByTagName('link'):
+            match (link.getAttribute('rel')):
+                case 'self':
+                    dict['link_self'] = link.getAttribute('href')
+                case 'template':
+                    dict['link_template'] = link.getAttribute('href')
+                case 'documentation':
+                    dict['link_documentation'] = link.getAttribute('href')
+                case default:
+                    pass
+    
+    if info.getElementsByTagName('category'):
+        for category in info.getElementsByTagName('category'):
+            if category.getAttribute('citation-format'):
+                dict['citation-format'] = category.getAttribute('citation-format')
+            elif category.getAttribute('field'):
+                dict['category'].append(category.getAttribute('field'))
+    
+    if info.getElementsByTagName('summary'):
+        dict['summary'] = info.getElementsByTagName('summary')[0].childNodes[0].data
+    if info.getElementsByTagName('updated'):
+        dict['updated'] = info.getElementsByTagName('updated')[0].childNodes[0].data
+
 
     dict['citations'], dict['bibliography'], dict['bibstart'], dict['bibend'] = get_preview(
-        '000gb-t-7714-2015-numeric-bilingual')
+        style_file_name)
 
     return dict
 
@@ -135,29 +148,51 @@ def get_files(dirPath='./csl', suffix='csl'):
         if os.path.isdir(absPath):
             get_files(absPath, suffix)
         elif currentFile.split('.')[-1] == suffix:
-            csl_files.append([absPath, currentFile])
-            # csl_files += [absPath, currentFile]
+            csl_files.append([absPath, currentFile.split('.')[0]])
     return csl_files
 
+def write_category(items, name):
+    with open('docs/category/'+name+'.md', 'w') as f:
+        f.write('# '+name)
+        for item in items:
+            f.write('\n\n## '+ item['title']+'\n\n')
+            f.write(item['summary']+'\n\n')
+            f.write('### 引文\n\n')
+            f.write(item['citations']+'\n\n')
+            f.write('### 书目\n\n')
+            bibliography = item['bibstart'] + ''
+            for bibo in item['bibliography']:
+                bibliography += bibo
+            bibliography += item['bibend']
+            f.write(bibliography+'\n\n')
+        
 
 if __name__ == '__main__':
 
+    # dict = get_info('./csl/000gb-t-7714-2015-numeric-bilingual.csl')
+    # for key, value in dict.items():
+    #     print( key, ': ', value)
+
+
     # 在给定的文件夹中遍历所有.csl文件
     csl_files = get_files('./csl', 'csl')
-    # print(csl_files)
 
     # 获取每一个 CSL 的信息
     dicts=[]
     
     for csl_file in csl_files:
-        dict = get_info(csl_file[0])
+        print(csl_file[0])
+        dict = get_info(csl_file[0], csl_file[1])
         dicts.append(dict)
         # for key, value in dict.items():
         #     print( key, ': ', value)
-        # with open('docs/preview/'+csl_file[1]+'.md', 'w') as f:
-        #     f.write('---\n\n')
-        #     yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
-        #     f.write('template: preview.html')
-        #     f.write('\n\n---\n\n')
+        with open('docs/preview/'+csl_file[1]+'.md', 'w') as f:
+            f.write('---\n\n')
+            yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
+            f.write('template: preview.html')
+            f.write('\n\n---\n\n')
     
-    result = [dict for dict in dicts if dict['title']=='GB/T 7714-2015 (顺序编码, 双语)']
+    numeric = [dict for dict in dicts if dict['citation-format']=='numeric']
+    author_date = [dict for dict in dicts if dict['citation-format']=='author-date']
+    write_category(numeric, 'numeric')
+    write_category(author_date, 'author_date')
