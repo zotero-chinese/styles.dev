@@ -5,9 +5,11 @@
         <h1>{{ page.title | d(config.site_name, true)}}</h1>
     {% endif %}
     {% if page.meta.citations %}
+        </br><strong>引文</strong></br>
         {{ page.meta.citations }}
     {% endif %}
     {% if page.meta.bibliography %}
+        </br><strong>书目</strong></br>
         {{ page.meta.bibstart }}
         {% for bib in page.meta.bibliography %}
             {{ bib }}
