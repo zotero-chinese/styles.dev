@@ -19,6 +19,6 @@ jobs:
           python-version: 3.10.2
       - name: build
         run: |
-          bash run.sh
           pip install -r requirements.txt
+          bash run.sh
           mkdocs gh-deploy --force --clean

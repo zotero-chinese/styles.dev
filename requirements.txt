@@ -9,3 +9,4 @@ mkdocs-embed-file-plugins
 Markdown
 mkdocs-git-revision-date-localized-plugin
 mkdocs-callouts
+yaml
