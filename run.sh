@@ -3,7 +3,7 @@
 cd ./citeproc-js-server
 
 echo '[info] Initing git submodule...'
-git submodule update --init --recursive
+# git submodule update --init --recursive
 
 echo '[info] Installing dependency...'
 export NODE_ENV=submodule
