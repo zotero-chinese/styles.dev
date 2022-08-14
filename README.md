@@ -31,12 +31,12 @@
 - 在 `preview.py` 中，（WORK IN PROGRESS）
 
   - 从 `csl/*.csl` 提取 `<info>` 内的信息，
-- 
+ 
   - 向引文处理服务器请求获得其引文和书目样式预览，处理后以 yaml 格式一并写入 `docs/preview/{uuid.md}` 中的 `Front Matter`；
 
   - 将以上信息按 author-data、numeric 或 journal、thesis 等分类方式排序归类，分别写入 `{Category-type}/{Category-name}.md` 。
 
-- 使用 mkdocs 构建静态页面，部署在 GitHub Pages。
+- 使用 mkdocs 构建静态页面，根据需要自定义 `preview.md`，构建后部署在 GitHub Pages。
 
 ## 运行
 
