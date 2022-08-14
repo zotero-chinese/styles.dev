@@ -1,8 +1,8 @@
-site_name: CSL 中文文档
-site_description: Citations Style Language 中文文档
-site_url: https://csl-cn.github.io/csl-chinese
-repo_name: csl-doc-chinese
-repo_url: https://github.com/zotero-cn/csl-doc-chinese
+site_name: 中文 Styles
+site_description: Styles
+site_url: https://zotero-cn.github.io/styles
+repo_name: styles
+repo_url: https://github.com/zotero-cn/styles
 
 theme:
     name: 'material'
@@ -116,10 +116,8 @@ extra_css:
     - assets/css/customization.css
 extra:
   social:
-    - icon: fontawesome/regular/user
-      link: https://github.com/ZMAlt/CSL-Chinese
     - icon: fontawesome/brands/github
-      link: https://github.com/zotero-cn/csl-doc-chinese
+      link: https://github.com/zotero-cn/styles
 copyright: Copyright &copy; 2022 Zotero CN 
 
 
