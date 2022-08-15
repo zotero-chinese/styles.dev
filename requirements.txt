@@ -1,12 +1,2 @@
-mkdocs
-mkdocs-material
-mkdocs-mermaid2-plugin
-mkdocs-ezlinked-plugin
-mkdocs-awesome-pages-plugin
-mdx_breakless_lists
-mkdocs-preview-links-plugin
-mkdocs-embed-file-plugins
-Markdown
-mkdocs-git-revision-date-localized-plugin
-mkdocs-callouts
+
 pyyaml
