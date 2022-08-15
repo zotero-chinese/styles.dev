@@ -1,3 +1,4 @@
 docs/*
 !docs/category/.*
 !docs/preview/.*
+node_modules

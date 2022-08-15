@@ -78,7 +78,8 @@ def get_info(style_file_path, style_file_name):
 
     dict['citations'], dict['bibliography'], dict['bibstart'], dict['bibend'] = get_preview(
         style_file_name)
-
+    dict['categories'] = [dict['citation-format']]
+    dict['tags'] = dict['category']
     return dict
 
 
@@ -183,15 +184,26 @@ if __name__ == '__main__':
     for csl_file in csl_files:
         print(csl_file[0])
         dict = get_info(csl_file[0], csl_file[1])
-        dicts.append(dict)
+        citation = dict.pop('citations')
+        bibliography = dict.pop('bibstart') + ''
+        for bibo in dict.pop('bibliography'):
+            bibliography += bibo
+        bibliography += dict.pop('bibend')
         # for key, value in dict.items():
         #     print( key, ': ', value)
         with open('docs/preview/'+csl_file[1]+'.md', 'w') as f:
             f.write('---\n\n')
             yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
-            f.write('template: preview.html')
+            # f.write('template: preview.html')
             f.write('\n\n---\n\n')
-    
+            f.write('::: note 引文 \n\n')
+            f.write(citation)
+            f.write('\n\n ::: \n\n')
+            f.write('::: note 书目 \n\n')
+            f.write(bibliography)
+            f.write('\n\n ::: \n\n')
+            f.write('<!-- more -->')
+
     numeric = [dict for dict in dicts if dict['citation-format']=='numeric']
     author_date = [dict for dict in dicts if dict['citation-format']=='author-date']
     write_category(numeric, 'numeric')
