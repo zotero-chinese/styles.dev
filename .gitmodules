@@ -1,6 +1,6 @@
 [submodule "csl"]
 	path = csl
-	url = https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl
+	url = https://github.com/zotero-cn/styles-repo
 [submodule "citeproc-js-server"]
 	path = citeproc-js-server
 	url = https://github.com/zotero-cn/citeproc-js-server
