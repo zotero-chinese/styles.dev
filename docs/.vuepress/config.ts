@@ -5,6 +5,7 @@ import theme from "./theme";
 export default defineUserConfig({
   dest: "dist",
   lang: "zh-CN",
+  base: '/styles/',
   theme,
   shouldPrefetch: false,
 });

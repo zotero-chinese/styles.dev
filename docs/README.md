@@ -1,57 +1,51 @@
 ---
 home: true
-layout: Blog
+# layout: Blog
 icon: home
 title: 首页
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: Zotero 中文样式
 # heroFullScreen: true
 tagline: 中文样式库，请按样式分类或按领域进行查找。
-projects:
-  - name: vuepress
-    desc: 基于 Vue 的静态文档构建器
-    link: https://v2.vuepress.vuejs.org/zh/
-    icon: /assets/img/vuepress.png
+actions:
+  - text: 浏览样式 💡
+    link: /article/
+    type: primary
 
-  - name: vuepress-theme-hope
-    desc: 一个功能强大的 Vuepress 主题✨
-    link: https://vuepress-theme-hope.github.io/v2/zh/
-    icon: /assets/img/vuepress-hope-logo.svg
+  - text: 查看安装方法
+    link: /article/
 
-  - name: Waline
-    desc: 一个安全轻量的评论系统
-    link: https://waline.js.org/
-    icon: https://waline.js.org/logo.png
+features:
+  - title: 顺序编码制
+    icon: markdown
+    details: 
+    link: /category/numeric/
 
-  - name: in东师
-    desc: 60万字的东师攻略，全方位的东师生活介绍，东师新生们的最佳入学指南❤
-    link: https://github.com/Hope-Studio/inNENU-miniapp
-    icon: /assets/img/inNENU.png
+  - title: “作者-日期”制
+    icon: comment
+    details: 
+    link: /category/author-date/
 
-  - name: vuepress-plugin-md-enhance
-    desc: Vuepress Markdown 增强插件
-    link: https://vuepress-theme-hope.github.io/v2/md-enhance/zh/
-    icon: /assets/img/vuepress-hope-logo.svg
+  - title: 脚注制
+    icon: info
+    details: 
+    link: /category/note/
 
-  - name: vuepress-plugin-feed2
-    desc: VuePress2 Feed 插件
-    link: https://vuepress-theme-hope.github.io/v2/feed/zh/
-    icon: /assets/img/vuepress-hope-logo.svg
+  - title: 国标衍生样式
+    icon: blog
+    details: 
+    link: /tag/gb/
 
-  - name: vuepress-plugin-pwa2
-    desc: VuePress2 PWA 插件
-    link: https://vuepress-theme-hope.github.io/v2/pwa/zh/
-    icon: /assets/img/vuepress-hope-logo.svg
+  - title: 学位论文样式
+    icon: lock
+    details: 
+    link: /tag/thesis/
 
-  - name: "@mr-hope/gulp-sass"
-    icon: project
-    desc: Gulp Sass 插件
-    link: https://github.com/Mister-Hope/gulp-sass
+  - title: 其他
+    icon: more
+    details: 
+    link: /tag/other/
 
-  - name: mptool
-    desc: 轻量、高效的微信小程序框架
-    link: https://github.com/miniapp-tool/mptool
-    icon: https://miniapp-tool.github.io/logo.png
-
-footer: '<a href="http://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">备案号: </a> | <a href="/about/site.html">关于网站</a>'
+copyright: false
+footer: MIT Licensed | Copyright © 2022-present Zotero Chinese
 ---
