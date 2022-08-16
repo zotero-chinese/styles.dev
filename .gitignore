@@ -1,4 +1,5 @@
-docs/*
-!docs/category/.*
-!docs/preview/.*
+# docs/*
+# !docs/category/.*
+docs/preview/*.md
+docs/.vuepress/.*
 node_modules

@@ -1,8 +1,11 @@
 #!/usr/bin/bash
 
+# 确保脚本抛出遇到的错误
+set -e
+
 cd ./citeproc-js-server
 
-echo '[info] Initing git submodule...'
+# echo '[info] Initing git submodule...'
 # git submodule update --init --recursive
 
 echo '[info] Installing dependency...'
@@ -15,6 +18,7 @@ sleep 5s # 缓一缓让 citeproc 跑起来再执行下一步
 
 cd ..
 echo '[info] Geting preview...'
+pip install -r requirements.txt
 python preview.py
 
 echo '[info] Kill citeproc serve'

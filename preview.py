@@ -25,7 +25,7 @@ def get_info(style_file_path, style_file_name):
         'author': {},
         'contributor': {},
         'citation-format': 'Undefined',
-        'category': [],
+        'field': [],
         'summary': 'Undefined',
         'updated': 'Undefined',
         'citations': 'Undefined',
@@ -68,7 +68,7 @@ def get_info(style_file_path, style_file_name):
             if category.getAttribute('citation-format'):
                 dict['citation-format'] = category.getAttribute('citation-format')
             elif category.getAttribute('field'):
-                dict['category'].append(category.getAttribute('field'))
+                dict['field'].append(category.getAttribute('field'))
     
     if info.getElementsByTagName('summary'):
         dict['summary'] = info.getElementsByTagName('summary')[0].childNodes[0].data
@@ -78,8 +78,8 @@ def get_info(style_file_path, style_file_name):
 
     dict['citations'], dict['bibliography'], dict['bibstart'], dict['bibend'] = get_preview(
         style_file_name)
-    dict['categories'] = [dict['citation-format']]
-    dict['tags'] = dict['category']
+    dict['tag'] = dict['field']
+    dict['category'] = [dict['citation-format']]
     return dict
 
 
@@ -194,7 +194,6 @@ if __name__ == '__main__':
         with open('docs/preview/'+csl_file[1]+'.md', 'w') as f:
             f.write('---\n\n')
             yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
-            # f.write('template: preview.html')
             f.write('\n\n---\n\n')
             f.write('::: note 引文 \n\n')
             f.write(citation)

@@ -1,31 +1,42 @@
 {
-  "name": "theme-vdoing-blog",
+  "name": "blog",
   "version": "1.0.0",
+  "description": "CSL 中文样式库",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
-    "editFm": "node utils/editFrontmatter.js",
-    "updateTheme": "yarn remove vuepress-theme-vdoing && rm -rf node_modules && yarn && yarn add vuepress-theme-vdoing -D"
+    "build:vite": "vuepress-vite build docs",
+    "build:vite-debug": "cross-env DEBUG=vuepress* vuepress-vite build docs",
+    "build:webpack": "vuepress-webpack build docs",
+    "build:webpack-debug": "cross-env DEBUG=vuepress* vuepress-webpack build docs",
+    "dev:vite": "vuepress-vite dev docs",
+    "dev:vite-clean": "vuepress-vite dev docs --clean-cache",
+    "dev:vite-debug": "cross-env DEBUG=vuepress* vuepress-vite dev docs",
+    "dev:webpack": "vuepress-webpack dev docs",
+    "dev:webpack-clean": "vuepress-webpack dev docs --clean-cache",
+    "dev:webpack-debug": "cross-env DEBUG=vuepress* vuepress-webpack dev docs",
+    "lint": "prettier --check --write .",
+    "lint:check": "prettier --check .",
+    "lint-md": "markdownlint **/*.md --ignore node_modules --fix",
+    "test": "echo \"Warning: no test specified\" && exit 0"
   },
+  "author": "northword",
   "license": "MIT",
-  "devDependencies": {
-    "dayjs": "^1.9.7",
-    "inquirer": "^7.1.0",
-    "json2yaml": "^1.1.0",
-    "vuepress": "1.9.5",
-    "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-baidu-tongji": "^1.0.1",
-    "vuepress-plugin-comment": "^0.7.3",
-    "vuepress-plugin-demo-block": "^0.7.2",
-    "vuepress-plugin-fulltext-search": "^2.2.1",
-    "vuepress-plugin-one-click-copy": "^1.0.2",
-    "vuepress-plugin-thirdparty-search": "^1.0.2",
-    "vuepress-plugin-zooming": "^1.1.7",
-    "vuepress-theme-vdoing": "^1.12.7",
-    "yamljs": "^0.3.0"
-  },
+  "keywords": [
+    "vuepress",
+    "personal-blog"
+  ],
   "dependencies": {
-    "vuepress-plugin-comment": "^0.7.3"
+    "@vuepress/cli": "2.0.0-beta.49",
+    "@vuepress/client": "2.0.0-beta.49",
+    "@vuepress/plugin-docsearch": "2.0.0-beta.49",
+    "sass-loader": "13.0.2",
+    "vue": "3.2.37",
+    "vuepress-theme-hope": "2.0.0-beta.88",
+    "vuepress-vite": "2.0.0-beta.49",
+    "vuepress-webpack": "2.0.0-beta.49"
+  },
+  "devDependencies": {
+    "cross-env": "7.0.3",
+    "markdownlint-cli": "0.32.1",
+    "prettier": "2.7.1"
   }
 }
