@@ -35,6 +35,7 @@
     "vuepress-webpack": "2.0.0-beta.49"
   },
   "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.49",
     "cross-env": "7.0.3",
     "markdownlint-cli": "0.32.1",
     "prettier": "2.7.1"
