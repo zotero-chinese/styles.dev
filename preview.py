@@ -195,15 +195,16 @@ if __name__ == '__main__':
             f.write('---\n\n')
             yaml.dump(dict, f, sort_keys=False, allow_unicode=True)
             f.write('\n\n---\n\n')
-            f.write('::: note 引文 \n\n')
+            f.write(dict['summary'])
+            f.write('\n\n::: note 引文 \n\n')
             f.write(citation)
             f.write('\n\n ::: \n\n')
-            f.write('::: note 书目 \n\n')
+            f.write('\n\n::: note 书目 \n\n')
             f.write(bibliography)
             f.write('\n\n ::: \n\n')
             f.write('<!-- more -->')
 
-    numeric = [dict for dict in dicts if dict['citation-format']=='numeric']
-    author_date = [dict for dict in dicts if dict['citation-format']=='author-date']
-    write_category(numeric, 'numeric')
-    write_category(author_date, 'author_date')
+    # numeric = [dict for dict in dicts if dict['citation-format']=='numeric']
+    # author_date = [dict for dict in dicts if dict['citation-format']=='author-date']
+    # write_category(numeric, 'numeric')
+    # write_category(author_date, 'author_date')
