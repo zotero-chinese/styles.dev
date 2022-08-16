@@ -8,6 +8,19 @@
 
 这个仓库临时性作为 styles 预览的开发，尚未存放 styles 文件，获取文件请前往上述几个仓库。
 
+## 访问
+
+<https://zotero-cn.github.io/styles>
+
+## 进展
+
+- [x] `cs:info` 提取
+- [x] 样式预览
+- [ ] `second-field-align` 选项适配
+- [ ] 子文件夹示例数据覆盖  
+      UPDATE 2022-08-06：由于 citeproc-js-serve 不支持子文件夹 CSL 文件，寻求更换 Styles 文件组织方案或更换样式渲染方案
+- [ ] 页面详情页添加样式安装链接和样式源文件链接
+
 ## 技术路线
 
 - 将 `github/redleafnew/Chinese-STD-GB-T-7714-related-csl` 作为 csl 文件源。
@@ -39,5 +52,6 @@
 1. clone this repo
 2. install node.js, Python
 3. bash run.sh
-4. pip install
-5. mkdocs serve
+4. yarn install
+5. yarn run dev:vite
+
