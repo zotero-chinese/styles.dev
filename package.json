@@ -16,7 +16,8 @@
     "lint": "prettier --check --write .",
     "lint:check": "prettier --check .",
     "lint-md": "markdownlint **/*.md --ignore node_modules --fix",
-    "test": "echo \"Warning: no test specified\" && exit 0"
+    "test": "echo \"Warning: no test specified\" && exit 0",
+    "generate": "cd ./lib && node ./generate.js && cd .."
   },
   "author": "northword",
   "license": "MIT",
