@@ -21,15 +21,18 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: Get Preview
-        run: |
-          bash run.sh
       - name: Build
         run: |
           yarn install
-          yarn run build:webpack
+          yarn run generate
+          yarn run build:vite
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: dist
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Auto build preview
+          file_pattern: src/**/*.md
