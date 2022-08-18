@@ -4,6 +4,8 @@ category: author-date
 tag: generic-base
 ---
 
+<!-- 此文件由脚本自动生成，请勿手动修改！ -->
+
 姓名取消全大写；专利文献增加“专利国别”。
 
 

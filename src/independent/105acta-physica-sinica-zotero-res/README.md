@@ -4,6 +4,8 @@ category: numeric
 tag: generic-base
 ---
 
+<!-- 此文件由脚本自动生成，请勿手动修改！ -->
+
 The Chinese GB/T 7714-2015 numeric style
 
 

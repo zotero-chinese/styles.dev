@@ -4,6 +4,8 @@ category: numeric
 tag: generic-base
 ---
 
+<!-- 此文件由脚本自动生成，请勿手动修改！ -->
+
 按照语言显示“等”或“et al.”
 
 
