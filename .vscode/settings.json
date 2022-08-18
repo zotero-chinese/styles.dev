@@ -1,0 +1,18 @@
+{
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "markdownlint.config": {
+        "default": true,
+        "MD012": false,
+        "MD033": false,
+        "no-hard-tabs": true
+    },
+    "files.exclude": {
+        // "node_modules":true,
+        "**/LICENSE": true
+    }
+    
+}
