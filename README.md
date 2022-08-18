@@ -1,8 +1,8 @@
 # Styles
 
-- CSL 官方仓库：https://github.com/citation-style-language/styles
-- GB/T 7714相关的csl以及Zotero使用技巧及教程：https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl
-- 中文国关及小部分综合社科期刊CSL: https://github.com/EdwardSaidZhou/CSL-Chinese-IR-CSSCI-Journals
+- CSL 官方仓库：<https://github.com/citation-style-language/styles>
+- GB/T 7714相关的csl以及Zotero使用技巧及教程：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
+- 中文国关及小部分综合社科期刊CSL: <https://github.com/EdwardSaidZhou/CSL-Chinese-IR-CSSCI-Journals>
 
 ## 这个仓库
 
@@ -66,4 +66,4 @@
     yarn dev:vite
     ```
 
-对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将自动热重载生成静态页面。
+对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将热重载静态页面。

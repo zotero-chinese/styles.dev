@@ -29,11 +29,11 @@ email 前后加 __
 
 ### 所有 `csl` 文件
 
-![下载及使用动图](./img/download-csl.gif)
+![下载及使用动图](./assets/download-csl.gif)
 
 ### 单个 `csl` 文件
 
-![下载及使用动图](./img/download-s-csl.gif)
+![下载及使用动图](./assets/download-s-csl.gif)
 
 ## 如何使用
 
@@ -351,7 +351,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 空行删除及缩进、悬挂设置：
 <!--![空行删除及缩进、悬挂设置-->
-![空行删除及缩进、悬挂设置](./img/blank-line-remove.gif "Title")
+![空行删除及缩进、悬挂设置](./assets/blank-line-remove.gif "Title")
 显示效果：
 
 > [1]<br>
@@ -843,6 +843,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [410sjtu-thesis]
 
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+>
 > ```
 >
 显示效果<sup>[1-4]</sup>
