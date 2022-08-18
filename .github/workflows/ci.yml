@@ -34,3 +34,4 @@ jobs:
           default_author: github_actions
           add: 'src'
           message: 'Auto Build Preview'
+          push: '--set-upstream origin main'
