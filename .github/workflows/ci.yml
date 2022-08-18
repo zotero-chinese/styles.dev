@@ -29,7 +29,8 @@ jobs:
           branch: gh-pages
           folder: dist
       - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: EndBug/add-and-commit@v9
         with:
-          commit_message: Auto build preview
-          file_pattern: src/**/*.md
+          default_author: github_actions
+          add: 'src'
+          message: 'Auto Build Preview'
