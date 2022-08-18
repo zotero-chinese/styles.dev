@@ -26,8 +26,8 @@ The Chinese GB/T7714-2015 numeric style
     <div class="csl-entry">//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38 </div>
     <div class="csl-entry">测绘科学 (2008, 33(5): 8–9)  </div>
     <div class="csl-entry">Nature (2014, 510: 356–362)  </div>
-    <div class="csl-entry">. (2012-01-16) . [2013-03-26]. http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680 </div>
-    <div class="csl-entry">. (2008-05-04)[2013-03-08]. http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf </div>
+    <div class="csl-entry">. (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a> </div>
+    <div class="csl-entry">. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> </div>
   </div>
 
 

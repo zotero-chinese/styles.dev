@@ -26,7 +26,7 @@ tag: generic-base
     <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
     <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25].</div>
     <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25].</div>
-    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL].（2012-01-16）. [2013-03-26]. http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680[2013-03-26].</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL].（2012-01-16）. [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>[2013-03-26].</div>
     <div class="csl-entry">[8] BAWDEN D. Origins and concepts of digital literacy[EB/OL](2008-05-04)[2013-03-08].</div>
   </div>
 

@@ -27,7 +27,7 @@ tag: generic-base
     <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, <b>33</b>(<b>5</b>): 8–9.</div>
     <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis. <i>Nature</i>, 2014, <b>510</b>: 356–362.</div>
     <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. .</div>
-    <div class="csl-entry">[8] BAWDEN D. Origins and concepts of digital literacy(2008–05–04)[2013–03–08]. http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf.</div>
+    <div class="csl-entry">[8] BAWDEN D. Origins and concepts of digital literacy(2008–05–04)[2013–03–08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   </div>
 
 
