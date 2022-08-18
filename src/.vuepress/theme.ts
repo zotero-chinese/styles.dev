@@ -73,5 +73,5 @@ export default hopeTheme({
     sidebarDisplay: 'none',
     articlePerPage: 100,
   },
-  pure: true,
+  // pure: true,
 });

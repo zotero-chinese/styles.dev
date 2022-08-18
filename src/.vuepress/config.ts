@@ -10,8 +10,8 @@ export default defineUserConfig({
   theme,
   shouldPrefetch: false,
   plugins: [
-    searchPlugin({
-      maxSuggestions: 10
-    }),
+    // searchPlugin({
+    //   maxSuggestions: 10
+    // }),
   ],
 });
