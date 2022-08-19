@@ -11,7 +11,21 @@ tag: generic-base
 
 ::: note 引文
 
-库恩：《科学革命的结构: 第 4 版》，载金吾伦, 胡新和, 译2 版。，北京大学出版社2012年版，第页; Xuetong Fan, Christopher H. Sommers, Food irradiation research and Technology 2 edition. (Blackwell Publishing 2013): 25–26; 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会, 编//中国图书馆学会年会论文集，国家图书馆出版社2011年版，第页: 45–52; M.E. Fourney, Advances in holographic Photoelasticity//Symposium on Applications of Holography in Mechanics(ASME c1971): 17–38; 武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页; Alexander A. Myburg et al., <i>The genome of eucalyptus Grandis</i>, 510 Nature 356–362 (2014); 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》; D. Bawden, <i>Origins and concepts of digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, Mar. 8, 2013.
+  <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版，第页。<br>
+  <sup>2</sup> 同上p.18。<br>
+  <sup>3</sup> 罗豪才等：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52–59页。<br>
+  <sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星, 编//民商法论丛，法律出版社1994年版，第页: 110。<br>
+  <sup>5</sup> 罗豪才等：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52–59页。<br>
+  <sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日第2页。<br>
+  <sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文学位论文。<br>
+  <sup>8</sup> 《包郑照诉苍南县人民政府强制拆除房屋案》[日期不详]。<br>
+  <sup>9</sup> 《陆红霞诉南通市发改委政府信息公开案》2015年。<br>
+  <sup>10</sup> Charles A. Reich, <i>The new Property</i>, 73 (5) Yale Law Journal 733–787 (1964).<br>
+  <sup>11</sup> Louis D. Brandeis, <i>What publicity can Do</i>, Harper’s Weekly 10 (1913).<br>
+  <sup>12</sup> William Alford, To steal a book is an elegant offense: Intellectual property law in Chinese Civilization (Stanford University Press 1995): 98.<br>
+  <sup>13</sup> Department of Transportation Act//Stat.<br>
+  <sup>14</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>1982.<br>
+
 
 :::
 
@@ -21,21 +35,29 @@ tag: generic-base
 
   <div class="csl-bib-body">
   <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">库恩：《科学革命的结构: 第 4 版》，载金吾伦, 胡新和, 译2 版。，北京大学出版社2012年版，第页。</div>
+    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">王名扬：《美国行政法》，北京大学出版社2007年版，第页。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">Xuetong Fan, Christopher H. Sommers, Food irradiation research and Technology 2 edition. (Blackwell Publishing 2013): 25–26.</div>
+    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52–59页。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会, 编//中国图书馆学会年会论文集，国家图书馆出版社2011年版，第页: 45–52。</div>
+    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星, 编//民商法论丛，法律出版社1994年版，第页: 110。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">M.E. Fourney, Advances in holographic Photoelasticity//Symposium on Applications of Holography in Mechanics(ASME c1971): 17–38.</div>
+    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">何海波：《判决书上网》，载《法制日报》2000年5月21日第2页。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">武丽丽、华一新、张亚军等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页。</div>
+    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文学位论文。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, et al., <i>The genome of eucalyptus Grandis</i>, 510 Nature 356–362 (2014).</div>
+    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">《包郑照诉苍南县人民政府强制拆除房屋案》[日期不详]。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》。</div>
+    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">《陆红霞诉南通市发改委政府信息公开案》2015年。</div>
   </div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">D. Bawden, <i>Origins and concepts of digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, Mar. 8, 2013.</div>
+    <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">Charles A. Reich, <i>The new Property</i>, 73 (5) Yale Law Journal 733–787 (1964).</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔9〕</div><div class="csl-right-inline">Louis D. Brandeis, <i>What publicity can Do</i>, Harper’s Weekly 10 (1913).</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔10〕</div><div class="csl-right-inline">William Alford, To steal a book is an elegant offense: Intellectual property law in Chinese Civilization (Stanford University Press 1995).</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔11〕</div><div class="csl-right-inline">Department of Transportation Act//Stat.</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔12〕</div><div class="csl-right-inline"><i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>1982.</div>
   </div>  </div>
 
 
