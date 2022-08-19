@@ -1,12 +1,12 @@
 ---
 title: WHU-School of Law (note, 法学中文)
 category: note
-tag: generic-base
+tag: law
 ---
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->
 
-中国法学引注
+Undefined
 
 
 ::: note 引文
