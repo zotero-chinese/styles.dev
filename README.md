@@ -14,24 +14,7 @@
 
 ## 进展
 
-- [x] `cs:info` 提取
-  - [x] 基本的标题、分类、说明等信息
-  - [ ] 作者、更新时间等信息
-  - [ ] `cs:category` 中英文映射
-- [x] 样式预览
-- [ ] `second-field-align` 选项适配
-- [x] 子文件夹示例数据覆盖：子文件夹存放 `sample-data.json` 和 `sample-cite.json`
-- [ ] 页面详情页添加样式安装链接和样式源文件链接：通过拼接路径产生 URL 写入 md
-- [ ] 样式文件格式化
-  - [ ] 将原预览文件中的简介移入 CSL 文件的 `summary` 字段，以方便脚本调用
-  - [ ] 核对每条样式文件的 self_link ，应指向仓库链接
-  - [ ] id -> uuid （optional）
-  - [ ] 去掉样式文件及其文件夹的编号前缀
-  - [ ] `cs:category -> field` 是否需要不遵循 CSL 规范，添加 thesis（对于学位论文）、other（对于导出标题.csl）等
-  - [ ] 为需要特别适配示例数据的样式文件增加覆盖数据
-
-- [ ] 最终合并 styles 仓库
-- [ ] 哪些样式可以合入上游官方仓库
+[待办事项](https://github.com/zotero-cn/styles/issues/6)
 
 ## 技术路线
 
@@ -51,31 +34,29 @@
 
 ## 运行
 
-1. 安装 [Node.js](https://nodejs.org/zh-cn/) 。
-2. Clone 这个仓库，并在终端中进入库的根目录。
-3. 初始化子模块
+项目运行需要安装 [Node.js](https://nodejs.org/zh-cn/)。
 
-   ```bash
-   git submodule update --init
-   ```
+```bash
 
-4. 安装依赖
+# Clone 这个仓库
+git clone https://github.com/zotero-cn/styles.git
 
-    ```bash
-    yarn install
-    ```
+# 进入项目目录
+cd styles
 
-5. 生成预览
+# 初始化子模块
+git submodule update --init
 
-    ```bash
-    yarn generate
-    ```
+# 安装依赖
+yarn install
 
-6. 启动 VuePress 开发服务器
+# 运行脚本生成预览
+yarn generate
 
-    ```bash
-    yarn dev:vite
-    ```
+# 启动开发服务器
+yarn dev:vite
+
+```
 
 对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将热重载静态页面。
 
@@ -83,4 +64,4 @@
 
 运行与构建请参上文。
 
-如果贡献者使用 Windows ，请尽量不对 `src/**/*.md` 作提交，因为 CRLF -> LF 会带来大量 Git 记录，导致后人无法轻易看到哪些文件有了更新。
+如果贡献者使用 Windows ，请尽量不对 `src/**/*.md` 作提交，因为 CRLF -> LF 会带来大量无用的 Git 记录。
