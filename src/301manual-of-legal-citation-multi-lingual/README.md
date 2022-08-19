@@ -20,31 +20,23 @@ Undefined
 ::: note 书目
 
   <div class="csl-bib-body">
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔1〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">库恩：《科学革命的结构: 第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔2〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔3〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》第2011 年卷卷，国家图书馆出版社2011年版。</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔4〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔5〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">武丽丽、华一新、张亚军、others：《“北斗一号”监控管理网设计与实现》，载《测绘科学》2008年第5期。</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔6〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Alexander A. Myburg et al., <i>The Genome of Eucalyptus Grandis</i>, 510 Nature 356 (2014).</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔7〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。</div>
-  </div>
-    <div class="csl-entry">
-      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔8〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  </div>
-  </div>
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">库恩：《科学革命的结构: 第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》第2011 年卷卷，国家图书馆出版社2011年版。</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">武丽丽、华一新、张亚军、others：《“北斗一号”监控管理网设计与实现》，载《测绘科学》2008年第5期。</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">Alexander A. Myburg et al., <i>The Genome of Eucalyptus Grandis</i>, 510 Nature 356 (2014).</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。</div>
+  </div>  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>  </div>
 
 
 :::
