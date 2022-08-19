@@ -19,7 +19,33 @@ tag: generic-base
 
 ::: note 书目
 
-false
+  <div class="csl-bib-body">
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔1〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">库恩：《科学革命的结构: 第 4 版》，载金吾伦, 胡新和, 译2 版。，北京大学出版社2012年版，第页。</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔2〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Xuetong Fan, Christopher H. Sommers, Food irradiation research and Technology 2 edition. (Blackwell Publishing 2013): 25–26.</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔3〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会, 编//中国图书馆学会年会论文集，国家图书馆出版社2011年版，第页: 45–52。</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔4〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">M.E. Fourney, Advances in holographic Photoelasticity//Symposium on Applications of Holography in Mechanics(ASME c1971): 17–38.</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔5〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">武丽丽、华一新、张亚军等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页。</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔6〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, et al., <i>The genome of eucalyptus Grandis</i>, 510 Nature 356–362 (2014).</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔7〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》。</div>
+  </div>
+    <div class="csl-entry">
+      <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">〔8〕</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">D. Bawden, <i>Origins and concepts of digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, Mar. 8, 2013.</div>
+  </div>
+  </div>
+
 
 :::
 
