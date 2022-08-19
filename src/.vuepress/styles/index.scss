@@ -6,3 +6,13 @@
 .blog-page {
   width: inherit !important; 
 }
+
+
+// second-field-align 适配
+.csl-entry.second-field-align-flush {
+  display: flex;
+}
+.csl-entry.second-field-align-flush .csl-left-margin {
+  float: left;
+  margin-right: 0.5em;
+}
