@@ -4,7 +4,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /logo.png
-heroText: Zotero 中文样式
+heroText: CSL 中文样式
 # heroFullScreen: true
 tagline: 中文样式库，请按样式分类或按领域进行查找。
 actions:

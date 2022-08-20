@@ -3,7 +3,7 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
 
 export default defineUserConfig({
-  title: "Zotero Chinese Styles",
+  title: "CSL 中文样式",
   dest: "dist",
   lang: "zh-CN",
   base: '/styles/',
