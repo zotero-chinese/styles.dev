@@ -15,7 +15,7 @@
   display: none !important;
 }
 
-// second-field-align 适配
+// second-field-align 首行缩进适配
 .csl-entry.second-field-align-flush {
   display: flex;
 }
@@ -23,4 +23,10 @@
 .csl-entry.second-field-align-flush .csl-left-margin {
   float: left;
   margin-right: 0.5em;
+}
+
+// hangingindent 悬挂缩进适配
+.csl-entry.hangingindent-true {
+  text-indent: -2em;
+  padding-left: 2em;
 }
