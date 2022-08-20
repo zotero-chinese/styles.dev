@@ -20,7 +20,7 @@
     "generate": "cd ./lib && node ./generate.js && cd ..",
     "update": "yarn add vuepress@next vuepress-theme-hope@next && yarn install && yarn upgrade"
   },
-  "author": "northword",
+  "author": "zotero-chinese",
   "license": "GPL-3.0",
   "keywords": [
     "vuepress",
