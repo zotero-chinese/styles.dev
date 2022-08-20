@@ -9,7 +9,7 @@ tag: generic-base
 The Chinese GB/T7714-2015 numeric style
 
 
-::: note 引文
+::: note 引注
 
 <sup>[1–8]</sup>
 
@@ -17,18 +17,26 @@ The Chinese GB/T7714-2015 numeric style
 
 
 
-::: note 书目
+::: note 参考文献表
 
   <div class="csl-bib-body">
   <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">科学革命的结构: 第 4 版</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">Food irradiation research and technology</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">面向数字素养的高校图书馆数字服务体系研究</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">Advances in holographic photoelasticity</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">“北斗一号”监控管理网设计与实现</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">The genome of eucalyptus grandis</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">第 29 次中国互联网络发展现状统计报告</div></div>  <div class="csl-entry second-field-align-flush " >
-    <div class="csl-left-margin">Origins and concepts of digital literacy</div></div>  </div>
+    <div class="csl-left-margin">科学革命的结构: 第 4 版</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">Food irradiation research and technology</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">面向数字素养的高校图书馆数字服务体系研究</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">Advances in holographic photoelasticity</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">“北斗一号”监控管理网设计与实现</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">The genome of eucalyptus grandis</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">第 29 次中国互联网络发展现状统计报告</div></div> 
+  <div class="csl-entry second-field-align-flush " >
+    <div class="csl-left-margin">Origins and concepts of digital literacy</div></div> 
+  </div>
 
 
 :::
