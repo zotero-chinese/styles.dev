@@ -38,8 +38,9 @@ export default hopeTheme({
       link: "/tag/",
     },
     {
-      text: "Timeline",
-      link: "/timeline/",
+      text: "CSL 中文文档",
+      icon: 'blog',
+      link: "https://zotero-cn.github.io/csl-doc-chinese/",
     },
   ],
   sidebar: false,
