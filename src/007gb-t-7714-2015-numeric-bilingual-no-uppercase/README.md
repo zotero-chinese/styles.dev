@@ -50,6 +50,6 @@ tag: generic-base
 
 ## 下载链接  
 
-- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/gb-t-7714-2015/007gb-t-7714-2015-numeric-bilingual-no-uppercase/007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl)  
-- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/gb-t-7714-2015/007gb-t-7714-2015-numeric-bilingual-no-uppercase/007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl)  
+- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/007gb-t-7714-2015-numeric-bilingual-no-uppercase/007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl)  
+- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/007gb-t-7714-2015-numeric-bilingual-no-uppercase/007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl)  
 - Gitee JsDeliver 源待添加  

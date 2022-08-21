@@ -34,6 +34,6 @@ tag: generic-base
 
 ## 下载链接  
 
-- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/gb-t-7714-2015/014gb-t-7714-2015-numeric-auup-bilan-ce/014gb-t-7714-2015-numeric-auup-bilan-ce.csl)  
-- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/gb-t-7714-2015/014gb-t-7714-2015-numeric-auup-bilan-ce/014gb-t-7714-2015-numeric-auup-bilan-ce.csl)  
+- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/014gb-t-7714-2015-numeric-auup-bilan-ce/014gb-t-7714-2015-numeric-auup-bilan-ce.csl)  
+- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/014gb-t-7714-2015-numeric-auup-bilan-ce/014gb-t-7714-2015-numeric-auup-bilan-ce.csl)  
 - Gitee JsDeliver 源待添加  

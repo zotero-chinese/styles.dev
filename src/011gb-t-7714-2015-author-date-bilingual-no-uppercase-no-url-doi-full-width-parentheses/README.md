@@ -34,6 +34,6 @@ tag:
 
 ## 下载链接  
 
-- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/gb-t-7714-2015/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl)  
-- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/gb-t-7714-2015/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl)  
+- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl)  
+- [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl)  
 - Gitee JsDeliver 源待添加  
