@@ -30,7 +30,7 @@ Undefined
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, others. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg, D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362</div>

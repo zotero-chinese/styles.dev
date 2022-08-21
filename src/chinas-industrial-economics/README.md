@@ -24,7 +24,7 @@ Undefined
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和译. 北京: 北京大学出版社, 2012.</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, others. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5):8-9.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5):8-9.</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[M/OL]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>. 2012.</div>

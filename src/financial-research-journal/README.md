@@ -24,7 +24,7 @@ Financial Research Journal author-date style
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩，2012，《科学革命的结构: 第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽、华一新、张亚军和others，2008，《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期，第8~9页。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽、华一新、张亚军和刘英敏，2008，《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期，第8~9页。</div>
    </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》. 。</div>

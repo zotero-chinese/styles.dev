@@ -30,7 +30,7 @@ hzau-thesis华中农业大学硕博论文
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
     <div class="csl-left-margin">6. 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52</div> </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
-    <div class="csl-left-margin">7. 武丽丽, 华一新, 张亚军, others. “北斗一号”监控管理网设计与实现. 测绘科学. 2008, 33(5): 8–9</div> </div>
+    <div class="csl-left-margin">7. 武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现. 测绘科学. 2008, 33(5): 8–9</div> </div>
   <div class="csl-entry second-field-align-flush hangingindent-false"> 
     <div class="csl-left-margin">8. 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. </div> </div>
 </div>
