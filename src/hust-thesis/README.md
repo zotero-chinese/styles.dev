@@ -1,7 +1,7 @@
 --- 
 title: HUST-Thesis华中科技大学学位论文 
 category: numeric 
-tag: social_science 
+tag: generic-base 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
