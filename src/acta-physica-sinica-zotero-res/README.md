@@ -1,7 +1,7 @@
 --- 
 title: Acta Physica Sinica (物理学报) 
 category: numeric 
-tag: generic-base 
+tag: physics 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  

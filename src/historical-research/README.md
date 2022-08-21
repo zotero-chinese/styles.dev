@@ -1,7 +1,7 @@
 --- 
 title: Historical Research (note, 中文) 
 category: note 
-tag: generic-base 
+tag: history 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  

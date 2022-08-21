@@ -1,7 +1,7 @@
 --- 
 title: 中国工业经济 
 category: author-date 
-tag: generic-base 
+tag: social_science 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  

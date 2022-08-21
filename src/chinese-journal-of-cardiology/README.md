@@ -1,7 +1,7 @@
 --- 
 title: 中华心血管病杂志 
 category: numeric 
-tag: generic-base 
+tag: medicine 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  

@@ -1,7 +1,7 @@
 --- 
 title: TCSAE农业工程学报 
 category: numeric 
-tag: generic-base 
+tag: engineering 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
