@@ -1,12 +1,12 @@
 --- 
-title: Comparative Economic and Social Systems 
+title: 经济社会体制比较 
 category: author-date 
 tag: social_science 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-comparative economic and social systems author-date style  
+Undefined  
 
 ::: note 引注  
 

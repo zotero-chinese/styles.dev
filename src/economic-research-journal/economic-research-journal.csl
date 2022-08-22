@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="first" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>Economic Research Journal</title>
-    <title-short>ERJ (author-date)</title-short>
+    <title>经济研究</title>
+    <title-short>ERJ</title-short>
     <id>http://www.zotero.org/styles/economic-research-journal</id>
     <link href="http://www.zotero.org/styles/economic-research-journal" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
@@ -12,13 +12,8 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <contributor>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <summary>Economic Research Journal author-date style</summary>
     <updated>2022-08-07T03:28:57+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

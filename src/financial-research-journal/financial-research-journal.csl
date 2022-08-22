@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="first" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>金融研究（Financial Research Journal）</title>
-    <title-short>FRJ(author-date)</title-short>
+    <title>金融研究</title>
     <id>http://www.zotero.org/styles/financial-research-journal</id>
-    <link rel="self" href="http://www.zotero.org/styles/financial-research-journa"/>
+    <link rel="self" href="http://www.zotero.org/styles/financial-research-journal"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://www.jryj.org.cn/CN/column/column3.shtml" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <contributor>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <summary>Financial Research Journal author-date style</summary>
+    <issn>1002-7246</issn>
     <updated>2021-07-20T00:15:43+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

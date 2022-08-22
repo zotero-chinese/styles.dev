@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>Journal of Management World</title>
-    <title-short>JMW (author-date)</title-short>
+    <title>管理世界</title>
     <id>http://www.zotero.org/styles/journal-of-management-world</id>
     <link href="http://www.zotero.org/styles/journal-of-management-world" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
@@ -11,16 +10,8 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <contributor>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Raymond</name>
-    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>Journal of Management World author-date style</summary>
     <updated>2021-06-22T03:28:57+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

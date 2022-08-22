@@ -1,12 +1,12 @@
 --- 
-title: 金融研究（Financial Research Journal） 
+title: 金融研究 
 category: author-date 
 tag: social_science 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-Financial Research Journal author-date style  
+Undefined  
 
 ::: note 引注  
 

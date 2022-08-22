@@ -1,12 +1,12 @@
 --- 
-title: Historical Research (note, 中文) 
+title: 历史研究 
 category: note 
 tag: history 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-历史研究  
+Undefined  
 
 ::: note 引注  
 

@@ -1,12 +1,12 @@
 --- 
-title: Journal of Management World 
+title: 管理世界 
 category: author-date 
 tag: generic-base 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-Journal of Management World author-date style  
+Undefined  
 
 ::: note 引注  
 

@@ -1,12 +1,12 @@
 --- 
-title: Accounting Research 
+title: 会计研究 
 category: author-date 
 tag: social_science 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-The Chinese GB/T7714-2015 author-date style  
+Undefined  
 
 ::: note 引注  
 
