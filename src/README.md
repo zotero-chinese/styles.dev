@@ -22,12 +22,12 @@ features:
     link: /category/numeric/
 
   - title: “作者-日期”制
-    icon: comment
+    icon: profile
     details: 
     link: /category/author-date/
 
   - title: 脚注制
-    icon: info
+    icon: format
     details: 
     link: /category/note/
 
@@ -37,7 +37,7 @@ features:
     link: /tag/gb/
 
   - title: 学位论文样式
-    icon: lock
+    icon: study
     details: 
     link: /tag/thesis/
 

@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "https://github.com/zotero-cn/styles",
 
-  repoDisplay: false,
+  repoDisplay: true,
 
   docsDir: "docs",
 
@@ -41,6 +41,11 @@ export default hopeTheme({
       text: "CSL 中文文档",
       icon: 'blog',
       link: "https://zotero-cn.github.io/csl-doc-chinese/",
+    },
+    {
+      text: "请求样式",
+      icon: 'ask',
+      link: "https://github.com/zotero-cn/styles/issues/new/choose",
     },
   ],
   sidebar: false,
