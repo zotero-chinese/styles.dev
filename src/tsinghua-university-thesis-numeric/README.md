@@ -23,30 +23,29 @@ tag: generic-base
 
 ::: note 参考文献表  
 
-<div class="csl-bib-body">
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张昆, 冯立群, 余昌钰, 等. 机器人柔性手腕的球面齿轮设计研究[J]. 清华大学学报: 自然科学版, 1994, 34(2): 1-7.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">竺可桢. 物理学论[M]. 北京: 科学出版社, 1973: 56-60.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor[C]//White H J, Smith R. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44-46.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">郑开青. 通讯系统模拟及软件[D]. 北京: 清华大学无线电系, 1987.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">中华人民共和国国家技术监督局. 中华人民共和国国家标准-量与单位: GB 3100—3102[S]. 北京: 中国标准出版社, 1994.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">姜锡洲. 一种温热外敷药制备方案: 中国, 88105607.3[P]. 1980-07-26.</div>
-   </div>
-  <div class="csl-entry second-field-align-flush hangingindent-false"> 
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Merkt F, Mackenzie S R, Softley T P. Rotational autoionization dynamics in high rydberg states of nitrogen[J/OL]. The Journal of chemical physics, 1995, 103: 4509-4518. DOI:<a href="https://doi.org/10.1063/1.470639">10.1063/1.470639</a>.</div>
-   </div>
-</div>
-  
+  </div>
+</div>  
 
 :::  
 
