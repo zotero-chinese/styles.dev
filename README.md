@@ -47,6 +47,10 @@ cd styles
 # 初始化子模块
 git submodule update --init
 
+# 如果是第一次接触 Node.js 或运行后续命令时提示 yarn 命令不存在，
+# 请执行下一行以安装 yarn 包管理器
+npm install -g yarn
+
 # 安装依赖
 yarn install
 
@@ -58,7 +62,7 @@ yarn dev:vite
 
 ```
 
-对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将热重载静态页面。
+对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将热更新静态页面。
 
 ## 贡献指南
 
