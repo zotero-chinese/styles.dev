@@ -1,12 +1,12 @@
 --- 
 title: 中国行政管理 
 category: numeric 
-tag: generic-base 
+tag: political_science 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
 
-1. 按照语言显示“等”或“et al.”；2. 姓名缩写不加点；3. 中文不加页码；4. 英文题目为首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体。  
+1. 按照语言显示“等”或“et al.”；2. 姓名缩写不加点；3. 中文不加页码；4. 英文题目为单词首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体。  
 
 ::: note 引注  
 
@@ -18,19 +18,19 @@ tag: generic-base
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和译. 2 版. 北京, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food Irradiation Research And Technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. <i>Food Irradiation Research And Technology</i>. 2nd ed. Ames, Iowa, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京, 2011: 45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances In Holographic Photoelasticity//<i>Symposium on Applications of Holography in Mechanics</i>, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances In Holographic Photoelasticity//<i>Symposium on Applications of Holography in Mechanics</i>, August 23–25, 1971, University of Southern California, Los Angeles, California. New York, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008,（5）.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008（5）.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The Genome Of Eucalyptus Grandis. <i>Nature</i>, 2014, 510: 356-362.</div>
