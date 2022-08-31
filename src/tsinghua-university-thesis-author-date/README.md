@@ -10,13 +10,13 @@ tag: generic-base
 
 ::: note 引注  
 
-  (Baker et al., 1995)<br>
-  (汪冰, 1997)<br>
-  (杨宗英, 1996)<br>
-  (Crane, 1972)<br>
-  (Stieg, 1981)<br>
-  (Kennedy et al., 1975)<br>
-  (Jha et al., 2004)<br>
+(Baker et al., 1995)<br>
+(汪冰, 1997)<br>
+(杨宗英, 1996)<br>
+(Crane, 1972)<br>
+(Stieg, 1981)<br>
+(Kennedy et al., 1975)<br>
+(Jha et al., 2004)<br>
   
 
 :::  
