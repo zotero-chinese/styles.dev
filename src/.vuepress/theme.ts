@@ -17,7 +17,7 @@ export default hopeTheme({
   repo: "https://github.com/zotero-cn/styles",
 
   repoDisplay: true,
-
+  editLink: false,
   docsDir: "docs",
 
   displayFooter: true,
@@ -48,7 +48,7 @@ export default hopeTheme({
       link: "https://github.com/zotero-cn/styles/issues/new/choose",
     },
   ],
-  sidebar: false,
+  // sidebar: false,
 
 
   plugins: {
@@ -59,25 +59,10 @@ export default hopeTheme({
     //   json: true,
     //   rss: true,
     // },
-
-    mdEnhance: {
-      align: true,
-      // codetabs: true,
-      // demo: true,
-      flowchart: true,
-      footnote: true,
-      imageMark: true,
-      presentation: true,
-      sub: true,
-      sup: true,
-      // tex: true,
-      vpre: true,
-    },
-
   },
   blog:{
     sidebarDisplay: 'none',
     articlePerPage: 100,
   },
-  // pure: true,
+  pure: true,
 });
