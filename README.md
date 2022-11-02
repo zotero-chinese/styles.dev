@@ -1,8 +1,8 @@
 # Styles
 
 - CSL 官方仓库：<https://github.com/citation-style-language/styles>
-- GB/T 7714相关的csl以及Zotero使用技巧及教程：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
-- 中文国关及小部分综合社科期刊CSL: <https://github.com/EdwardSaidZhou/CSL-Chinese-IR-CSSCI-Journals>
+- GB/T 7714 相关的 csl 以及 Zotero 使用技巧及教程：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
+- 中文国关及小部分综合社科期刊 CSL: <https://github.com/EdwardSaidZhou/CSL-Chinese-IR-CSSCI-Journals>
 
 ## 这个仓库
 
@@ -54,15 +54,24 @@ npm install -g yarn
 # 安装依赖
 yarn install
 
-# 运行脚本生成预览
-yarn generate
-
-# 启动开发服务器
-yarn dev:vite
+# 启动预览脚本和网页服务器
+yarn dev
 
 ```
 
-对 CSL 文件做出更改后，只需重新运行 `yarn generate` ，即可生成新的预览。VuePress 将热更新静态页面。
+对 CSL 文件做出更改后，脚本会自动生成更改文件对应的预览。VuePress 将热更新静态页面。
+
+如果需要单独操作，可以参考以下：
+
+```bash
+
+# 运行脚本生成全部 CSL 文件的预览
+yarn generate
+
+# 启动 VuePress 开发服务器
+yarn dev:vite
+
+```
 
 ## 贡献指南
 
