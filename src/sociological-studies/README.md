@@ -2,6 +2,8 @@
 title: 社会学研究 
 category: author-date 
 tag: sociology 
+dir:
+    link: true 
 --- 
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->  
@@ -32,8 +34,19 @@ tag: sociology
 
 <!-- more -->  
 
+
 ## 下载链接  
 
-- [从 GitHub 安装样式](https://github.com/zotero-cn/styles/./raw/main/src/sociological-studies/sociological-studies.csl)  
+请从以下任意一个链接安装样式。 
+- [从 GitHub 安装样式（最新）](https://github.com/zotero-cn/styles/./raw/main/src/sociological-studies/sociological-studies.csl)  
+- [从 Jsdelivr 安装样式（GitHub 镜像，可能有 24h 延迟）](https://cdn.jsdelivr.net/gh/zotero-cn/styles@main/src/sociological-studies/sociological-studies.csl) 
+- [从 Gitee 安装样式（国内镜像）](https://gitee.com/zotero-chinese/styles/./raw/main/src/sociological-studies/sociological-studies.csl) 
+
+## 查看样式源码 
+
 - [在 GitHub 查看样式文件](https://github.com/zotero-cn/styles/./tree/main/src/sociological-studies/sociological-studies.csl)  
-- Gitee JsDeliver 源待添加  
+- [在 Gitee 查看样式](https://gitee.com/zotero-chinese/styles/./tree/main/src/sociological-studies/sociological-studies.csl) 
+
+## 调试信息 
+
+[点此查看完整测试结果](./test.md) 

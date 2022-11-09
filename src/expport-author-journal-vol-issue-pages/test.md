@@ -1,3 +1,10 @@
+--- 
+title: 导出作者期刊卷期页Export Author Journal测试结果 
+article: false 
+dir:
+    index: false 
+--- 
+
 # 导出作者期刊卷期页Export Author Journal测试
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->

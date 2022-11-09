@@ -1,3 +1,10 @@
+--- 
+title: cas-like-thesis测试结果 
+article: false 
+dir:
+    index: false 
+--- 
+
 # cas-like-thesis测试
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->

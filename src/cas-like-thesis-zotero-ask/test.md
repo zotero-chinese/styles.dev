@@ -1,3 +1,10 @@
+--- 
+title: cas-like-thesisaa测试结果 
+article: false 
+dir:
+    index: false 
+--- 
+
 # cas-like-thesisaa测试
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->

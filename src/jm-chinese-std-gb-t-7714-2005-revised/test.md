@@ -1,3 +1,10 @@
+--- 
+title: JM Chinese Std GB/T 7714-2005-revised测试结果 
+article: false 
+dir:
+    index: false 
+--- 
+
 # JM Chinese Std GB/T 7714-2005-revised测试
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->
