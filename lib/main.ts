@@ -11,7 +11,7 @@ const arg = argv[2],
   dist = "dist";
 
 function main() {
-  fs.mkdirSync(dist);
+  fs.ensureDir(dist);
 
   if (arg == "watch") {
     serve();
@@ -42,7 +42,7 @@ function build() {
   FastGlob.globSync("**/*.csl").map((path) => {
     result.push(getInfo(path));
   });
-  fs.writeJSONSync(`${dist}/result.json`, result, { spaces: 2 });
+  fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
 }
 
 main();
