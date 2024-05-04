@@ -1,0 +1,297 @@
+[
+	{
+		"id": "http://zotero.org/users/7424907/items/6WYFZ9U2",
+		"type": "article-journal",
+		"abstract": "Birnessite was synthesized by a simple hydrothermal method and used for low-temperature selective catalytic reduction of NO with NH3 (NH3-SCR). Physicochemical characterizations showed that the exposure of surface oxygen vacancies on birnessite was aﬀected by heat treatment through the removal of water molecules. The sample heat-treated at a temperature of 150 °C, having the most exposed surface oxygen vacancies, exhibited excellent catalytic activity with 100% NO removal rate at 99 °C. In addition, density functional theory (DFT) calculations were combined with TPD techniques and in situ Fourier transform infrared (FTIR) to disclose the mechanism of NH3-SCR over birnessite. The results indicated that surface oxygen vacancies played a vital role in adsorption and oxidiation of reactant molecules and participated in the formation of acidic sites. This study shows that regulation of the exposure of surface oxygen vacancies of birnessite significantly improves its low-temperature NH3-SCR catalytic activity.",
+		"archive": "Q2",
+		"archive_location": "工程技术3区",
+		"call-number": "4.33",
+		"container-title": "Industrial & Engineering Chemistry Research",
+		"DOI": "10.1021/acs.iecr.0c00188",
+		"ISSN": "0888-5885, 1520-5045",
+		"issue": "33",
+		"journalAbbreviation": "Ind Eng Chem Res",
+		"language": "en",
+		"license": "4.0129",
+		"note": "JCR分区: Q2\n中科院分区升级版: 工程技术3区\n中科院分区基础版: 工程技术3区\n影响因子: 4.33\n5年影响因子: 3.99\nEI: 是",
+		"page": "14606-14615",
+		"source": "工程：化工3区",
+		"title": "Birnessite as a Highly Efficient Catalyst for Low-Temperature NH<sub>3</sub>-SCR: The Vital Role of Surface Oxygen Vacancies",
+		"title-short": "Birnessite as a Highly Efficient Catalyst for Low-Temperature NH <sub>3</sub> -SCR",
+		"URL": "https://pubs.acs.org/doi/10.1021/acs.iecr.0c00188",
+		"volume": "59",
+		"author": [
+			{
+				"family": "Fang",
+				"given": "Xue"
+			},
+			{
+				"family": "Liu",
+				"given": "Yongjun"
+			},
+			{
+				"family": "Cen",
+				"given": "Wanglai"
+			},
+			{
+				"family": "Cheng",
+				"given": "Yan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7424907/items/VU234ILD",
+		"type": "article-journal",
+		"abstract": "Cobalt-based catalyst supported on strontium-doped ceria was prepared by impregnation method. The physical and chemical properties were investigated by various technologies and the catalytic combustion of toluene was evaluated at fixed-bed. The possible reaction process of toluene oxidation on Co/Sr-CeO2 was also investigated. The results showed that Sr doping enlarges the specific surface area of CeO2, accompanied by strong interaction between Co and Ce and high dispersion of Co oxides. Sr doping increases the lattice defects of CeO2, which creates oxygen vacancies and enhances the oxygen mobility in Co/Sr-CeO2. Sr doping also changes the electronic characteristics of Co on CeO2 and improves the redox properties of Co/CeO2. The introduction of Sr to Co/CeO2 catalyst may improve the catalytic performance in total oxidation of toluene. In addition, Co/Sr-CeO2 catalyst shows lower light-off temperature than Co/CeO2 catalyst and has good thermal stability in the long-term testing. Toluene is degraded into phenyl and methyl groups at 235 °C for Co/Sr-CeO2 and 255 °C for Co/CeO2 because of the cleavage of C–C between the benzene ring and methyl, and it is completely oxidized into CO2 and H2O at 330 °C for Co/Sr-CeO2 and 380 °C for Co/CeO2.",
+		"call-number": "7.39",
+		"container-title": "Applied Surface Science",
+		"DOI": "10.1016/j.apsusc.2018.03.070",
+		"ISSN": "0169-4332",
+		"journalAbbreviation": "Appl Surf Sci",
+		"language": "en",
+		"license": "7.39",
+		"note": "JCR分区: Q1\n中科院分区升级版: 材料科学1区\n中科院分区基础版: 工程技术2区\n影响因子: 7.39\n5年影响因子: 5.905\nEI: 是",
+		"page": "145-153",
+		"source": "ScienceDirect",
+		"title": "Enhancing performance of Co/CeO<sub>2</sub> catalyst by Sr doping for catalytic combustion of toluene",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0169433218307426",
+		"volume": "445",
+		"author": [
+			{
+				"family": "Feng",
+				"given": "Xinyi"
+			},
+			{
+				"family": "Guo",
+				"given": "Jiaxiu"
+			},
+			{
+				"family": "Wen",
+				"given": "Xinru"
+			},
+			{
+				"family": "Xu",
+				"given": "Mingyang"
+			},
+			{
+				"family": "Chu",
+				"given": "Yinghao"
+			},
+			{
+				"family": "Yuan",
+				"given": "Shandong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7424907/items/NDXYMG8G",
+		"type": "article-journal",
+		"abstract": "Co-based catalysts are the most promising catalysts in catalytic oxidation of VOCs. Precious metal doping was adopted to improve the catalytic activity of toluene on Co3O4 catalysts, but greatly increased its cost, too. It is found that a small amount of rare earth (Ce, Pr, Sm and Nd) doping can dramatically promote the catalytic activity of Co3O4. Especially, the Nd-doped Co3O4 catalyst exhibits excellent catalytic activity with a toluene removal rate of 90% at 162.1 °C, which is even better than that of Pt-doped Co3O4. Compared with other rare earth metal doping, the Nd doping leads to a higher ratio of Co3+/Co2+ and has more oxygen vacancies. The in situ DRIFTS experiments show that the lattice oxygen of Nd–Co sample can be utilized at a quite low temperature, while that of pure Co3O4 cannot engage in oxidation reaction when the temperature is below 200 °C, which visually demonstrates the main reason for the improved catalytic performance of Nd–Co catalyst.",
+		"container-title": "Journal of Rare Earths",
+		"DOI": "10.1016/j.jre.2022.09.019",
+		"ISSN": "1002-0721",
+		"journalAbbreviation": "J Rare Earths",
+		"language": "en",
+		"license": "4.63",
+		"note": "JCR分区: Q1\n中科院分区升级版: 化学2区\n中科院分区基础版: 化学2区\n影响因子: 4.63\n5年影响因子: 3.326\nEI: 是",
+		"source": "ScienceDirect",
+		"title": "High catalytic performance of neodymium modified Co3O4 for toluene oxidation",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1002072122002769",
+		"author": [
+			{
+				"family": "Hu",
+				"given": "Yanqiong"
+			},
+			{
+				"family": "Zhang",
+				"given": "Luyue"
+			},
+			{
+				"family": "Zhang",
+				"given": "Jianbei"
+			},
+			{
+				"family": "Liu",
+				"given": "Yongjun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7424907/items/KBCHYT6U",
+		"type": "article-journal",
+		"abstract": "Oxygen vacancy engineering is a proven method to promote catalytic performance. In this paper, a series of alkaline earth metal-doped layered MnO2 catalysts were prepared to modulate the oxygen vacancies in MnO2 and applied to catalytic oxidation of toluene at low-temperature. Various characterizations and DFT calculations show that the alkaline earth metals enter the MnO2 lattice, leading to the distortion of the lattice and the formation of oxygen vacancies, which eventually lead to the activation of the lattice oxygen. Ba-doped MnO2 shows the highest content of oxygen vacancies and the highest lattice oxygen activity, thus exhibiting the best low-temperature catalytic performance for toluene (T90 = 182 °C). This work provides an innovative approach for the construction of oxygen vacancies on high-performance catalysts for toluene oxidation.",
+		"container-title": "Fuel",
+		"DOI": "10.1016/j.fuel.2022.126104",
+		"ISSN": "0016-2361",
+		"issue": "P1",
+		"journalAbbreviation": "Fuel",
+		"language": "en",
+		"license": "8.04",
+		"note": "JCR分区: Q1\n中科院分区升级版: 工程技术1区\n中科院分区基础版: 工程技术2区\n影响因子: 8.04\n5年影响因子: 6.63\nEI: 是",
+		"page": "126104",
+		"source": "ScienceDirect",
+		"title": "Construction of oxygen vacancies in δ-MnO<sub>2</sub> for promoting low-temperature toluene oxidation",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0016236122029283",
+		"volume": "332",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Jianbei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Luyue"
+			},
+			{
+				"family": "Cheng",
+				"given": "Yan"
+			},
+			{
+				"family": "Liu",
+				"given": "Yongjun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7424907/items/623T34PY",
+		"type": "article-journal",
+		"abstract": "Environmentally benign CeO2–WO3/TiO2 catalysts are promising alternatives to commercial toxic V2O5–WO3/TiO2 for controlling NOx emission via selective catalytic reduction (SCR), but the insufficient catalytic activity of CeO2–WO3/TiO2 catalysts is one of the obstacles in their applications because of a lack of an in-depth understanding of the CeO2–WO3 interactions. Herein, we design a Ce1–W1/TiO2 model catalyst by anchoring Ce1–W1 atom pairs on anatase TiO2(001) to investigate the synergy between Ce and W in SCR. A series of characterizations combined with density functional theory calculations and in situ diffuse-reflectance infrared Fourier-transform experiments reveal that there exists a strong electronic interaction within Ce1–W1 atom pairs, leading to a much better SCR performance of Ce1–W1/TiO2 compared with that of Ce1/TiO2 and W1/TiO2. The Ce1–W1 synergy not only shifts down the lowest unoccupied states of Ce1 near the Fermi level, thus enhancing the abilities in adsorbing and oxidizing NH3 but also makes the frontier orbital electrons of W1 delocalized, thus accelerating the activation of O2. The deep insight of the Ce–W synergy may assist in the design and development of efficient catalysts with an SCR activity as high as or even higher than V2O5–WO3/TiO2.",
+		"container-title": "Environmental Science & Technology",
+		"DOI": "10.1021/acs.est.2c00482",
+		"ISSN": "0013-936X",
+		"issue": "10",
+		"journalAbbreviation": "Environ Sci Technol",
+		"language": "en",
+		"license": "11.36",
+		"note": "EI: 是\n中文核心期刊/北大核心: 否\nCSSCI/南大核心: 否\nCSCD: 否\n中国科技核心期刊: 否\npublisher: American Chemical Society",
+		"page": "6631-6638",
+		"source": "ACS Publications",
+		"title": "Abatement of Nitrogen Oxides via Selective Catalytic Reduction over Ce1–W1 Atom-Pair Sites",
+		"URL": "https://doi.org/10.1021/acs.est.2c00482",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Fang",
+				"given": "Xue"
+			},
+			{
+				"family": "Qu",
+				"given": "Weiye"
+			},
+			{
+				"family": "Qin",
+				"given": "Tian"
+			},
+			{
+				"family": "Hu",
+				"given": "Xiaolei"
+			},
+			{
+				"family": "Chen",
+				"given": "Liwei"
+			},
+			{
+				"family": "Ma",
+				"given": "Zhen"
+			},
+			{
+				"family": "Liu",
+				"given": "Xi"
+			},
+			{
+				"family": "Tang",
+				"given": "Xingfu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					17
+				]
+			]
+		}
+	}
+]

@@ -2,36 +2,32 @@
   "name": "styles",
   "version": "1.0.0",
   "description": "CSL 中文样式库",
+  "type": "module",
   "scripts": {
-    "dev": "concurrently \"cd ./lib && node ./generate.js watch && cd .. \" \"vuepress-vite dev src\"",
-    "generate": "cd ./lib && node ./generate.js && cd ..",
-    "dev:vite": "vuepress-vite dev src",
-    "build:vite": "vuepress-vite build src",
-    "build:webpack": "vuepress-webpack build src",
-    "update": "yarn add vuepress@next vuepress-theme-hope@next && yarn install && yarn upgrade"
+    "dev": "tsx ./lib/main.ts watch",
+    "build": "tsx ./lib/main.ts all"
   },
   "author": "zotero-chinese",
   "license": "GPL-3.0",
   "keywords": [
-    "vuepress",
+    "csl",
     "zotero",
     "styles",
     "citeproc-js"
   ],
-  "dependencies": {
-    "@vuepress/cli": "2.0.0-beta.53",
-    "@vuepress/client": "2.0.0-beta.53",
-    "@vuepress/plugin-search": "2.0.0-beta.53",
-    "sass-loader": "13.1.0",
-    "vue": "3.2.41",
-    "vuepress-theme-hope": "2.0.0-beta.116",
-    "vuepress-vite": "2.0.0-beta.53",
-    "chokidar": "3.5.3",
-    "concurrently": "7.4.0"
-  },
   "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@types/node": "^20.12.8",
+    "chokidar": "3.5.3",
+    "citeproc": "2.4.63",
+    "concurrently": "7.4.0",
     "cross-env": "7.0.3",
-    "markdownlint-cli": "0.32.1",
-    "prettier": "2.7.1"
+    "eslint": "^9.2.0",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
+    "globals": "^15.1.0",
+    "tsx": "^4.9.1",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0"
   }
 }
