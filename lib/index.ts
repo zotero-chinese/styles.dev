@@ -5,7 +5,10 @@ import FastGlob from "fast-glob";
 import fs from "fs-extra";
 import consola from "consola";
 
-import { run } from "./generate.js";
+// import { isMainThread } from "worker_threads";
+// import Tinypool from "tinypool";
+
+import generate from "./generate.js";
 
 const arg = argv[2],
   src = "src",
@@ -17,9 +20,9 @@ async function main() {
   if (arg == "watch") {
     serve();
   } else if (arg == "all") {
-    build();
+    await build();
   } else if (typeof arg == "string") {
-    run(arg);
+    generate(arg);
   } else {
     consola.error("需要指明参数");
     exit(1);
@@ -39,7 +42,7 @@ function serve() {
       console.clear();
       consola.info(`${path} changed. \n`);
       try {
-        const result = run(path);
+        const result = generate(path);
         console.log(result.bibliography);
       } catch (e) {
         consola.error(e);
@@ -48,14 +51,45 @@ function serve() {
     });
 }
 
-function build() {
-  let result: StyleFullResult[] = [];
-  FastGlob.globSync("**/*.csl").map((path) => {
-    consola.log(`处理 ${path}`);
-    result.push(run(path));
-    fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
-  });
+async function build() {
+  console.time("build");
+  const result = await Promise.all(
+    FastGlob.globSync("**/*.csl").map(async (path) => {
+      consola.log(`${path}`);
+      return generate(path);
+    })
+  );
+  fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
+  console.timeEnd("build");
 }
+
+// 尝试使用 worker 运行缩短时间
+// async function build() {
+//   if (isMainThread) {
+//     console.time("build");
+//     let result: StyleFullResult[] = [];
+
+//     const pool = new Tinypool({
+//       filename: "./dist/generate.js",
+//     });
+
+//     result = await Promise.all(
+//       FastGlob.globSync("**/*.csl").map((path) => {
+//         // (async function () {
+//         //   console.log(await  pool.run( path ););
+//         // })();
+
+//         return pool.run(path);
+//       })
+//     );
+//     fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
+//     console.timeEnd("build");
+//   } else {
+//     module.exports = (path: string) => {
+//       return run(path);
+//     };
+//   }
+// }
 
 main().catch((err) => {
   consola.error(err);

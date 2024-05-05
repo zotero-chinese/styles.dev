@@ -28,6 +28,7 @@
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
     "globals": "^15.1.0",
+    "tinypool": "^0.8.4",
     "tsx": "^4.9.1",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.8.0"

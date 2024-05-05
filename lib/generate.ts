@@ -26,7 +26,7 @@ import { customFields } from "./customFields.js";
  * @param  cite_file - 使用的引文列表文件路径
  * @returns   包含样式元数据和预览的对象/字典，其键值对见函数内 item 变量。
  */
-export function run(
+export default function generate(
   csl_file: string,
   data_file: string = "./lib/data/default-data.json",
   cite_file: string = "./lib/data/default-cite.json"
