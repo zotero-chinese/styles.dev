@@ -3,14 +3,15 @@ import { argv, cwd, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
 import fs from "fs-extra";
+import consola from "consola";
 
-import { getInfo } from "./generate.js";
+import { run } from "./generate.js";
 
 const arg = argv[2],
   src = "src",
   dist = "dist";
 
-function main() {
+async function main() {
   fs.ensureDir(dist);
 
   if (arg == "watch") {
@@ -18,7 +19,10 @@ function main() {
   } else if (arg == "all") {
     build();
   } else if (typeof arg == "string") {
-    getInfo(arg);
+    run(arg);
+  } else {
+    consola.error("需要指明参数");
+    exit(1);
   }
 }
 
@@ -29,20 +33,31 @@ function serve() {
     ignoreInitial: true, // 初始化时忽略已有文件的 add 和 adddir 事件
   })
     .on("ready", () => {
-      console.log("已监听 src 目录");
+      consola.ready("已监听 src 目录");
     })
     .on("change", (path, stats) => {
-      // getInfo(path);
-      console.log(path, stats);
+      console.clear();
+      consola.info(`${path} changed. \n`);
+      try {
+        const result = run(path);
+        console.log(result.bibliography);
+      } catch (e) {
+        consola.error(e);
+        exit(1);
+      }
     });
 }
 
 function build() {
-  let result: StyleInfo[] = [];
+  let result: StyleFullResult[] = [];
   FastGlob.globSync("**/*.csl").map((path) => {
-    result.push(getInfo(path));
+    consola.log(`处理 ${path}`);
+    result.push(run(path));
+    fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
   });
-  fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
 }
 
-main();
+main().catch((err) => {
+  consola.error(err);
+  exit(1);
+});

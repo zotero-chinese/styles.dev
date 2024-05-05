@@ -4,8 +4,8 @@
   "description": "CSL 中文样式库",
   "type": "module",
   "scripts": {
-    "dev": "tsx ./lib/main.ts watch",
-    "build": "tsx ./lib/main.ts all"
+    "dev": "tsx ./lib/index.ts watch",
+    "build": "tsx ./lib/index.ts all"
   },
   "author": "zotero-chinese",
   "license": "GPL-3.0",
@@ -17,10 +17,12 @@
   ],
   "devDependencies": {
     "@eslint/js": "^9.2.0",
+    "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.12.8",
     "chokidar": "3.5.3",
     "citeproc": "2.4.63",
     "concurrently": "7.4.0",
+    "consola": "^3.2.3",
     "cross-env": "7.0.3",
     "eslint": "^9.2.0",
     "fast-glob": "^3.3.2",

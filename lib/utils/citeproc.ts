@@ -58,10 +58,10 @@ export function make_citations(
   citeproc: CSL.Engine,
   cite_items_list: string[]
 ) {
-  var citation_res = [];
+  var citation_res: any[] = [];
 
   var citation_count = 0;
-  var citation_pre = [];
+  var citation_pre: any[] = [];
   var citation_post: string[] = [];
 
   for (var cite_items of cite_items_list) {
@@ -140,48 +140,47 @@ export function make_bibliography(citeproc: CSL.Engine) {
   return res;
 }
 
-export function getTitle(cslXml: any) {
-  return cslXml.getNodesByName(cslXml.dataObj, "title")[0].children[0];
+export function getTitle(cslXml: CslXml): string {
+  return cslXml.getNodesByName(cslXml.dataObj, "title")[0]
+    .children[0] as string;
 }
 
-export function getID(cslXml: any) {
-  return cslXml.getNodesByName(cslXml.dataObj, "id")[0].children[0];
+export function getID(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "id")[0].children[0] as string;
 }
 
-export function getRefSelf(cslXml: any) {
+export function getRefSelf(cslXml: CslXml) {
   return cslXml
     .getNodesByName(cslXml.dataObj, "link")
-    .filter((node: any) => node.attrs["rel"] === "self")[0]?.attrs["href"];
+    .filter((node) => node.attrs["rel"] === "self")[0]?.attrs["href"];
 }
 
-export function getRefDocument(cslXml: any) {
+export function getRefDocument(cslXml: CslXml) {
   return cslXml
     .getNodesByName(cslXml.dataObj, "link")
-    .filter((node: any) => node.attrs["rel"] === "documentation")[0]?.attrs[
-    "href"
-  ];
+    .filter((node) => node.attrs["rel"] === "documentation")[0]?.attrs["href"];
 }
 
-export function getRefTemplate(cslXml: any) {
+export function getRefTemplate(cslXml: CslXml) {
   return cslXml
     .getNodesByName(cslXml.dataObj, "link")
-    .filter((node: any) => node.attrs["rel"] === "template")[0]?.attrs["href"];
+    .filter((node) => node.attrs["rel"] === "template")[0]?.attrs["href"];
 }
 
-export function getField(cslXml: any) {
+export function getField(cslXml: CslXml) {
   return cslXml
     .getNodesByName(cslXml.dataObj, "category")
-    .filter((node: any) => "field" in node.attrs)[0]?.attrs["field"];
+    .filter((node) => "field" in node.attrs)[0]?.attrs["field"];
 }
 
-export function getCitationFormat(cslXml: any) {
+export function getCitationFormat(cslXml: CslXml) {
   return cslXml
     .getNodesByName(cslXml.dataObj, "category")
-    .filter((node: any) => "citation-format" in node.attrs)[0]?.attrs[
+    .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
     "citation-format"
   ];
 }
 
-export function getSummary(cslXml: any) {
+export function getSummary(cslXml: CslXml) {
   return cslXml.getNodesByName(cslXml.dataObj, "summary")[0]?.children[0];
 }
