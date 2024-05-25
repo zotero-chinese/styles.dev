@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-30e22f10","path":"/tag/psychology/","title":"psychology 标签","lang":"zh-CN","frontmatter":{"title":"psychology 标签","blog":{"type":"category","name":"psychology","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};

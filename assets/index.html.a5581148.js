@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-b30c83ca","path":"/tag/law/","title":"law 标签","lang":"zh-CN","frontmatter":{"title":"law 标签","blog":{"type":"category","name":"law","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{t as data};

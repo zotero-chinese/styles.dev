@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8d62fec6","path":"/tag/social-science/","title":"social_science 标签","lang":"zh-CN","frontmatter":{"title":"social_science 标签","blog":{"type":"category","name":"social_science","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
