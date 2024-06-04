@@ -8,7 +8,7 @@ import consola from "consola";
 // import { isMainThread } from "worker_threads";
 // import Tinypool from "tinypool";
 
-import generate from "./generate.js";
+import { generate, generateAndWrite } from "./generate.js";
 
 const arg = argv[2],
   src = "src",
@@ -56,7 +56,7 @@ async function build() {
   const result = await Promise.all(
     FastGlob.globSync("**/*.csl").map(async (path) => {
       consola.log(`${path}`);
-      return generate(path);
+      return generateAndWrite(path);
     })
   );
   fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });

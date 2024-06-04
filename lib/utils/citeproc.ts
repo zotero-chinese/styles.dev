@@ -39,7 +39,7 @@ export function makeCiteprocSys(items: any) {
   };
 }
 
-export function getCiteproc(items: string, style: string) {
+export function getCiteproc(items: any, style: string) {
   const sys = makeCiteprocSys(items);
   const citeproc = new CSL.Engine(sys, style);
   citeproc.opt.development_extensions.wrap_url_and_doi = true;
@@ -138,6 +138,10 @@ export function make_bibliography(citeproc: CSL.Engine) {
     return "Error!";
   }
   return res;
+}
+
+export function getStyleClass(citeproc: CSL.Engine) {
+  return citeproc.opt.xclass;
 }
 
 export function getTitle(cslXml: CslXml): string {
