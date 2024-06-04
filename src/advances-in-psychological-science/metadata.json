@@ -1,0 +1,23 @@
+{
+  "style_class": "in-text",
+  "title": "心理科学进展",
+  "id": "http://www.zotero.org/styles/advances-in-psychological-science",
+  "link_self": "http://www.zotero.org/styles/advances-in-psychological-science",
+  "link_template": "http://www.zotero.org/styles/apa",
+  "link_documentation": "https://journal.psych.ac.cn/xlkxjz/CN/item/downloadFile.jsp?filedisplay=20220223114547.pdf",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "psychology",
+  "summary": "",
+  "updated": "",
+  "citations": "(Bawden, 2008; Fan &#38; Sommers, 2013; Fourney, c1971; Myburg et al., 2014; 中国互联网络信息中心, 2012; 库恩, 2012; 武丽丽 等, 2008; 贾东琴, 柯平, 2011)",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>\n  <div class=\"csl-entry\">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25–26). Blackwell Publishing. <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary\">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>\n  <div class=\"csl-entry\">Fourney, M. E. (c1971). Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, 17–38.</div>\n  <div class=\"csl-entry\">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356–362. <a href=\"https://doi.org/10.1038/nature13308\">https://doi.org/10.1038/nature13308</a></div>\n  <div class=\"csl-entry\">中国互联网络信息中心. (2012). <i>第 29 次中国互联网络发展现状统计报告</i>. <a href=\"http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680\">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>\n  <div class=\"csl-entry\">库恩. (2012). <i>科学革命的结构: 第 4 版</i> (金吾伦 &#38; 胡新和, 译; 2 本). 北京大学出版社.</div>\n  <div class=\"csl-entry\">武丽丽, 华一新, 张亚军, 刘英敏. (2008). 《北斗一号》监控管理网设计与实现. 测绘科学, <i>33</i>(5), 8–9. <a href=\"https://doi.org/10.3771/j.issn.1009-2307.2008.05.002\">https://doi.org/10.3771/j.issn.1009-2307.2008.05.002</a></div>\n  <div class=\"csl-entry\">贾东琴, 柯平. (2011). 面向数字素养的高校图书馆数字服务体系研究. 收入 中国图书馆学会 (编), <i>中国图书馆学会年会论文集: 卷 2011 年卷</i> (页 45–52). 国家图书馆出版社.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}
