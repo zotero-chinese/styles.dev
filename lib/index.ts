@@ -22,7 +22,7 @@ async function main() {
   } else if (arg == "all") {
     await build();
   } else if (typeof arg == "string") {
-    generate(arg);
+    generateAndWrite(arg);
   } else {
     consola.error("需要指明参数");
     exit(1);
@@ -42,7 +42,7 @@ function serve() {
       console.clear();
       consola.info(`${path} changed. \n`);
       try {
-        const result = generate(path);
+        const result = generateAndWrite(path);
         console.log(result.bibliography);
       } catch (e) {
         consola.error(e);

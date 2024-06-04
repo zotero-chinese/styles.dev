@@ -11,7 +11,7 @@ import sscItems from "./items/social-sciences-in-china-data.json";
 // CSL-JSON Citations
 import defaultCite from "./default-cite.json";
 
-export const allDefaultItems = [
+export const allDefaultItems: Item[] = [
   ...apsItems,
   ...apaItems,
   ...gbItems,
@@ -19,7 +19,7 @@ export const allDefaultItems = [
   ...sscItems,
 ];
 
-export function getCustomItems(cslPath: string) {
+export function getCustomItems(cslPath: string): Item[] {
   const dirName = dirname(cslPath);
   const dataFilePath = join(dirName, "items.json");
   if (fs.existsSync(dataFilePath)) {
@@ -35,7 +35,7 @@ export const allDefaultCitationItems = {
 
 const collator = Intl.Collator("en", { numeric: true });
 
-function getCitationItems(items: any, citation_format: string) {
+function getCitationItems(items: Item[], citation_format: string) {
   let ids = getIds(items);
 
   if (citation_format === "numeric") {
@@ -51,6 +51,6 @@ function getCitationItems(items: any, citation_format: string) {
   });
 }
 
-function getIds(items: any): string[] {
-  return items.map((item: any) => item.id).sort(collator.compare);
+function getIds(items: Item[]): string[] {
+  return items.map((item) => item.id).sort(collator.compare);
 }

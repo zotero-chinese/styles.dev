@@ -7,8 +7,8 @@ import fs from "fs-extra";
  * @returns {*}
  * @see {@link https://citeproc-js.readthedocs.io/en/latest/running.html#required-sys-functions}
  */
-export function makeCiteprocSys(items: any) {
-  let bib: { [id: string]: any } = {};
+export function makeCiteprocSys(items: Item[]) {
+  let bib: { [id: string]: Item } = {};
   for (var item of items) {
     bib[item.id] = item;
   }
@@ -39,7 +39,7 @@ export function makeCiteprocSys(items: any) {
   };
 }
 
-export function getCiteproc(items: any, style: string) {
+export function getCiteproc(items: Item[], style: string) {
   const sys = makeCiteprocSys(items);
   const citeproc = new CSL.Engine(sys, style);
   citeproc.opt.development_extensions.wrap_url_and_doi = true;
