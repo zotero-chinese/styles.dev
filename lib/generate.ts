@@ -111,7 +111,7 @@ export function generateAndWrite(csl_file: string) {
       "mlc_result",
       "ssc_result",
     ]),
-    { spaces: process.env.CI ? 0 : 2 }
+    { spaces: 2 }
   );
 
   // 写测试结果 MD
