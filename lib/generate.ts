@@ -1,5 +1,5 @@
 import fs from "fs-extra";
-import { dirname, join } from "node:path";
+import { basename, dirname, join, sep } from "node:path";
 import { camelCase } from "scule";
 import { isEmpty, omit } from "radash";
 
@@ -42,6 +42,11 @@ export function generate(cslFilePath: string): StyleFullResult {
   // 获取 citeproc 实例
   const citeproc = getCiteproc(items, style);
   const cslXml = citeproc.cslXml;
+
+  const path: Path = {
+    dir: dirname(cslFilePath).replace("src/", ""),
+    file: basename(cslFilePath),
+  };
 
   // 获取 info 节点信息
   const info: StyleInfo = {
@@ -88,11 +93,10 @@ export function generate(cslFilePath: string): StyleFullResult {
   };
 
   // 获取自定义字段信息
-  // const cslName = basename(csl_file, ".csl");
-  // const custom = customFields[cslName] || {};
+  // const custom = customFields[path.file] || {};
   const tags = getTags(style);
 
-  return { ...info, ...test, ...tags };
+  return { ...path, ...info, ...test, ...tags };
 }
 
 export function generateAndWrite(csl_file: string) {

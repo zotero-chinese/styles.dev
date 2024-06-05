@@ -1,4 +1,6 @@
 {
+  "dir": "export-authors",
+  "file": "export-authors.csl",
   "style_class": "in-text",
   "title": "导出作者Export Authors",
   "id": "http://www.zotero.org/styles/export-authors",

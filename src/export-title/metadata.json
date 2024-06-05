@@ -1,4 +1,6 @@
 {
+  "dir": "export-title",
+  "file": "export-title.csl",
   "style_class": "in-text",
   "title": "导出题目Export Title",
   "id": "http://www.zotero.org/styles/export-title",

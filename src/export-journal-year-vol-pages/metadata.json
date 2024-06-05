@@ -1,4 +1,6 @@
 {
+  "dir": "export-journal-year-vol-pages",
+  "file": "export-journal-year-vol-pages.csl",
   "style_class": "in-text",
   "title": "导出期刊年卷期Export Journal",
   "id": "http://www.zotero.org/styles/journal-year-vol",

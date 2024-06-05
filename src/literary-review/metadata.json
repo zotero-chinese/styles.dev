@@ -1,4 +1,6 @@
 {
+  "dir": "literary-review",
+  "file": "literary-review.csl",
   "style_class": "note",
   "title": "文学评论",
   "id": "http://www.zotero.org/styles/literary-review",

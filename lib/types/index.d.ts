@@ -1,3 +1,8 @@
+interface Path {
+  dir: string;
+  file: string;
+}
+
 declare interface StyleInfo {
   style_class: string;
   title: string;
@@ -50,7 +55,8 @@ type Tag =
   | "测试";
 
 interface StyleFullResult
-  extends StyleInfo,
+  extends Path,
+    StyleInfo,
     StyleTestResult,
     StyleCustomFields {}
 
