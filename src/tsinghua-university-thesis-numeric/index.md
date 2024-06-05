@@ -8,7 +8,14 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1]</sup><br>
+<sup>[2]</sup><br>
+<sup>[3]</sup><br>
+<sup>[4]</sup><br>
+<sup>[5]</sup><br>
+<sup>[6]</sup><br>
+<sup>[7]</sup><br>
+
 
 ### 参考文献表
 

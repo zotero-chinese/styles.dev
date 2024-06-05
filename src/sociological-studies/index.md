@@ -8,13 +8,11 @@
 
 ### 引注
 
-（库恩，2012）<br>
-（Fourney，c1971）<br>
-（贾东琴、柯平，2011）<br>
-（Fan &#38; Sommers，2013）<br>
-（武丽丽等，2008）<br>
-（Myburg et al.，2014）<br>
-（中国互联网络信息中心，2012；Bawden，2008）<br>
+（冯钢，2018）<br>
+（刘江、顾东辉，2022）<br>
+（刘江、顾东辉，2022；冯钢，2018）<br>
+（Uslaner，2002）<br>
+（Ozawa &#38; Sripad，2013）<br>
 
 
 ### 参考文献表
@@ -30,31 +28,11 @@
 
 ### 引注
 
-（张三，2008）<br>
-（张三，2008）<br>
-（Jason，2008）<br>
-（Jason，2008）<br>
-（张三、李四，2008）<br>
-（Wang &#38; Sun，2009）<br>
-（赵一、陈二，2008；Wolchik &#38; West，2009）<br>
-（张三等，2008）<br>
-（Wang et al.，2009）<br>
-（赵一等，2008；Wolchik et al.，2009）<br>
-（张三、李四、等，2019）<br>
-（张三、王五、等，2019）<br>
-（Qian, Zhao, Zhou, Sun, et al.，2020）<br>
-（Qian, Zhao, Zhou, Li, et al.，2020）<br>
-（张三、李四、等，2019；Qian, Zhao, Zhou, Sun, et al.，2020）<br>
-（张三、李四、王五，2020）<br>
-（张三、李四、赵六，2020）<br>
-（Qian, Zhao, Zhou, &#38; Sun，2009）<br>
-（Qian, Zhao, Zhou, &#38; Li，2009）<br>
-（张三、李四、王五，2020）<br>
-（Qian, Zhao, Zhou, &#38; Sun，2009）<br>
-（K. D. Wong，2007）<br>
-（P. G. Wong，2008）<br>
-（Edeline &#38; Weinberger, 2005, 2002a, 2002b）<br>
-（Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
+（冯钢，2018）<br>
+（刘江、顾东辉，2022）<br>
+（刘江、顾东辉，2022；冯钢，2018）<br>
+（Uslaner，2002）<br>
+（Ozawa &#38; Sripad，2013）<br>
 
 
 ### GB/T 7714—2015 示例文献
