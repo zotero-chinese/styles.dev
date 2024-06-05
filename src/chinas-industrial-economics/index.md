@@ -8,13 +8,13 @@
 
 ### 引注
 
-(陈佳贵, 1995)<br>
-(Engers and Gans, 1998)<br>
-(蒋一苇, 1998)<br>
-([英]瑟尔沃, 2001)<br>
-(Fukuyama, 1999)<br>
-(Caselli, 2005)<br>
-(Broda et al., 2006)<br>
+(库恩, 2012)<br>
+(Fourney, c1971)<br>
+(贾东琴和柯平, 2011)<br>
+(Fan and Sommers, 2013)<br>
+(武丽丽等, 2008)<br>
+(Myburg et al., 2014)<br>
+(中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
 ### 参考文献表
@@ -47,13 +47,31 @@
 
 ### 引注
 
-(陈佳贵, 1995)<br>
-(Engers and Gans, 1998)<br>
-(蒋一苇, 1998)<br>
-([英]瑟尔沃, 2001)<br>
-(Fukuyama, 1999)<br>
-(Caselli, 2005)<br>
-(Broda et al., 2006)<br>
+(张三, 2008)<br>
+(张三, 2008)<br>
+(Jason, 2008)<br>
+(Jason, 2008)<br>
+(张三和李四, 2008)<br>
+(Wang and Sun, 2009)<br>
+(赵一和陈二, 2008; Wolchik and West, 2009)<br>
+(张三等, 2008)<br>
+(Wang et al., 2009)<br>
+(赵一等, 2008; Wolchik et al., 2009)<br>
+(张三, 李四等, 2019)<br>
+(张三, 王五等, 2019)<br>
+(Qian, Zhao, Zhou, Sun, et al., 2020)<br>
+(Qian, Zhao, Zhou, Li, et al., 2020)<br>
+(张三, 李四等, 2019; Qian, Zhao, Zhou, Sun, et al., 2020)<br>
+(张三, 李四和王五, 2020)<br>
+(张三, 李四和赵六, 2020)<br>
+(Qian, Zhao, Zhou, and Sun, 2009)<br>
+(Qian, Zhao, Zhou, and Li, 2009)<br>
+(张三, 李四和王五, 2020)<br>
+(Qian, Zhao, Zhou, and Sun, 2009)<br>
+(Wong, K. D., 2007)<br>
+(Wong, P. G., 2008)<br>
+(Edeline and Weinberger, 2005, 2002a, 2002b)<br>
+(Deng and Feng, 2005; Chen, 2006; Bai, 2002)<br>
 
 
 ### GB/T 7714—2015 示例文献

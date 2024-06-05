@@ -8,6 +8,7 @@
 
 ### 引注
 
+<<<<<<< HEAD
 <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
 <sup>2</sup> 同上注，第18页。<br>
 <sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
@@ -22,11 +23,26 @@
 <sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
 <sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
 <sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
+=======
+<sup>1</sup> 库恩：《科学革命的结构: 第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。<br>
+<sup>2</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.<br>
+<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》第2011 年卷卷，国家图书馆出版社2011年版。<br>
+<sup>4</sup> M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.<br>
+<sup>5</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，载《测绘科学》2008年第5期。<br>
+<sup>6</sup> Alexander A. Myburg et al., <i>The Genome of Eucalyptus Grandis</i>, 510 Nature 356 (2014).<br>
+<sup>7</sup> Ibid.<br>
+<sup>8</sup> Ibid, 357.<br>
+<sup>9</sup> Supra note 2, Xuetong Fan &#38; Christopher H. Sommers, p. 326-329.<br>
+>>>>>>> 7a3dc60d3804edd7c78c0b94d3029ffd463ff4e3
 
 
 ### 参考文献表
 
+<<<<<<< HEAD
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
+=======
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+>>>>>>> 7a3dc60d3804edd7c78c0b94d3029ffd463ff4e3
   <div class="csl-entry">
     <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">王名扬：《美国行政法》，北京大学出版社2007年版。</div>
   </div>
@@ -69,6 +85,7 @@
 
 ### 引注
 
+<<<<<<< HEAD
 <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
 <sup>2</sup> 同上注，第18页。<br>
 <sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
@@ -83,6 +100,17 @@
 <sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
 <sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
 <sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
+=======
+<sup>1</sup> Cass R. Sunstein, <i>Social Norms and Social Roles</i>, 96 Columbia Law Review 903, 903 (1996).<br>
+<sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+<sup>4</sup> Supra note 2, I. Morri, p. 326-329.<br>
+<sup>5</sup> Ibid.<br>
+<sup>6</sup> Ibid, p. 260.<br>
+<sup>7</sup> 同前注，应松年、马怀德书，第330页。<br>
+<sup>8</sup> 同上注。<br>
+<sup>9</sup> 同上注，第331页。<br>
+>>>>>>> 7a3dc60d3804edd7c78c0b94d3029ffd463ff4e3
 
 
 ### GB/T 7714—2015 示例文献

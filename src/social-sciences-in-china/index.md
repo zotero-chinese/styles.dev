@@ -8,20 +8,15 @@
 
 ### 引注
 
-<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
-<sup>2</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247–266页。<br>
-<sup>3</sup> 姚际恒：《古今伪书考》卷3，光绪三年苏州文学山房活字本，出版时间不详。<br>
-<sup>4</sup> 何龄修：《读顾诚〈南明史〉》，《中国史研究》1998年第3期。<br>
-<sup>5</sup> 李眉：《李劼人轶事》，《四川工人日报》1986年8月22日，第2版。<br>
-<sup>6</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，博士学位论文，北京师范大学历史系，2000年。<br>
-<sup>7</sup> 任东来：《对国际体制和国际制度的理解和翻译》，天津，2000年6月。<br>
-<sup>8</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
-<sup>9</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日， <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日；扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期， <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
-<sup>10</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>11</sup> M. Polo, <i>The Travels of Marco Polo</i> trans. William Marsden, Hertfordshire: Cumberland House, 1997.<br>
-<sup>12</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>ABB</i>, vol. 19, no. 2 (April 1993), pp. 199–215.<br>
-<sup>13</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i> trans. AAA, Cambridge, MA: Cambridge University Press, 1983, pp. 55–88.<br>
-<sup>14</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
+<sup>1</sup> 库恩：《科学革命的结构: 第 4 版》2，金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
+<sup>2</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
+<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年。<br>
+<sup>4</sup> M. E. Fourney, M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, California, c1971, pp. 17–38.<br>
+<sup>5</sup> 武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页。<br>
+<sup>6</sup> Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, (June 2014), pp. 356–362.<br>
+<sup>7</sup> Ibid.<br>
+<sup>8</sup> Ibid., p. 357.<br>
+<sup>9</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, pp. 326–329.<br>
 
 
 ### 参考文献表
@@ -48,20 +43,15 @@
 
 ### 引注
 
-<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
-<sup>2</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247–266页。<br>
-<sup>3</sup> 姚际恒：《古今伪书考》卷3，光绪三年苏州文学山房活字本，出版时间不详。<br>
-<sup>4</sup> 何龄修：《读顾诚〈南明史〉》，《中国史研究》1998年第3期。<br>
-<sup>5</sup> 李眉：《李劼人轶事》，《四川工人日报》1986年8月22日，第2版。<br>
-<sup>6</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，博士学位论文，北京师范大学历史系，2000年。<br>
-<sup>7</sup> 任东来：《对国际体制和国际制度的理解和翻译》，天津，2000年6月。<br>
-<sup>8</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
-<sup>9</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日， <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日；扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期， <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
-<sup>10</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>11</sup> M. Polo, <i>The Travels of Marco Polo</i> trans. William Marsden, Hertfordshire: Cumberland House, 1997.<br>
-<sup>12</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>ABB</i>, vol. 19, no. 2 (April 1993), pp. 199–215.<br>
-<sup>13</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i> trans. AAA, Cambridge, MA: Cambridge University Press, 1983, pp. 55–88.<br>
-<sup>14</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
+<sup>1</sup> Cass R. Sunstein, “Social norms and social roles,” <i>Columbia Law Review</i>, vol. 96, (1996), p. 903.<br>
+<sup>2</sup> I. Morri, <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》中国法制出版社，2006年。<br>
+<sup>4</sup> I. Morri, <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>, pp. 326–329.<br>
+<sup>5</sup> Ibid.<br>
+<sup>6</sup> Ibid., p. 260.<br>
+<sup>7</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，第330页。<br>
+<sup>8</sup> 同上。<br>
+<sup>9</sup> 同上，第331页。<br>
 
 
 ### GB/T 7714—2015 示例文献
