@@ -114,32 +114,36 @@ export function generateAndWrite(csl_file: string) {
     { spaces: 2 }
   );
 
-  function toDetails(summary: string, body: string) {
-    return (
-      `### ${summary}\n\n` +
-      `<details>\n` +
-      `<summary>${summary}</summary>\n\n` +
-      `${body}\n\n` +
-      `</details>\n\n`
-    );
+  function toDetails(summary: string, body: string, collapsible = true) {
+    return [
+      `### ${summary}\n`,
+      // `<details><summary>${summary}</summary>\n`,
+      collapsible ? `<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->\n` : "",
+      `${body}\n`,
+      // `</details>\n`
+      collapsible ? `<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->\n` : "",
+    ]
+      .filter((v) => !!v)
+      .join("\n");
   }
 
   // 写测试结果 MD
-  let md =
-    `<!-- 此文件由脚本自动生成，请勿手动修改！ -->\n` +
-    `<!-- markdownlint-disable -->\n` +
-    `<!-- prettier-ignore -->\n\n` +
-    `<!-- PLACEHOLDER FOR WEBSITE -->\n\n` +
-    `## 样式预览\n\n` +
-    toDetails("引注", result.citations) +
-    toDetails("参考文献表", result.bibliography) +
-    `## 默认测试\n\n` +
-    toDetails("引注", result.default_test_citations!) +
-    toDetails("GB/T 7714—2015 示例文献", result.gb_result!) +
-    toDetails("《心理学报》 示例文献", result.aps_result!) +
-    toDetails("《中国社会科学》 示例文献", result.ssc_result!) +
-    toDetails("《法学引注手册》 示例文献", result.mlc_result!) +
-    toDetails("APA 示例文献", result.apa_result!);
+  let md = [
+    `<!-- 此文件由脚本自动生成，请勿手动修改！ -->`,
+    `<!-- markdownlint-disable -->`,
+    `<!-- prettier-ignore -->\n`,
+    `<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->\n`,
+    `## 样式预览\n`,
+    toDetails("引注", result.citations, false),
+    toDetails("参考文献表", result.bibliography, false),
+    `## 默认测试\n`,
+    toDetails("引注", result.default_test_citations!, false),
+    toDetails("GB/T 7714—2015 示例文献", result.gb_result!),
+    toDetails("《心理学报》 示例文献", result.aps_result!),
+    toDetails("《中国社会科学》 示例文献", result.ssc_result!),
+    toDetails("《法学引注手册》 示例文献", result.mlc_result!),
+    toDetails("APA 示例文献", result.apa_result!),
+  ].join("\n");
 
   fs.outputFileSync(join(dir, "index.md"), md);
 
