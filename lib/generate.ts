@@ -120,7 +120,7 @@ export function generateAndWrite(csl_file: string) {
       `<details>\n` +
       `<summary>${summary}</summary>\n\n` +
       `${body}\n\n` +
-      `</summary>\n\n`
+      `</details>\n\n`
     );
   }
 
