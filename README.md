@@ -25,12 +25,12 @@
 CSL 文件存放在 `src/` 下。每次提交时，触发 Actions 运行 `lib/main.ts`，执行：
 
 - 生成引文和书目预览（ `citeproc-js` 实现）
-  - 默认使用 `lib/data/default-data.json` 和 `lib/data/default-cite.json` 作为示例数据源和引用指针源。
-  <!-- - 可以在样式文件同级目录下建立 `sample-data.json` 或/和 `sample-cite.json` 来覆盖默认值。 -->
+  - 默认使用 `lib/data/items/*.json` 作为默认条目数据，可以在样式同级目录建立 `items.json` 来增加。
+  - 默认使用 `lib/data/citations/default-sample-cites-*.json` 作为示例引用指针源，可以在样式文件同级目录下建立 `cites.json` 来覆盖默认值。
+  - 始终使用 `lib/data/citations/default-test-cites-*.json` 作为测试引用指针源。
 - 提取 `cs:info` 数据，
-- 将数据写入 `dist` 。
-
-`dist` 目录将被提交到 `gh-pages` 分支。
+- 将元数据写入样式文件同级目录的 `metadata.json`。
+- 将预览结果写入样式文件同级目录的 `index.md`。
 
 ## 运行
 
@@ -56,6 +56,11 @@ pnpm dev
 
 # 生成所有数据
 pnpm build
+
+# 预览一个 CSL 的结果
+pnpm preview "csl path related to project root"
+# 你也可以直接运行脚本
+tsx ./lib/index.ts "csl path related to project root"
 ```
 
 ## 贡献指南

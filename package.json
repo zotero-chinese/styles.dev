@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
-    "build": "tsx ./lib/index.ts all"
+    "build": "tsx ./lib/index.ts all",
+    "preview": "tsx ./lib/index.ts"
   },
   "author": "zotero-chinese",
   "license": "GPL-3.0",
