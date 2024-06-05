@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （库恩, 2012）<br>
 （Fourney, c1971）<br>
@@ -20,12 +17,7 @@
 （中国互联网络信息中心, 2012; Bawden, 2008）<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
@@ -38,14 +30,9 @@
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （张三, 2008）<br>
 （张三, 2008）<br>
@@ -74,12 +61,9 @@
 （Deng et al., 2005; Chen, 2006; Bai, 2002）<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农, 1998. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社: 146-163.</div>
@@ -212,12 +196,11 @@
   <div class="csl-entry">Yufin S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon, 1951. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社.</div>
@@ -255,12 +238,11 @@
   <div class="csl-entry">Yu L, 2000. Phonological representation and processing in Chinese spoken language production[D]. Beijing Normal University.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局.</div>
@@ -313,12 +295,11 @@
   <div class="csl-entry">Schfield R S, 1983. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫, 2012. 风险法的风险[M]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社.</div>
@@ -407,12 +388,11 @@
   <div class="csl-entry">Würdinger M, 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung(3): 234-240.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anon, 1954. Brown v. Board of Education[A]//U.S.: Vol. 347. 483.</div>
@@ -615,5 +595,4 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa], 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]//Instagram. (2018-11-26). <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

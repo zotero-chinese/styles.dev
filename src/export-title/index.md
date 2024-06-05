@@ -2,23 +2,15 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
-
 <sup>[1–8]</sup>
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-40 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -39,14 +31,9 @@
     <div class="csl-left-margin">Origins and concepts of digital literacy</div></div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>[1]</sup><br>
 <sup>[2(p. 260)]</sup><br>
@@ -56,12 +43,9 @@
 <sup>[1–3]</sup><br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-156 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -322,12 +306,11 @@
     <div class="csl-left-margin">Dublin core metadata element set: version 1.1</div></div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-130 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -398,12 +381,11 @@
     <div class="csl-left-margin">中国心理学与奥林匹克</div></div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-65 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -504,12 +486,11 @@
     <div class="csl-left-margin">Nixon to Kissinger</div></div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-88 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -679,12 +660,11 @@
     <div class="csl-left-margin">温家宝主持国务院会议 研究房地产业健康发展措施</div></div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-175 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -1085,5 +1065,4 @@
     <div class="csl-left-margin">United nations convention on the rights of the child</div></div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -2,84 +2,49 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+(Baker et al., 1995)<br>
+(汪冰, 1997)<br>
+(杨宗英, 1996)<br>
+(Crane, 1972)<br>
+(Stieg, 1981)<br>
+(Kennedy et al., 1975)<br>
+(Jha et al., 2004)<br>
 
-(库恩, 2012)<br>
-(Fourney, c1971)<br>
-(贾东琴 等, 2011)<br>
-(Fan et al., 2013)<br>
-(武丽丽 等, 2008)<br>
-(Myburg et al., 2014)<br>
-(中国互联网络信息中心, 2012; Bawden, 2008)<br>
-
-
-</details>
 
 ### 参考文献表
 
-<details>
-<summary>参考文献表</summary>
-
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
-  <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
-  <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
-  <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">Fan X, Sommers C H, 2013. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
-  <div class="csl-entry">Fourney M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
-  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+  <div class="csl-entry">汪冰, 1997. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社: 16.</div>
+  <div class="csl-entry">杨宗英, 1996. 电子图书馆的现实模型[J]. 中国图书馆学报(2): 24-29.</div>
+  <div class="csl-entry">Baker S K, Jackson M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
+  <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+  <div class="csl-entry">Jha M, Gassman P W, Secchi S, et al., 2004. Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions 1[J]. JAWRA Journal of the American Water Resources Association, 40(3): 811-825.</div>
+  <div class="csl-entry">Kennedy W J, Garrison R E, 1975. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J/OL]. Sedimentology, 22: 311. DOI:<a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
+  <div class="csl-entry">Stieg M F, 1981. The information needs of historians[J/OL]. College &#38; Research Libraries, 42(6): 549-560. DOI:<a href="https://doi.org/10.5860/crl_42_06_549">10.5860/crl_42_06_549</a>.</div>
 </div>
-
-</details>
 
 ## 默认测试
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+(Baker et al., 1995)<br>
+(汪冰, 1997)<br>
+(杨宗英, 1996)<br>
+(Crane, 1972)<br>
+(Stieg, 1981)<br>
+(Kennedy et al., 1975)<br>
+(Jha et al., 2004)<br>
 
-(张三, 2008)<br>
-(张三, 2008)<br>
-(Jason, 2008)<br>
-(Jason, 2008)<br>
-(张三, 李四, 2008)<br>
-(Wang, Sun, 2009)<br>
-(赵一, 陈二, 2008; Wolchik, West, 2009)<br>
-(张三, 李四,  等, 2008)<br>
-(Wang, Sun, et al., 2009)<br>
-(赵一, 陈二,  等, 2008; Wolchik, West, et al., 2009)<br>
-(张三, 李四,  等, 2019)<br>
-(张三, 王五,  等, 2019)<br>
-(Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(Qian, Zhao, Zhou, Li, et al., 2020)<br>
-(张三, 李四,  等, 2019; Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(张三, 李四, 王五, 2020)<br>
-(张三, 李四, 赵六, 2020)<br>
-(Qian, Zhao, Zhou, Sun, 2009)<br>
-(Qian, Zhao, Zhou, Li, 2009)<br>
-(张三, 李四, 王五, 2020)<br>
-(Qian, Zhao, Zhou, Sun, 2009)<br>
-(Wong K D, 2007)<br>
-(Wong P G, 2008)<br>
-(Edeline et al., 2005, 2002a, 2002b)<br>
-(Deng et al., 2005; Chen, 2006; Bai, 2002)<br>
-
-
-</details>
 
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农, 1998. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社: 146-163.</div>
@@ -167,7 +132,7 @@
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–[30, ]2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Baker S K, Jackson M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P, 2011. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
   <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -212,12 +177,11 @@
   <div class="csl-entry">Yufin S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon, 1951. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社.</div>
@@ -255,12 +219,11 @@
   <div class="csl-entry">Yu L, 2000. Phonological representation and processing in Chinese spoken language production[D/OL]. Beijing Normal University[2023-01-24]. <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a>.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局.</div>
@@ -313,12 +276,11 @@
   <div class="csl-entry">Schfield R S, 1983. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫, 2012. 风险法的风险[M/OL]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社[2022-08-04]. <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a>.</div>
@@ -407,12 +369,11 @@
   <div class="csl-entry">Würdinger M, 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. Juristische Schulung(3): 234-240[2022-07-26]. <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anon, 1954. Brown v. Board of Education[A/OL]//U.S.: Vol. 347. 483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
@@ -615,5 +576,4 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa], 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]//Instagram. (2018-11-26). <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

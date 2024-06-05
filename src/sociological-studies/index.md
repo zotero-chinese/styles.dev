@@ -2,84 +2,42 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+（冯钢，2018）<br>
+（刘江、顾东辉，2022）<br>
+（刘江、顾东辉，2022；冯钢，2018）<br>
+（Uslaner，2002）<br>
+（Ozawa &#38; Sripad，2013）<br>
 
-（库恩，2012）<br>
-（Fourney，c1971）<br>
-（贾东琴、柯平，2011）<br>
-（Fan &#38; Sommers，2013）<br>
-（武丽丽等，2008）<br>
-（Myburg et al.，2014）<br>
-（中国互联网络信息中心，2012；Bawden，2008）<br>
-
-
-</details>
 
 ### 参考文献表
 
-<details>
-<summary>参考文献表</summary>
-
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴、柯平，2011，《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社。</div>
-  <div class="csl-entry">库恩，2012，《科学革命的结构: 第 4 版》第2版本，金吾伦、胡新和译，北京：北京大学出版社。</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏，2008，《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期。</div>
-  <div class="csl-entry">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》。</div>
-  <div class="csl-entry">Bawden D. 2008, <i>Origins and Concepts of Digital Literacy</i> (<a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>).</div>
-  <div class="csl-entry">Fan Xuetong &#38; Christopher H. Sommers 2013, <i>Food Irradiation Research and Technology</i>. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney M. E. c1971, “Advances in Holographic Photoelasticity.” In <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME.</div>
-  <div class="csl-entry">Myburg Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz 2014, “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510.</div>
+  <div class="csl-entry">冯钢，2018，《马克思的“过渡”理论与“卡夫丁峡谷”之谜》，《社会学研究》第2期。</div>
+  <div class="csl-entry">刘江、顾东辉，2022，《“约束—内化”vs.反思性实践认知——社会工作伦理守则与留职意愿关系研究》，《社会学研究》第2期。</div>
+  <div class="csl-entry">Ozawa Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
+  <div class="csl-entry">Uslaner Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
 </div>
-
-</details>
 
 ## 默认测试
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+（冯钢，2018）<br>
+（刘江、顾东辉，2022）<br>
+（刘江、顾东辉，2022；冯钢，2018）<br>
+（Uslaner，2002）<br>
+（Ozawa &#38; Sripad，2013）<br>
 
-（张三，2008）<br>
-（张三，2008）<br>
-（Jason，2008）<br>
-（Jason，2008）<br>
-（张三、李四，2008）<br>
-（Wang &#38; Sun，2009）<br>
-（赵一、陈二，2008；Wolchik &#38; West，2009）<br>
-（张三等，2008）<br>
-（Wang et al.，2009）<br>
-（赵一等，2008；Wolchik et al.，2009）<br>
-（张三、李四、等，2019）<br>
-（张三、王五、等，2019）<br>
-（Qian, Zhao, Zhou, Sun, et al.，2020）<br>
-（Qian, Zhao, Zhou, Li, et al.，2020）<br>
-（张三、李四、等，2019；Qian, Zhao, Zhou, Sun, et al.，2020）<br>
-（张三、李四、王五，2020）<br>
-（张三、李四、赵六，2020）<br>
-（Qian, Zhao, Zhou, &#38; Sun，2009）<br>
-（Qian, Zhao, Zhou, &#38; Li，2009）<br>
-（张三、李四、王五，2020）<br>
-（Qian, Zhao, Zhou, &#38; Sun，2009）<br>
-（K. D. Wong，2007）<br>
-（P. G. Wong，2008）<br>
-（Edeline &#38; Weinberger, 2005, 2002a, 2002b）<br>
-（Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
-
-
-</details>
 
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农，1998，《植物开花研究》，李承森主编《植物科学进展》，北京：高等教育出版社。</div>
@@ -212,12 +170,11 @@
   <div class="csl-entry">Yufin Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon，1951，《概率哲学》，张三、李四译，北京：未名出版社。</div>
@@ -255,12 +212,11 @@
   <div class="csl-entry">Yu Lin 2000, <i>Phonological Representation and Processing in Chinese Spoken Language Production</i>. Beijing Normal University Unpublished doctorial dissertation.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤，《平等阁笔记》，上海：有正书局。</div>
@@ -313,12 +269,11 @@
   <div class="csl-entry">Schfield R. S. 1983, “The Impact of Scarcity and Plenty on Population Change in England.” In R. I. Rotberg &#38; T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>. Cambridge, Mass.: Cambridge University Press.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫，2012，《风险法的风险》，陈霄译，刘刚主编《风险规制：德国的理论与实践》，法律出版社。</div>
@@ -407,12 +362,11 @@
   <div class="csl-entry">Würdinger Markus 2012, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts.” <i>Juristische Schulung</i> (3).</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Ahmann E., L. J. Tuttle, M. Saviet &#38; S. D. Wright 2018, “A Descriptive Review of ADHD Coaching Research: Implications for College Students.” <i>Journal of Postsecondary Education and Disability</i> 31(1).</div>
@@ -615,5 +569,4 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa] 2018, <i>Grade 6 Learners from Parkfields Primary School in Hanover Park Visited the Museum for a Tour and Workshop Hosted By</i> (<a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>).</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

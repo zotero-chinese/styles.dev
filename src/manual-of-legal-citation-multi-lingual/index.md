@@ -2,80 +2,92 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
+<sup>2</sup> 同上注，第18页。<br>
+<sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
+<sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
+<sup>5</sup> 同前注，罗豪才等书，第54页。<br>
+<sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+<sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
+<sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
+<sup>9</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
+<sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
+<sup>11</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
+<sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
+<sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
+<sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
 
-<sup>1</sup> 库恩：《科学革命的结构: 第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。<br>
-<sup>2</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.<br>
-<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》第2011 年卷卷，国家图书馆出版社2011年版。<br>
-<sup>4</sup> M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.<br>
-<sup>5</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，载《测绘科学》2008年第5期。<br>
-<sup>6</sup> Alexander A. Myburg et al., <i>The Genome of Eucalyptus Grandis</i>, 510 Nature 356 (2014).<br>
-<sup>7</sup> Ibid.<br>
-<sup>8</sup> Ibid, 357.<br>
-<sup>9</sup> Supra note 2, Xuetong Fan &#38; Christopher H. Sommers, p. 326-329.<br>
-
-
-</details>
 
 ### 参考文献表
 
-<details>
-<summary>参考文献表</summary>
-
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">库恩：《科学革命的结构: 第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。</div>
+    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">王名扬：《美国行政法》，北京大学出版社2007年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.</div>
+    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》第2011 年卷卷，国家图书馆出版社2011年版。</div>
+    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.</div>
+    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，载《测绘科学》2008年第5期。</div>
+    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">Alexander A. Myburg et al., <i>The Genome of Eucalyptus Grandis</i>, 510 Nature 356 (2014).</div>
+    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔9〕</div><div class="csl-right-inline">Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔10〕</div><div class="csl-right-inline">William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔11〕</div><div class="csl-right-inline">Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">〔12〕</div><div class="csl-right-inline">Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).</div>
   </div>
 </div>
-
-</details>
 
 ## 默认测试
 
 ### 引注
 
-<details>
-<summary>引注</summary>
+<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
+<sup>2</sup> 同上注，第18页。<br>
+<sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
+<sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
+<sup>5</sup> 同前注，罗豪才等书，第54页。<br>
+<sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+<sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
+<sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
+<sup>9</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
+<sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
+<sup>11</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
+<sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
+<sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
+<sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
 
-<sup>1</sup> Cass R. Sunstein, <i>Social Norms and Social Roles</i>, 96 Columbia Law Review 903, 903 (1996).<br>
-<sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
-<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
-<sup>4</sup> Supra note 2, I. Morri, p. 326-329.<br>
-<sup>5</sup> Ibid.<br>
-<sup>6</sup> Ibid, p. 260.<br>
-<sup>7</sup> 同前注，应松年、马怀德书，第330页。<br>
-<sup>8</sup> 同上注。<br>
-<sup>9</sup> 同上注，第331页。<br>
-
-
-</details>
 
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -207,12 +219,11 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -249,12 +260,11 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -306,12 +316,11 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -399,12 +408,11 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -606,5 +614,4 @@
 <sup>198</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

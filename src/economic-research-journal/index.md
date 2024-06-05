@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （库恩，2012）<br>
 （Fourney, c1971）<br>
@@ -20,12 +17,7 @@
 （中国互联网络信息中心，2012；Bawden, 2008）<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴、柯平，2011：《面向数字素养的高校图书馆数字服务体系研究》. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社，2011年。</div>
@@ -38,14 +30,9 @@
   <div class="csl-entry">Myburg A.A., D. Grattapaglia, G.A. Tuskan, et al., 2014, “The genome of eucalyptus grandis”, <i>Nature</i>, 510, 356—362.</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （张三，2008）<br>
 （张三，2008）<br>
@@ -74,12 +61,9 @@
 （Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005）<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农，1998：《植物开花研究》. 李承森, 编//《植物科学进展》北京: 高等教育出版社，1998年。</div>
@@ -212,12 +196,11 @@
   <div class="csl-entry">World Health Organization, 1970, “Factors regulating the immune response: Report of WHO Scientific Group”, WHO.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon，1951：《概率哲学》. 张三, 李四, 译. 北京: 未名出版社，1951年。</div>
@@ -255,12 +238,11 @@
   <div class="csl-entry">Yu L., 2000, “Phonological representation and processing in Chinese spoken language production”. Beijing Normal University.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤，[日期不详]：《平等阁笔记》. 上海: 有正书局，[日期不详]年。</div>
@@ -313,12 +295,11 @@
   <div class="csl-entry">Schfield R.S., 1983, “The impact of scarcity and plenty on population change in England”. Rotberg R I, T K Rabb, eds.//, <i>Hunger and history: The impact of changing food production and consumption pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55—88.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫，2012：《风险法的风险》. 刘刚, 编. 陈霄, 译//《风险规制：德国的理论与实践》法律出版社，2012年。</div>
@@ -407,12 +388,11 @@
   <div class="csl-entry">Würdinger Markus，2012：《Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts》，《Juristische Schulung》第3期。</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous, 1954, “Brown v. Board of Education”(1954).</div>
@@ -615,5 +595,4 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa], 2018, “Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by”(2018-11-26).</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
