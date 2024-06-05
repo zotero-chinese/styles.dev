@@ -41,9 +41,6 @@ importers:
       fs-extra:
         specifier: ^11.2.0
         version: 11.2.0
-      globals:
-        specifier: ^15.1.0
-        version: 15.1.0
       ora:
         specifier: ^8.0.1
         version: 8.0.1
@@ -574,10 +571,6 @@ packages:
 
   globals@14.0.0:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
-    engines: {node: '>=18'}
-
-  globals@15.1.0:
-    resolution: {integrity: sha512-926gJqg+4mkxwYKiFvoomM4J0kWESfk3qfTvRL2/oc/tK/eTDBbrfcKnSa2KtfdxB5onoL7D3A3qIHQFpd4+UA==}
     engines: {node: '>=18'}
 
   globby@11.1.0:
@@ -1462,8 +1455,6 @@ snapshots:
       is-glob: 4.0.3
 
   globals@14.0.0: {}
-
-  globals@15.1.0: {}
 
   globby@11.1.0:
     dependencies:

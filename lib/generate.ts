@@ -36,7 +36,8 @@ export function generate(cslFilePath: string): StyleFullResult {
   const style = fs.readFileSync(cslFilePath, { encoding: "utf-8" });
 
   // CSL-JSON Items
-  const items = [...allDefaultItems, ...getCustomItems(cslFilePath)];
+  const customItems = getCustomItems(cslFilePath);
+  const items = [...allDefaultItems, ...customItems];
 
   // 获取 citeproc 实例
   const citeproc = getCiteproc(items, style);
@@ -61,7 +62,7 @@ export function generate(cslFilePath: string): StyleFullResult {
   // CSL-JSON CitationItems
   const citations: { [key: string]: CitationItem[] } = {
     ...allDefaultCitationItems,
-    custom: getCustomCites(cslFilePath),
+    custom: getCustomCites(cslFilePath, customItems),
   };
 
   // 获取引注和参考文献表信息
@@ -76,9 +77,7 @@ export function generate(cslFilePath: string): StyleFullResult {
 
     default_test_citations: make_citations(
       citeproc,
-      isEmpty(citations["custom"])
-        ? citations[camelCase(`test_${info.citation_format}`)]
-        : citations["custom"]
+      citations[camelCase(`test_${info.citation_format}`)]
     ),
 
     gb_result: getItemResults(citeproc, citations["gb"]),

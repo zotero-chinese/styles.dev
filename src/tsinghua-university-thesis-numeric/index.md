@@ -50,10 +50,9 @@
 <sup>[1]</sup><br>
 <sup>[2]</sup><br>
 <sup>[3]</sup><br>
-<sup>[4]</sup><br>
-<sup>[5]</sup><br>
-<sup>[6]</sup><br>
-<sup>[7]</sup><br>
+<sup>[3,1]</sup><br>
+<sup>[1,2,4]</sup><br>
+<sup>[1–3]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

@@ -69,20 +69,15 @@
 
 ### 引注
 
-<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
-<sup>2</sup> 同上注，第18页。<br>
-<sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
-<sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
-<sup>5</sup> 同前注，罗豪才等书，第54页。<br>
-<sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
-<sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
-<sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>9</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
-<sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
-<sup>11</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
-<sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
-<sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
-<sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
+<sup>1</sup> Cass R. Sunstein, <i>Social Norms and Social Roles</i>, 96 Columbia Law Review 903, 903 (1996).<br>
+<sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+<sup>4</sup> Supra note 2, I. Morri, p. 326-329.<br>
+<sup>5</sup> Ibid.<br>
+<sup>6</sup> Ibid, p. 260.<br>
+<sup>7</sup> 同前注，应松年、马怀德书，第330页。<br>
+<sup>8</sup> 同上注。<br>
+<sup>9</sup> 同上注，第331页。<br>
 
 
 ### GB/T 7714—2015 示例文献

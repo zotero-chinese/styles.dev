@@ -12,7 +12,7 @@ interface CitationItem {
   "prefix"?: string;
   "suffix"?: string;
   "position"?: number;
-  "near-note": boolean;
+  "near-note"?: boolean;
 }
 
 interface Citation {

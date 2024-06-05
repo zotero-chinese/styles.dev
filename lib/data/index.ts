@@ -53,13 +53,17 @@ export function getCustomItems(cslPath: string): Item[] {
   }
 }
 
-export function getCustomCites(cslPath: string): CitationItem[] {
+export function getCustomCites(
+  cslPath: string,
+  items?: Item[]
+): CitationItem[] {
   const dirName = dirname(cslPath);
   const citesFilePath = join(dirName, "cites.json");
-  const itemsFilePath = join(dirName, "items.json");
 
   if (fs.existsSync(citesFilePath)) {
     return fs.readJsonSync(citesFilePath);
+  } else if (items) {
+    return getCitationItems(items);
   } else {
     return [];
   }
