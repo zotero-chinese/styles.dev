@@ -1,21 +1,22 @@
-import { argv, cwd, exit } from "node:process";
-
+import { argv, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
 import fs from "fs-extra";
 import consola from "consola";
+import ora from "ora";
 
 // import { isMainThread } from "worker_threads";
 // import Tinypool from "tinypool";
 
-import { generate, generateAndWrite } from "./generate.js";
+import { generateAndWrite } from "./generate.js";
+import { getFileName } from "./utils/string.js";
 
 const arg = argv[2],
   src = "src",
   dist = "dist";
 
 async function main() {
-  fs.ensureDir(dist);
+  // fs.ensureDir(dist);
 
   if (arg == "watch") {
     serve();
@@ -30,36 +31,39 @@ async function main() {
 }
 
 function serve() {
-  watch("./src", {
+  const spinner = ora();
+  watch(["./src/**/*.csl", "./src/**/items.json", "./src/**/cites.json"], {
     persistent: true, // 保持监听
-    ignored: /^(?=.*(\.\w+)$)(?!.*(?:\.csl?|\.json)$).*$/, // 忽略除了 .csl 和 .json 以外的文件
     ignoreInitial: true, // 初始化时忽略已有文件的 add 和 adddir 事件
   })
     .on("ready", () => {
+      console.clear();
       consola.ready("已监听 src 目录");
     })
     .on("change", (path, stats) => {
       console.clear();
-      consola.info(`${path} changed. \n`);
       try {
+        spinner.start(`${getFileName(path)} changed`);
         const result = generateAndWrite(path);
-        console.log(result.bibliography);
+        spinner.succeed(`${getFileName(path)} changed - done`);
       } catch (e) {
-        consola.error(e);
-        exit(1);
+        spinner.fail(e);
       }
     });
 }
 
 async function build() {
   console.time("build");
+  const spinner = ora();
   const result = await Promise.all(
     FastGlob.globSync("**/*.csl").map(async (path) => {
-      consola.log(`${path}`);
-      return generateAndWrite(path);
+      spinner.start(`${getFileName(path)}`);
+      const result = generateAndWrite(path);
+      spinner.succeed(`${getFileName(path)} - done`);
+      return result;
     })
   );
-  fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
+  // fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
   console.timeEnd("build");
 }
 

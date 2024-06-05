@@ -22,6 +22,12 @@ declare interface StyleInfo {
 interface StyleTestResult {
   citations: string;
   bibliography: string;
+  default_test_citations?: string;
+  gb_result?: string;
+  aps_result?: string;
+  ssc_result?: string;
+  mlc_result?: string;
+  apa_result?: string;
 }
 
 interface StyleCustomFields {

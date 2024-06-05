@@ -161,10 +161,10 @@ declare module "citeproc" {
     setSuppressTrailingPunctuation(arg: any): void;
 
     updateItems(
-      idList: any,
-      nosort: any,
-      rerun_ambigs: any,
-      implicitUpdate: any
+      idList?: any,
+      nosort?: any,
+      rerun_ambigs?: any,
+      implicitUpdate?: any
     ): any;
 
     updateUncitedItems(idList: any, nosort: any): any;

@@ -56,18 +56,11 @@ export function getTags(style: string) {
     result = cite_str;
   }
 
-  let tags = {
-    author_uppercase: result.includes("MCCAULEY"),
+  let _tags = {
     author_initilized: !result.includes("Stewart M"),
-    title_displayed: result.includes("Language learning as language use"),
-    journal_abbreviated: result.includes("Psychol. Rev."),
-    doi_displayed:
-      result.includes("https://psycnet.apa.org") ||
-      result.includes("https://doi.org"),
-    url_displayed: result.includes("10.1037/rev0000126"),
   };
 
-  const tags2: Tag[] = [
+  const tags: Tag[] = [
     result.includes("MCCAULEY") ? "姓名大写" : "姓名小写",
     result.includes("Language learning as language use") ? "有标题" : "无标题",
     result.includes("Psychol. Rev.") ? "期刊全称" : "期刊缩写",
@@ -78,5 +71,5 @@ export function getTags(style: string) {
     result.includes("10.1037/rev0000126") ? "有URL" : "无URL",
   ];
 
-  return { tags: tags2 };
+  return { tags };
 }

@@ -1,5 +1,7 @@
 import fs from "fs-extra";
-import { basename, dirname, join } from "node:path";
+import { dirname, join } from "node:path";
+import { camelCase } from "scule";
+import { isEmpty, omit } from "radash";
 
 import {
   getCiteproc,
@@ -13,30 +15,34 @@ import {
   make_citations,
   make_bibliography,
   getStyleClass,
+  getItemResults,
 } from "./utils/citeproc.js";
 
-import { allDefaultItems, getCustomItems } from "./data/index.js";
+import {
+  allDefaultItems,
+  getCustomItems,
+  allDefaultCitationItems,
+  getCustomCites,
+} from "./data/index.js";
 
 import { customFields } from "./customFields.js";
 import { getTags } from "./utils/getTags.js";
 
 /**
- * @description 获取指定 CSL 文件的元数据和参考文献预览
- * @param  csl_file - 要获取的 csl 文件路径
- * @param  data_file - 使用的示例条目数据文件路径
- * @param  cite_file - 使用的引文列表文件路径
- * @returns   包含样式元数据和预览的对象/字典，其键值对见函数内 item 变量。
+ * 获取指定 CSL 文件的元数据和参考文献预览
  */
-export function generate(csl_file: string): StyleFullResult {
+export function generate(cslFilePath: string): StyleFullResult {
   // 读取样式文件
-  const style = fs.readFileSync(csl_file, { encoding: "utf-8" });
+  const style = fs.readFileSync(cslFilePath, { encoding: "utf-8" });
+
+  // CSL-JSON Items
+  const items = [...allDefaultItems, ...getCustomItems(cslFilePath)];
 
   // 获取 citeproc 实例
-  const items = [...allDefaultItems, ...getCustomItems(csl_file)];
   const citeproc = getCiteproc(items, style);
   const cslXml = citeproc.cslXml;
 
-  // 获取 info 信息
+  // 获取 info 节点信息
   const info: StyleInfo = {
     style_class: getStyleClass(citeproc),
     title: getTitle(cslXml),
@@ -52,11 +58,34 @@ export function generate(csl_file: string): StyleFullResult {
     updated: "",
   };
 
+  // CSL-JSON CitationItems
+  const citations: { [key: string]: CitationItem[] } = {
+    ...allDefaultCitationItems,
+    custom: getCustomCites(cslFilePath),
+  };
+
   // 获取引注和参考文献表信息
-  const citations = fs.readJSONSync("./lib/data/default-cite.json");
   const test: StyleTestResult = {
-    citations: make_citations(citeproc, citations),
+    citations: make_citations(
+      citeproc,
+      isEmpty(citations["custom"])
+        ? citations[camelCase(`sample_${info.citation_format}`)]
+        : citations["custom"]
+    ),
     bibliography: make_bibliography(citeproc),
+
+    default_test_citations: make_citations(
+      citeproc,
+      isEmpty(citations["custom"])
+        ? citations[camelCase(`test_${info.citation_format}`)]
+        : citations["custom"]
+    ),
+
+    gb_result: getItemResults(citeproc, citations["gb"]),
+    aps_result: getItemResults(citeproc, citations["aps"]),
+    apa_result: getItemResults(citeproc, citations["apa"]),
+    mlc_result: getItemResults(citeproc, citations["mlc"]),
+    ssc_result: getItemResults(citeproc, citations["ssc"]),
   };
 
   // 获取自定义字段信息
@@ -72,9 +101,45 @@ export function generateAndWrite(csl_file: string) {
   const dir = dirname(csl_file);
 
   // 写元数据 JSON
-  fs.outputJSONSync(join(dir, "metadata.json"), result, { spaces: 2 });
+  fs.outputJSONSync(
+    join(dir, "metadata.json"),
+    omit(result, [
+      "default_test_citations",
+      "gb_result",
+      "apa_result",
+      "aps_result",
+      "mlc_result",
+      "ssc_result",
+    ]),
+    { spaces: process.env.CI ? 0 : 2 }
+  );
 
   // 写测试结果 MD
+  let md =
+    `<!-- 此文件由脚本自动生成，请勿手动修改！ -->\n` +
+    `<!-- markdownlint-disable -->\n` +
+    `<!-- prettier-ignore -->\n\n` +
+    `<!-- PLACEHOLDER FOR WEBSITE -->\n\n` +
+    `## 样式预览\n\n` +
+    `### 引注\n\n` +
+    `${result.citations}\n\n` +
+    `### 参考文献表\n\n` +
+    `${result.bibliography}\n\n` +
+    `## 默认测试\n\n` +
+    `### 引注\n\n` +
+    `${result.default_test_citations}\n\n` +
+    `### GB/T 7714—2015 示例文献\n\n` +
+    `${result.gb_result}\n\n` +
+    `### 《心理学报》 示例文献\n\n` +
+    `${result.aps_result}\n\n` +
+    `### 《中国社会科学》 示例文献\n\n` +
+    `${result.ssc_result}\n\n` +
+    `### 《法学引注手册》 示例文献\n\n` +
+    `${result.mlc_result}\n\n` +
+    `### APA 示例文献\n\n` +
+    `${result.apa_result}\n`;
+
+  fs.outputFileSync(join(dir, "index.md"), md);
 
   return result;
 }

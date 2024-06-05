@@ -1,5 +1,6 @@
 import CSL from "citeproc";
 import fs from "fs-extra";
+import { getIds } from "../data";
 
 /**
  * @description 产生 citeproc-js 的 sys 参数
@@ -56,7 +57,7 @@ export function getCiteproc(items: Item[], style: string) {
  */
 export function make_citations(
   citeproc: CSL.Engine,
-  cite_items_list: string[]
+  cite_items_list: CitationItem[]
 ) {
   var citation_res: any[] = [];
 
@@ -138,6 +139,26 @@ export function make_bibliography(citeproc: CSL.Engine) {
     return "Error!";
   }
   return res;
+}
+
+export function getItemResults(
+  citeproc: CSL.Engine,
+  citationItems: CitationItem[]
+) {
+  citeproc.updateItems([]);
+  let citation_format = citeproc.opt.xclass;
+
+  if (citation_format === "note") {
+    // let cites = getCitations(data, citation_format);
+    // note 类测试 citations
+    return make_citations(citeproc, citationItems);
+  } else {
+    // 其余类型测试 bibliography
+    const ids = getIds(citationItems);
+    citeproc.updateItems(ids);
+    let res = make_bibliography(citeproc);
+    return res;
+  }
 }
 
 export function getStyleClass(citeproc: CSL.Engine) {
