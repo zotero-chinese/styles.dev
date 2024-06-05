@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>1</sup> 库恩，《科学革命的结构: 第 4 版》，金吾伦、胡新和译，2北京大学出版社2012年版。<br>
 <sup>2</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
@@ -22,12 +19,7 @@
 <sup>9</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, pp. 326–329.<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年。</div>
@@ -38,14 +30,9 @@
   <div class="csl-entry">Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356–362.</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>1</sup> Cass R. Sunstein, “Social norms and social roles,” <i>Columbia Law Review</i>, Vol. 96, 1996, p. 903.<br>
 <sup>2</sup> I. Morri, <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
@@ -58,12 +45,9 @@
 <sup>9</sup> 同上，第331页。<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -195,12 +179,11 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -237,12 +220,11 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -294,12 +276,11 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -387,12 +368,11 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -594,5 +574,4 @@
 <sup>198</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

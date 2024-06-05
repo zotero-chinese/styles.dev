@@ -2,23 +2,15 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
-
 <sup>[1–8]</sup>
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
@@ -34,14 +26,9 @@
   <div class="csl-entry">[8] BAWDEN D. Origins and concepts of digital literacy[EB/OL](2008-05-04)[2013-03-08].</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>[1]</sup><br>
 <sup>[2(p. 260)]</sup><br>
@@ -51,12 +38,9 @@
 <sup>[1–3]</sup><br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-12 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] 陈登原. 国史旧闻[M]. 北京: 中华书局, 2000: 29.</div>
@@ -243,12 +227,11 @@
   <div class="csl-entry">[128] Anonymous. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14)[2014-06-11].</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
@@ -286,12 +269,11 @@
   <div class="csl-entry">[33] 张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008: 2, 5-7.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-13 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] 赵景深. 文坛忆旧[M]. 上海: 北新书局, 1948.</div>
@@ -359,12 +341,11 @@
   <div class="csl-entry">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-37 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] 王名扬. 美国行政法[M]. 北京大学出版社, 2007.</div>
@@ -483,12 +464,11 @@
   <div class="csl-entry">[84] 佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]([日期不详]).</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1] MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review, 2019, 126(1): 1-51.</div>
@@ -691,5 +671,4 @@
   <div class="csl-entry">[198] Anonymous. United nations convention on the rights of the child[Z/OL](1989-11-20).</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

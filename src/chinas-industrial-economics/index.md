@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 (库恩, 2012)<br>
 (Fourney, c1971)<br>
@@ -20,12 +17,7 @@
 (中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -54,14 +46,9 @@
   </div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 (张三, 2008)<br>
 (张三, 2008)<br>
@@ -90,12 +77,9 @@
 (Deng and Feng, 2005; Chen, 2006; Bai, 2002)<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -484,12 +468,11 @@
   </div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -593,12 +576,11 @@
   </div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -747,12 +729,11 @@
   </div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -1009,12 +990,11 @@
   </div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -1613,5 +1593,4 @@
   </div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

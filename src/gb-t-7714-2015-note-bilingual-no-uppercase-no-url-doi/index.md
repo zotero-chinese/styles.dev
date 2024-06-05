@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>1</sup> 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
 <sup>2</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.<br>
@@ -22,12 +19,7 @@
 <sup>9</sup> 同2: 326-329.<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -50,14 +42,9 @@
   </div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>1</sup> Sunstein C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903.<br>
 <sup>2</sup> Morri I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
@@ -70,12 +57,9 @@
 <sup>9</sup> 同上: 331.<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -207,12 +191,11 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -249,12 +232,11 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -306,12 +288,11 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -399,12 +380,11 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -606,5 +586,4 @@
 <sup>198</sup> [NO_PRINTED_FORM]<br>
 
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -2,14 +2,11 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （库恩，2012）<br>
 （Fourney, c1971）<br>
@@ -20,12 +17,7 @@
 （Bawden, 2008; 中国互联网络信息中心，2012）<br>
 
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04).</div>
@@ -38,14 +30,9 @@
   <div class="csl-entry">中国互联网络信息中心.第 29 次中国互联网络发展现状统计报告[R]. .</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 （张三，2008）<br>
 （张三，2008）<br>
@@ -74,12 +61,9 @@
 （Bai, 2002; Deng and Feng, 2005; Chen, 2006）<br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. <i><span style="font-style:normal;">British Medical Journal</span></i>, 1981, 283(6292): 628.</div>
@@ -212,12 +196,11 @@
   <div class="csl-entry">中华医学会湖北分会.临床内科杂志[Z]. 武汉: 中华医学会湖北分会， 1984.(1984).</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. The new Grove dictionary of music and musicians[M]. Sadie S, ed.. 6 edition. London : New York: Macmillan, 1980.</div>
@@ -255,12 +238,11 @@
   <div class="csl-entry">赵一一，钱二，孙三，等.中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. Nixon to Kissinger[Z](1969–02–01).</div>
@@ -313,12 +295,11 @@
   <div class="csl-entry">赵景深.文坛忆旧[M]. 上海: 北新书局， 1948.</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">佚名.[Z](1999).</div>
@@ -407,12 +388,11 @@
   <div class="csl-entry">最高人民法院，最高人民检察院.最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[Z](1993–11–12).</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. Brown v. Board of Education[Z](1954).</div>
@@ -615,5 +595,4 @@
   <div class="csl-entry">Tactile Labs.Latero tactile display[Z](2015).</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -2,23 +2,15 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE -->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
 
 ## 样式预览
 
 ### 引注
 
-<details>
-<summary>引注</summary>
-
 <sup>[1–8]</sup>
 
-</details>
-
 ### 参考文献表
-
-<details>
-<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@科学革命的结构: 第 4 版@库恩. (@2012)</div>
@@ -31,14 +23,9 @@
   <div class="csl-entry">@Origins and concepts of digital literacy@Bawden D. (@2008)</div>
 </div>
 
-</details>
-
 ## 默认测试
 
 ### 引注
-
-<details>
-<summary>引注</summary>
 
 <sup>[1]</sup><br>
 <sup>[2(p. 260)]</sup><br>
@@ -48,12 +35,9 @@
 <sup>[1–3]</sup><br>
 
 
-</details>
-
 ### GB/T 7714—2015 示例文献
 
-<details>
-<summary>GB/T 7714—2015 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@国史旧闻@陈登原. (@2000)</div>
@@ -186,12 +170,11 @@
   <div class="csl-entry">@Dublin core metadata element set: version 1.1@anonymous. (@2012)</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《心理学报》 示例文献
 
-<details>
-<summary>《心理学报》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@中国心理学的过去与未来@张三. (@2008)</div>
@@ -229,12 +212,11 @@
   <div class="csl-entry">@中国心理学与奥林匹克@张三, 李四. (@2008)</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《中国社会科学》 示例文献
 
-<details>
-<summary>《中国社会科学》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@文坛忆旧@赵景深. (@1948)</div>
@@ -287,12 +269,11 @@
   <div class="csl-entry">@Nixon to Kissinger@anonymous. (@1969)</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### 《法学引注手册》 示例文献
 
-<details>
-<summary>《法学引注手册》 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@美国行政法@王名扬. (@2007)</div>
@@ -381,12 +362,11 @@
   <div class="csl-entry">@温家宝主持国务院会议 研究房地产业健康发展措施@佚名. (@[日期不详])</div>
 </div>
 
-</details>
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ### APA 示例文献
 
-<details>
-<summary>APA 示例文献</summary>
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">@Language learning as language use: A cross-linguistic model of child language development@McCauley S M, Christiansen M H. (@2019)</div>
@@ -589,5 +569,4 @@
   <div class="csl-entry">@United nations convention on the rights of the child@anonymous. (@1989)</div>
 </div>
 
-</details>
-
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
