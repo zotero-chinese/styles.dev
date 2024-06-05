@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 (库恩, 2012)<br>
 (Fourney, c1971)<br>
 (贾东琴 等, 2011)<br>
@@ -17,7 +20,12 @@
 (中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
@@ -30,9 +38,14 @@
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 (张三, 2008)<br>
 (张三, 2008)<br>
@@ -61,7 +74,12 @@
 (Deng et al., 2005; Chen, 2006; Bai, 2002)<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农, 1998. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社: 146-163.</div>
@@ -194,7 +212,12 @@
   <div class="csl-entry">Yufin S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon, 1951. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社.</div>
@@ -232,7 +255,12 @@
   <div class="csl-entry">Yu L, 2000. Phonological representation and processing in Chinese spoken language production[D/OL]. Beijing Normal University[2023-01-24]. <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a>.</div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局.</div>
@@ -285,7 +313,12 @@
   <div class="csl-entry">Schfield R S, 1983. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫, 2012. 风险法的风险[M/OL]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社[2022-08-04]. <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a>.</div>
@@ -374,7 +407,12 @@
   <div class="csl-entry">Würdinger M, 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. Juristische Schulung(3): 234-240[2022-07-26]. <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.</div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anon, 1954. Brown v. Board of Education[A/OL]//U.S.: Vol. 347. 483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
@@ -576,3 +614,6 @@
   <div class="csl-entry">Zalta E N, 2019. The Stanford encyclopedia of philosophy[M/OL]. Summer 2019 ed. Stanford University. <a href="https://plato.stanford.edu/archives/sum2019/">https://plato.stanford.edu/archives/sum2019/</a>.</div>
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa], 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]//Instagram. (2018-11-26). <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>
 </div>
+
+</summary>
+

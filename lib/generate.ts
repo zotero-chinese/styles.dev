@@ -114,6 +114,16 @@ export function generateAndWrite(csl_file: string) {
     { spaces: 2 }
   );
 
+  function toDetails(summary: string, body: string) {
+    return (
+      `### ${summary}\n\n` +
+      `<details>\n` +
+      `<summary>${summary}</summary>\n\n` +
+      `${body}\n\n` +
+      `</summary>\n\n`
+    );
+  }
+
   // 写测试结果 MD
   let md =
     `<!-- 此文件由脚本自动生成，请勿手动修改！ -->\n` +
@@ -121,23 +131,15 @@ export function generateAndWrite(csl_file: string) {
     `<!-- prettier-ignore -->\n\n` +
     `<!-- PLACEHOLDER FOR WEBSITE -->\n\n` +
     `## 样式预览\n\n` +
-    `### 引注\n\n` +
-    `${result.citations}\n\n` +
-    `### 参考文献表\n\n` +
-    `${result.bibliography}\n\n` +
+    toDetails("引注", result.citations) +
+    toDetails("参考文献表", result.bibliography) +
     `## 默认测试\n\n` +
-    `### 引注\n\n` +
-    `${result.default_test_citations}\n\n` +
-    `### GB/T 7714—2015 示例文献\n\n` +
-    `${result.gb_result}\n\n` +
-    `### 《心理学报》 示例文献\n\n` +
-    `${result.aps_result}\n\n` +
-    `### 《中国社会科学》 示例文献\n\n` +
-    `${result.ssc_result}\n\n` +
-    `### 《法学引注手册》 示例文献\n\n` +
-    `${result.mlc_result}\n\n` +
-    `### APA 示例文献\n\n` +
-    `${result.apa_result}\n`;
+    toDetails("引注", result.default_test_citations!) +
+    toDetails("GB/T 7714—2015 示例文献", result.gb_result!) +
+    toDetails("《心理学报》 示例文献", result.aps_result!) +
+    toDetails("《中国社会科学》 示例文献", result.ssc_result!) +
+    toDetails("《法学引注手册》 示例文献", result.mlc_result!) +
+    toDetails("APA 示例文献", result.apa_result!);
 
   fs.outputFileSync(join(dir, "index.md"), md);
 

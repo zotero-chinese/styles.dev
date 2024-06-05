@@ -8,9 +8,17 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 （贾东琴, 和柯平 2011, 库恩 2012, 武丽丽等 2008, 中国互联网络信息中心 2012, Bawden 2008, Fan and Sommers 2013, Fourney c1971, Myburg et al 2014）
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -31,9 +39,14 @@
     <div class="csl-left-margin">8. 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. </div></div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 （Sunstein 1996）<br>
 （Morri 2010 p.260）<br>
@@ -43,7 +56,12 @@
 （罗杰斯 2011, Morri 2010, Sunstein 1996）<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -304,7 +322,12 @@
     <div class="csl-left-margin">128. 李强. 化解医患矛盾需釜底抽薪(2012-05-03)</div></div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -375,7 +398,12 @@
     <div class="csl-left-margin">33. 张三, 李四. 中国心理学与奥林匹克. 新华日报. 2008b: 2, 5–7</div></div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -476,7 +504,12 @@
     <div class="csl-left-margin">48. 扬之水. 两宋茶诗与茶事([日期不详])</div></div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -649,7 +682,12 @@
     <div class="csl-left-margin">84. 佚名. 温家宝主持国务院会议 研究房地产业健康发展措施([日期不详])</div></div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -1049,3 +1087,6 @@
   <div class="csl-entry">
     <div class="csl-left-margin">198. Epocrates. Epocrates medical references. App Store, 2019b(2019)</div></div>
 </div>
+
+</summary>
+

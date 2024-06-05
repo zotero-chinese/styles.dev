@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 <sup>1</sup> 库恩：《科学革命的结构: 第 4 版》2，金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
 <sup>2</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
 <sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年。<br>
@@ -19,7 +22,12 @@
 <sup>9</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, pp. 326–329.<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年。</div>
@@ -30,9 +38,14 @@
   <div class="csl-entry">Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, (June 2014), pp. 356–362.</div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 <sup>1</sup> Cass R. Sunstein, “Social norms and social roles,” <i>Columbia Law Review</i>, vol. 96, (1996), p. 903.<br>
 <sup>2</sup> I. Morri, <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
@@ -45,7 +58,12 @@
 <sup>9</sup> 同上，第331页。<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -177,7 +195,12 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -214,7 +237,12 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -266,7 +294,12 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -354,7 +387,12 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -554,4 +592,7 @@
 <sup>196</sup> [NO_PRINTED_FORM]<br>
 <sup>197</sup> [NO_PRINTED_FORM]<br>
 <sup>198</sup> [NO_PRINTED_FORM]<br>
+
+
+</summary>
 

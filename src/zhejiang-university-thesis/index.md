@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 （库恩，2012）<br>
 （Fourney, c1971）<br>
 （贾东琴、柯平，2011）<br>
@@ -17,7 +20,12 @@
 （Bawden, 2008; 中国互联网络信息中心，2012）<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴，柯平.面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社，2011.45–52.</div>
@@ -30,9 +38,14 @@
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. <i><span style="font-style:normal;">Nature</span></i>,2014, 510: 356–362.</div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 （张三，2008）<br>
 （张三，2008）<br>
@@ -61,7 +74,12 @@
 （Bai, 2002; Deng &#38; Feng, 2005; Chen, 2006）<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">白书农.植物开花研究[M]. 李承森, 编//植物科学进展. 北京: 高等教育出版社，1998.146–163.</div>
@@ -194,7 +212,12 @@
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">拉普拉斯, Pierre-Simon.概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社，1951.</div>
@@ -232,7 +255,12 @@
   <div class="csl-entry">Yu L. Phonological representation and processing in Chinese spoken language production[D]. Beijing Normal University, 2000.</div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">狄葆贤.平等阁笔记[M]. 上海: 有正书局，.</div>
@@ -285,7 +313,12 @@
   <div class="csl-entry">Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983.55–88.</div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[德]莱纳·沃尔夫.风险法的风险[M]. 刘刚, 编. 陈霄, 译//风险规制：德国的理论与实践. 法律出版社，2012.</div>
@@ -374,7 +407,12 @@
   <div class="csl-entry">Würdinger M.Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung,2012(3): 234–240.</div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. Brown v. Board of Education[Z](1954).</div>
@@ -576,3 +614,6 @@
   <div class="csl-entry">SR Research.Eyelink 1000 plus[Z](2016).</div>
   <div class="csl-entry">Tactile Labs.Latero tactile display[Z](2015).</div>
 </div>
+
+</summary>
+

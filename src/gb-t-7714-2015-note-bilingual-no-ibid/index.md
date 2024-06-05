@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 <sup>1</sup> 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
 <sup>2</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
 <sup>3</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
@@ -19,7 +22,12 @@
 <sup>9</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326-329[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -42,9 +50,14 @@
   </div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
 <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
@@ -57,7 +70,12 @@
 <sup>9</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006: 331.<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -189,7 +207,12 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -226,7 +249,12 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -278,7 +306,12 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -366,7 +399,12 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <sup>1</sup> [NO_PRINTED_FORM]<br>
 <sup>2</sup> [NO_PRINTED_FORM]<br>
@@ -566,4 +604,7 @@
 <sup>196</sup> [NO_PRINTED_FORM]<br>
 <sup>197</sup> [NO_PRINTED_FORM]<br>
 <sup>198</sup> [NO_PRINTED_FORM]<br>
+
+
+</summary>
 

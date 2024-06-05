@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 (库恩, 2012)<br>
 (Fourney, c1971)<br>
 (贾东琴, 柯平, 2011)<br>
@@ -17,7 +20,12 @@
 (Bawden, 2008; 中国互联网络信息中心, 2012)<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
@@ -30,9 +38,14 @@
   <div class="csl-entry">贾东琴, 柯平. (2011). 面向数字素养的高校图书馆数字服务体系研究. 收入 中国图书馆学会 (编), <i>中国图书馆学会年会论文集: 卷 2011 年卷</i> (页 45–52). 国家图书馆出版社.</div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 (张三, 2008)<br>
 (张三, 2008)<br>
@@ -61,7 +74,12 @@
 (Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005)<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science. (1883). <i>Science</i> (Vol. 1, Issue 1). American Association for the Advancement of Science.</div>
@@ -194,7 +212,12 @@
   <div class="csl-entry">马欢. (2011). <i>人类活动影响下海河流域典型区水循环变化分析</i> (页 27) [清华大学]. <a href="http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=">http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=</a></div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Auerbach, J. S. (1993). The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In M. F. Bornstein (Ed.), <i>Handbook of child psychology: Vol. 4. Socialization, personality, and social development</i> (4th ed., pp. 43–110). Wiley. <a href="https://doi.org/10.1037/10138-002">https://doi.org/10.1037/10138-002</a></div>
@@ -232,7 +255,12 @@
   <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> [博士学位论文]. 华东师范大学.</div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Brooks, P. (2000). <i>Troubling confessions: Speaking guilt in law and literature</i>. University of Chicago Press.</div>
@@ -285,7 +313,12 @@
   <div class="csl-entry">黄仁宇. (1997). 为什么称为《中国大历史》？——中文版自序. 收入 <i>中国大历史</i> (页 2). 三联书店.</div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Administrative Procedure Act § 6, 5 U.S.C. § 555 (2006).</div>
@@ -374,7 +407,12 @@
   <div class="csl-entry">NJW 1560 (BGH 2000).</div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry"><i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i>. (2017). [Film; Educational DVD]. American Pychological Association. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a></div>
@@ -576,3 +614,6 @@
   <div class="csl-entry">Zalta, E. N. (Ed.). (2019). <i>The Stanford encyclopedia of philosophy</i> (Summer 2019 ed.). Stanford University. <a href="https://plato.stanford.edu/archives/sum2019/">https://plato.stanford.edu/archives/sum2019/</a></div>
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. (2018, November 26). <i>Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by</i> [Photographs]. Instagram. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a></div>
 </div>
+
+</summary>
+

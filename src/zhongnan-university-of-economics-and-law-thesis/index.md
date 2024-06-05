@@ -8,9 +8,17 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 （贾东琴, 和柯平, 2011; 库恩, 2012; 武丽丽等, 2008; 中国互联网络信息中心, 2012; Bawden, 2008, Fan and Sommers, 2013, Fourney, c1971, Myburg et al, 2014）
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -31,9 +39,14 @@
     <div class="csl-left-margin">[8] Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, et al. The genome of eucalyptus Grandis[J]. Nature, 2014, 510: 356–362.</div></div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 （Sunstein, 1996）<br>
 （Morri, 2010, p.260）<br>
@@ -43,7 +56,12 @@
 （罗杰斯, 2011; Morri, 2010, Sunstein, 1996）<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -304,7 +322,12 @@
     <div class="csl-left-margin">[128] World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div></div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -375,7 +398,12 @@
     <div class="csl-left-margin">[33] Yu L. Phonological representation and processing in Chinese spoken language Production[D]. (Unpublished doctorial dissertationdissertation). Beijing Normal University, 2000.</div></div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -476,7 +504,12 @@
     <div class="csl-left-margin">[48] Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on Society, Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div></div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -649,7 +682,12 @@
     <div class="csl-left-margin">[84] Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung, 2012(3): 234–240.</div></div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-7 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -1049,3 +1087,6 @@
   <div class="csl-entry">
     <div class="csl-left-margin">[198] Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted By[Z](2018-11-26).</div></div>
 </div>
+
+</summary>
+

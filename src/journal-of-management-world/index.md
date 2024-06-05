@@ -8,6 +8,9 @@
 
 ### 引注
 
+<details>
+<summary>引注</summary>
+
 （库恩，2012）<br>
 （Fourney, c1971）<br>
 （贾东琴, 和柯平，2011）<br>
@@ -17,7 +20,12 @@
 （中国互联网络信息中心，2012；Bawden, 2008）<br>
 
 
+</summary>
+
 ### 参考文献表
+
+<details>
+<summary>参考文献表</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）Bawden D., 2008, “Origins and concepts of digital literacy”(2008-05-04).</div>
@@ -30,9 +38,14 @@
   <div class="csl-entry">（8）中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》. 。</div>
 </div>
 
+</summary>
+
 ## 默认测试
 
 ### 引注
+
+<details>
+<summary>引注</summary>
 
 （张三，2008）<br>
 （张三，2008）<br>
@@ -61,7 +74,12 @@
 （Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005）<br>
 
 
+</summary>
+
 ### GB/T 7714—2015 示例文献
+
+<details>
+<summary>GB/T 7714—2015 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）Anonymous, 1981, “Coffee drinking and cancer of the pancreas”, <i>British Medical Journal</i>, 283(6292), pp. 628.</div>
@@ -194,7 +212,12 @@
   <div class="csl-entry">（128）中华医学会湖北分会：《临床内科杂志》. 武汉: 中华医学会湖北分会(1984)。</div>
 </div>
 
+</summary>
+
 ### 《心理学报》 示例文献
+
+<details>
+<summary>《心理学报》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）Anonymous, 1980, “The new Grove dictionary of music and musicians”. Sadie S, ed.. 6 edition. London : New York: Macmillan.</div>
@@ -232,7 +255,12 @@
   <div class="csl-entry">（33）赵一一、钱二、孙三等：《中国心理学的过去与未来》，《心理学报》，2008年。</div>
 </div>
 
+</summary>
+
 ### 《中国社会科学》 示例文献
+
+<details>
+<summary>《中国社会科学》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）Anonymous, 1969, “Nixon to Kissinger”(1969-02-01).</div>
@@ -285,7 +313,12 @@
   <div class="csl-entry">（48）赵景深：《文坛忆旧》. 上海: 北新书局，1948年。</div>
 </div>
 
+</summary>
+
 ### 《法学引注手册》 示例文献
+
+<details>
+<summary>《法学引注手册》 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）佚名：(1999)。</div>
@@ -374,7 +407,12 @@
   <div class="csl-entry">（84）最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》(1993-11-12)。</div>
 </div>
 
+</summary>
+
 ### APA 示例文献
+
+<details>
+<summary>APA 示例文献</summary>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">（1）Anonymous, 1954, “Brown v. Board of Education”(1954).</div>
@@ -576,3 +614,6 @@
   <div class="csl-entry">（197）SR Research：《Eyelink 1000 plus》(2016)。</div>
   <div class="csl-entry">（198）Tactile Labs：《Latero tactile display》(2015)。</div>
 </div>
+
+</summary>
+
