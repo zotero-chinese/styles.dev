@@ -20,7 +20,7 @@
 （中国互联网络信息中心，2012；Bawden，2008）<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">Myburg Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz 2014, “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 （Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">Yufin Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">Yu Lin 2000, <i>Phonological Representation and Processing in Chinese Spoken Language Production</i>. Beijing Normal University Unpublished doctorial dissertation.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">Schfield R. S. 1983, “The Impact of Scarcity and Plenty on Population Change in England.” In R. I. Rotberg &#38; T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>. Cambridge, Mass.: Cambridge University Press.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">Würdinger Markus 2012, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts.” <i>Juristische Schulung</i> (3).</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa] 2018, <i>Grade 6 Learners from Parkfields Primary School in Hanover Park Visited the Museum for a Tour and Workshop Hosted By</i> (<a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>).</div>
 </div>
 
-</summary>
+</details>
 

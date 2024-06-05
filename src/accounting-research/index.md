@@ -20,7 +20,7 @@
 (中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, J. Schmutz. 2014. The genome of eucalyptus Grandis. Nature, 510: 356～362[2014–06–25].</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 (Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005)<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">World Health Organization. 1970. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">Yu, L. 2000. Phonological representation and processing in Chinese spoken language Production. Beijing Normal University[2023–01–24].</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">Schfield, R. S. 1983. The impact of scarcity and plenty on population change in England. Rotberg, R. I., T. K. Rabb, eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press: 55～88.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">Würdinger, M. 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Juristische Schulung, 3: 234～240[2022–07–26].</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted By(2018–11–26).</div>
 </div>
 
-</summary>
+</details>
 

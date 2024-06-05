@@ -22,7 +22,7 @@
 <sup>9</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, pp. 326–329.<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356–362.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -58,7 +58,7 @@
 <sup>9</sup> 同上，第331页。<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -195,7 +195,7 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -237,7 +237,7 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -294,7 +294,7 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -387,7 +387,7 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -594,5 +594,5 @@
 <sup>198</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 

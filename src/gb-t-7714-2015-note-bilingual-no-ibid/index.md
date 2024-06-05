@@ -22,7 +22,7 @@
 <sup>9</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326-329[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -50,7 +50,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -70,7 +70,7 @@
 <sup>9</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006: 331.<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -207,7 +207,7 @@
 <sup>128</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -249,7 +249,7 @@
 <sup>33</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -306,7 +306,7 @@
 <sup>48</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -399,7 +399,7 @@
 <sup>84</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -606,5 +606,5 @@
 <sup>198</sup> [NO_PRINTED_FORM]<br>
 
 
-</summary>
+</details>
 

@@ -13,7 +13,7 @@
 
 <sup>[1–8]</sup>
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -31,7 +31,7 @@
   <div class="csl-entry">@Origins and concepts of digital literacy@Bawden D. (@2008)</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -48,7 +48,7 @@
 <sup>[1–3]</sup><br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -186,7 +186,7 @@
   <div class="csl-entry">@Dublin core metadata element set: version 1.1@anonymous. (@2012)</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -229,7 +229,7 @@
   <div class="csl-entry">@中国心理学与奥林匹克@张三, 李四. (@2008)</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -287,7 +287,7 @@
   <div class="csl-entry">@Nixon to Kissinger@anonymous. (@1969)</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -381,7 +381,7 @@
   <div class="csl-entry">@温家宝主持国务院会议 研究房地产业健康发展措施@佚名. (@[日期不详])</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -589,5 +589,5 @@
   <div class="csl-entry">@United nations convention on the rights of the child@anonymous. (@1989)</div>
 </div>
 
-</summary>
+</details>
 

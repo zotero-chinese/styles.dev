@@ -13,7 +13,7 @@
 
 <sup>[1–8]</sup>
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -39,7 +39,7 @@
     <div class="csl-left-margin">Bawden D</div></div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -56,7 +56,7 @@
 <sup>[1–3]</sup><br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -322,7 +322,7 @@
     <div class="csl-left-margin">佚名</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -398,7 +398,7 @@
     <div class="csl-left-margin">张三, 李四</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -504,7 +504,7 @@
     <div class="csl-left-margin">佚名</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -682,7 +682,7 @@
     <div class="csl-left-margin">佚名</div></div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -1088,5 +1088,5 @@
     <div class="csl-left-margin">佚名</div></div>
 </div>
 
-</summary>
+</details>
 

@@ -20,7 +20,7 @@
 （Bawden, 2008; 中国互联网络信息中心，2012）<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. <i><span style="font-style:normal;">Nature</span></i>,2014, 510: 356–362.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 （Bai, 2002; Deng &#38; Feng, 2005; Chen, 2006）<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">Yu L. Phonological representation and processing in Chinese spoken language production[D]. Beijing Normal University, 2000.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983.55–88.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">Würdinger M.Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung,2012(3): 234–240.</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">Tactile Labs.Latero tactile display[Z](2015).</div>
 </div>
 
-</summary>
+</details>
 

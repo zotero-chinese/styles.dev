@@ -20,7 +20,7 @@
 (Bawden, 2008; 中国互联网络信息中心, 2012)<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">贾东琴, 柯平. (2011). 面向数字素养的高校图书馆数字服务体系研究. 收入 中国图书馆学会 (编), <i>中国图书馆学会年会论文集: 卷 2011 年卷</i> (页 45–52). 国家图书馆出版社.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 (Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005)<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">马欢. (2011). <i>人类活动影响下海河流域典型区水循环变化分析</i> (页 27) [清华大学]. <a href="http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=">http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=</a></div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">邱颖文. (2009). <i>遗传与语言学习</i> [博士学位论文]. 华东师范大学.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">黄仁宇. (1997). 为什么称为《中国大历史》？——中文版自序. 收入 <i>中国大历史</i> (页 2). 三联书店.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">NJW 1560 (BGH 2000).</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. (2018, November 26). <i>Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by</i> [Photographs]. Instagram. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a></div>
 </div>
 
-</summary>
+</details>
 

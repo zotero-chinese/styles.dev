@@ -13,7 +13,7 @@
 
 <sup>[1–8]</sup>
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -34,7 +34,7 @@
   <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB](2008-05-04)[2013-03-08].</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -51,7 +51,7 @@
 <sup>[1–3]</sup><br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -243,7 +243,7 @@
   <div class="csl-entry">[128] Anonymous. Dublin core metadata element set: version 1.1[EB](2012-06-14)[2014-06-11].</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -286,7 +286,7 @@
   <div class="csl-entry">[33] 张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008: 2, 5–7.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -359,7 +359,7 @@
   <div class="csl-entry">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -483,7 +483,7 @@
   <div class="csl-entry">[84] 佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB]([日期不详]).</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -691,5 +691,5 @@
   <div class="csl-entry">[198] Anonymous. United nations convention on the rights of the child[Z](1989-11-20).</div>
 </div>
 
-</summary>
+</details>
 

@@ -20,7 +20,7 @@
 （中国互联网络信息中心, 2012; Bawden, 2008）<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">中国互联网络信息中心, 2012：“第 29 次中国互联网络发展现状统计报告”. [2013-03-26]。</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 （Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005）<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">中华医学会湖北分会, 1984：“临床内科杂志”. 武汉: 中华医学会湖北分会(1984)。</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">赵一一、钱二、孙三等, 2008：“中国心理学的过去与未来”，《心理学报》，2008: 210–215。</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">赵景深, 1948：“文坛忆旧”. 上海: 北新书局。</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">最高人民法院、最高人民检察院, 1993：“最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知”(1993-11-12)[2022-10-14]。</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">Tactile Labs, 2015：“Latero tactile display”(2015)。</div>
 </div>
 
-</summary>
+</details>
 

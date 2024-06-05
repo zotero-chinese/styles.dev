@@ -20,7 +20,7 @@
 （Bawden，2008；中国互联网络信息中心，2012）<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. 2014. The genome of eucalyptus Grandis[J]. Nature. 510: 356–362.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 （Bai，2002；Deng and Feng，2005；Chen，2006）<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">YU L. 2000. Phonological representation and processing in Chinese spoken language Production[D]. Beijing Normal University.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press: 55–88.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">WÜRDINGER M. 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung. (3): 234–240.</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">ZEITZ MOCAA [@ZEITZMOCAA]. 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted By[Z](2018–11–26).</div>
 </div>
 
-</summary>
+</details>
 

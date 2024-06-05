@@ -13,7 +13,7 @@
 
 (库恩, 2012)<sup>[1]</sup>,(Fan &#38; Sommers, 2013)<sup>[2]</sup>,(贾东琴和柯平, 2011)<sup>[3]</sup>,(Fourney, c1971)<sup>[4]</sup>,(武丽丽等, 2008)<sup>[5]</sup>,(Myburg等, 2014)<sup>[6]</sup>,(中国互联网络信息中心, 2012)<sup>[7]</sup>,(Bawden, 2008)<sup>[8]</sup>
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -39,7 +39,7 @@
     <div class="csl-left-margin">[8] Bawden D. Origins and concepts of digital literacy[EB](2008-05-04)[2013-03-08].</div></div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -56,7 +56,7 @@
 (Sunstein, 1996)<sup>[1]</sup>,(Morri, 2010)<sup>[2]</sup>,(罗杰斯, 2011)<sup>[3]</sup><br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -322,7 +322,7 @@
     <div class="csl-left-margin">[128] Anonymous. Dublin core metadata element set: version 1.1[EB](2012-06-14)[2014-06-11].</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -398,7 +398,7 @@
     <div class="csl-left-margin">[33] 张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008: 2, 5–7.</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -504,7 +504,7 @@
     <div class="csl-left-margin">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div></div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -682,7 +682,7 @@
     <div class="csl-left-margin">[84] 佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB]([日期不详]).</div></div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -1088,5 +1088,5 @@
     <div class="csl-left-margin">[198] Anonymous. United nations convention on the rights of the child[Z](1989-11-20).</div></div>
 </div>
 
-</summary>
+</details>
 

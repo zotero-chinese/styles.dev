@@ -20,7 +20,7 @@
 （中国互联网络信息中心, 2012; Bawden, 2008）<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -54,7 +54,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -90,7 +90,7 @@
 （Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005）<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -484,7 +484,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -593,7 +593,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -747,7 +747,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -1009,7 +1009,7 @@
   </div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -1613,5 +1613,5 @@
   </div>
 </div>
 
-</summary>
+</details>
 

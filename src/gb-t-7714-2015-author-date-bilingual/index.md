@@ -20,7 +20,7 @@
 (中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
-</summary>
+</details>
 
 ### 参考文献表
 
@@ -38,7 +38,7 @@
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
 </div>
 
-</summary>
+</details>
 
 ## 默认测试
 
@@ -74,7 +74,7 @@
 (Deng et al., 2005; Chen, 2006; Bai, 2002)<br>
 
 
-</summary>
+</details>
 
 ### GB/T 7714—2015 示例文献
 
@@ -212,7 +212,7 @@
   <div class="csl-entry">YUFIN S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《心理学报》 示例文献
 
@@ -255,7 +255,7 @@
   <div class="csl-entry">YU L, 2000. Phonological representation and processing in Chinese spoken language production[D/OL]. Beijing Normal University[2023-01-24]. <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a>.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《中国社会科学》 示例文献
 
@@ -313,7 +313,7 @@
   <div class="csl-entry">SCHFIELD R S, 1983. The impact of scarcity and plenty on population change in England[M]//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
-</summary>
+</details>
 
 ### 《法学引注手册》 示例文献
 
@@ -407,7 +407,7 @@
   <div class="csl-entry">WÜRDINGER M, 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. Juristische Schulung(3): 234-240[2022-07-26]. <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.</div>
 </div>
 
-</summary>
+</details>
 
 ### APA 示例文献
 
@@ -615,5 +615,5 @@
   <div class="csl-entry">ZEITZ MOCAA [@ZEITZMOCAA], 2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]//Instagram. (2018-11-26). <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>
 </div>
 
-</summary>
+</details>
 
