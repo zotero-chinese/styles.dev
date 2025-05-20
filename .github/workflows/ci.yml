@@ -49,16 +49,30 @@ jobs:
           author_name: GitHub Actions
           author_email: github-actions[bot]@users.noreply.github.com
 
-  # send-dispatch:
-  #   name: 请求部署上线
-  #   if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
-  #   needs:
-  #     - build
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Repository Dispatch
-  #       uses: peter-evans/repository-dispatch@v3
-  #       with:
-  #         token: ${{ secrets.ACCESS_TOKEN }}
-  #         repository: zotero-chinese/website
-  #         event-type: update-content
+  send-dispatch:
+    name: 请求部署上线
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: zotero-chinese/website
+          event-type: update-triggered-by-styles-repo
+
+  sync:
+    name: 同步到 Gitee
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "git@github.com:zotero-chinese/styles.git" # github仓库地址
+          destination-repo: "git@gitee.com:zotero-chinese-x/styles.git" # gitee仓库地址
