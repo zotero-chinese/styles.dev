@@ -14,5 +14,5 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-          source-repo: "git@github.com:zotero-chinese/styles.git" # github仓库地址
-          destination-repo: "git@gitee.com:zotero-chinese-x/styles.git" # gitee仓库地址
+          source-repo: "git@github.com:zotero-chinese/styles.dev.git" # github仓库地址
+          destination-repo: "git@gitee.com:zotero-chinese-x/styles.dev.git" # gitee仓库地址
