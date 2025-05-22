@@ -13,9 +13,9 @@ jobs:
     name: 同步到 Gitee
     runs-on: ubuntu-latest
     steps:
-      - uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+      - uses: actions/checkout@v4
+      - uses: northword/push-to-gitee-action@v0
         with:
-          source-repo: "git@github.com:zotero-chinese/styles.dev.git" # github仓库地址
-          destination-repo: "git@gitee.com:zotero-chinese-x/styles.dev.git" # gitee仓库地址
+          gitee_repo: git@gitee.com:zotero-chinese-x/styles.dev.git
+          gitee_token: ${{ secrets.GITEE_PRIVATE_KEY }}
+          files: "**/*.csl"
