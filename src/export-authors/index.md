@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->
 
 ## 样式预览
 
@@ -93,7 +93,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">贾东琴, 柯平</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Weinstein L, Swertz M N</div></div>
+    <div class="csl-left-margin">Weinstein L, Swartz M N</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Roberson J Alan, Burneson Eric G</div></div>
   <div class="csl-entry">
@@ -115,7 +115,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Kanamori H</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Caplan P</div></div>
+    <div class="csl-left-margin">Caplan Priscilla</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Frese Karen S, Katus Hugo A, Meder Benjamin</div></div>
   <div class="csl-entry">
@@ -125,7 +125,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">西安电子科技大学</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Tachibana Ryuki, Shimizu Shuhichi, Kobayshi Seiji, Nakamura Taiga</div></div>
+    <div class="csl-left-margin">Tachibana Ryuki, Shimizu Shuhichi, Kobayashi Seiji, Nakamura Taiga</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">中国互联网络信息中心</div></div>
   <div class="csl-entry">
@@ -141,7 +141,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">刘乃安</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Deverell William, Igler David</div></div>
+    <div class="csl-left-margin">佚名</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Baker S K, Jackson M E</div></div>
   <div class="csl-entry">
@@ -157,7 +157,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Sunstein Cass R</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Morri I</div></div>
+    <div class="csl-left-margin">Morris Ian</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">罗杰斯</div></div>
   <div class="csl-entry">
@@ -205,7 +205,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">侯文顺</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Crawford W, Gorman M</div></div>
+    <div class="csl-left-margin">Crawford Walt, Gorman Michael</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">International Federation of Library Association and Institutions</div></div>
   <div class="csl-entry">
@@ -291,7 +291,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">丁文详</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">张田勤</div></div>
+    <div class="csl-left-margin">张田勘</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">傅刚, 赵承, 李佳路</div></div>
   <div class="csl-entry">
@@ -447,6 +447,8 @@
   <div class="csl-entry">
     <div class="csl-left-margin">魏丽英</div></div>
   <div class="csl-entry">
+    <div class="csl-left-margin">费成康</div></div>
+  <div class="csl-entry">
     <div class="csl-left-margin">黄义豪</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">倪素香</div></div>
@@ -462,8 +464,6 @@
     <div class="csl-left-margin">佚名</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">方明东</div></div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">任东来</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">任东来</div></div>
   <div class="csl-entry">
@@ -545,6 +545,10 @@
     <div class="csl-left-margin">邓小平</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">[英]劳特派特</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">瞿同祖</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">崔国斌</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">全国人大常委会</div></div>
   <div class="csl-entry">

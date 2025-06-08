@@ -7,19 +7,22 @@
   "link_self": "http://www.zotero.org/styles/sociological-studies",
   "link_template": "http://www.zotero.org/styles/chicago-author-date",
   "link_documentation": "http://shxyj.ajcass.org/Home/channel?ChannelUrl=tgyq",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "sociology",
-  "summary": "",
-  "updated": "",
+  "updated": "2022-06-20T12:31:00+08:00",
   "citations": "（冯钢，2018）<br>\n（刘江、顾东辉，2022）<br>\n（刘江、顾东辉，2022；冯钢，2018）<br>\n（Uslaner，2002）<br>\n（Ozawa &#38; Sripad，2013）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">冯钢，2018，《马克思的“过渡”理论与“卡夫丁峡谷”之谜》，《社会学研究》第2期。</div>\n  <div class=\"csl-entry\">刘江、顾东辉，2022，《“约束—内化”vs.反思性实践认知——社会工作伦理守则与留职意愿关系研究》，《社会学研究》第2期。</div>\n  <div class=\"csl-entry\">Ozawa Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>\n  <div class=\"csl-entry\">Uslaner Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>\n</div>",
   "tags": [
     "姓名小写",
-    "无标题",
-    "期刊缩写",
-    "无DOI",
-    "无URL"
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
   ]
 }

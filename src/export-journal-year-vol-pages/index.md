@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->
 
 ## 样式预览
 
@@ -59,7 +59,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">. 北京: 科学出版社, 2010</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">. 北京: 北京古籍出版社, 1992</div></div>
+    <div class="csl-left-margin">. 北京: 北京古籍出版社, 1982</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. 刻本 版. 金陵: 湘乡曾国荃, 1865</div></div>
   <div class="csl-entry">.
@@ -93,7 +93,7 @@
   <div class="csl-entry">.
     <div class="csl-left-margin"> 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52</div></div>
   <div class="csl-entry">.
-    <div class="csl-left-margin"> Sodeman W A Jr, Sodeman W A, 编//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772</div></div>
+    <div class="csl-left-margin"> Sodeman W A Jr, Sodeman W A, 编//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 457–472</div></div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> American Water Works Association, 编//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36</div></div>
   <div class="csl-entry">.
@@ -109,7 +109,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">图书情报工作 (2008, 52(6): 6–12)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中华移植杂志(电子版) (2010, 4(3): 225–228)</div> </div>
+    <div class="csl-left-margin">中华移植杂志（电子版） (2010, 4(3): 225–228)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">测绘科学 (2008, 33(5): 8–9)</div> </div>
   <div class="csl-entry">
@@ -128,7 +128,8 @@
     <div class="csl-left-margin">Electronic watermarking method and system (US6915001)</div> </div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div></div>
-  <div class="csl-entry">41. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">(2005-07-12)</div></div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div></div>
   <div class="csl-entry">.
@@ -139,8 +140,8 @@
     <div class="csl-left-margin">British Medical Journal (1981, 283(6292): 628)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">. 合肥: 中国科学技术大学, 2000: 17–18</div></div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">. New York: John Wiley &#38; Sons, 2013: 21–22</div></div>
+  <div class="csl-entry">.
+    <div class="csl-left-margin"> Deverell W, Igler D, 编. New York: John Wiley &#38; Sons, 2013: 21–22</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. New York: The Haworth Press, 1995</div></div>
   <div class="csl-entry">
@@ -166,7 +167,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">College &#38; Research Libraries (1981, 42(6): 549–560)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">山西师范大学学报(社会科学版) (2010, 37(4): 147)</div> </div>
+    <div class="csl-left-margin">山西师范大学学报（社会科学版） (2010, 37(4): 147)</div> </div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> 曹志耘, 编//汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138</div></div>
   <div class="csl-entry">
@@ -184,7 +185,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">. 南京: 江苏古籍出版社, 2002: 288</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">. 北京: 北京图书馆出版社, 2009: 155</div></div>
+    <div class="csl-left-margin">. 北京: 国家图书馆, 2009: 155</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. 武汉: 武汉大学出版社, 2010: 112</div></div>
   <div class="csl-entry">.
@@ -208,7 +209,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">. 3 版. London: IFLA International Office for UBC, 1977</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">. 7 版. Burr Ridge, III: Irwin, 1994</div></div>
+    <div class="csl-left-margin">. 7 版. Burr Ridge, IL: Irwin, 1994</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. Cambridge, Mass.: MIT Press, 2012: 50</div></div>
   <div class="csl-entry">
@@ -266,7 +267,7 @@
   <div class="csl-entry">.
     <div class="csl-left-margin"> 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div></div>
+    <div class="csl-left-margin">//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38</div></div>
   <div class="csl-entry">
@@ -274,7 +275,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">图书情报工作 (2008, 52(6): 6–21)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">清华大学学报(自然科学版) (2012, 52(11): 1518–1523)</div> </div>
+    <div class="csl-left-margin">清华大学学报（自然科学版） (2012, 52(11): 1518–1523)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">国土资源导刊 (2010, 7(10): 93)</div> </div>
   <div class="csl-entry">
@@ -408,15 +409,15 @@
   <div class="csl-entry">.
     <div class="csl-left-margin"> 王宁, 薛晓源, 编//全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247–266</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">//鲁迅全集. 北京: 人民文学出版社, 1981: 325</div></div>
+    <div class="csl-left-margin">//鲁迅全集. 北京: 人民文学出版社, 1981</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">//识史集. 上海: 上海古籍出版社, 1997: 65</div></div>
+    <div class="csl-left-margin">//识史集. 上海: 上海古籍出版社, 1997</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. 北京: 人民出版社, 1994</div></div>
   <div class="csl-entry">.
-    <div class="csl-left-margin"> 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998: 2</div></div>
+    <div class="csl-left-margin"> 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">//中国大历史. 北京: 三联书店, 1997: 2</div></div>
+    <div class="csl-left-margin">//中国大历史. 北京: 三联书店, 1997</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">([日期不详])</div></div>
   <div class="csl-entry">.
@@ -440,21 +441,23 @@
   <div class="csl-entry">.
     <div class="csl-left-margin"> 北京: 中华书局, 1987(1987)</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中国史研究 (1998(3))</div> </div>
+    <div class="csl-left-margin">中国史研究 (1998(3): 167–173)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">中国经济 (1936, 4(6))</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">社会科学 (1990(6))</div> </div>
+    <div class="csl-left-margin">社会科学 (1990(6): 68–73, 86)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">福建论坛 (1997(3))</div> </div>
+    <div class="csl-left-margin">社会科学 (1999(9): 63–67)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">武汉大学学报 (2002(4))</div> </div>
+    <div class="csl-left-margin">福建论坛 (1997(3): 26–27)</div> </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">武汉大学学报 (2002(4): 512–513)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">四川工人日报 (1986: 2)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">清议报 ([日期不详], 第69册: 第1页)</div> </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">广益丛报 (1910(第8年第19期): 1–2)</div> </div>
+    <div class="csl-left-margin">广益丛报 (1910(第8年第19期): 第1—2页)</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">民国日报 (1925: 4)</div> </div>
   <div class="csl-entry">
@@ -463,8 +466,6 @@
     <div class="csl-left-margin">. 北京师范大学历史系, 2000</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">. </div></div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">//全球化与亚太区域化国际研讨会论文集.</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">(1917-09-15)</div></div>
   <div class="csl-entry">
@@ -501,7 +502,7 @@
   <div class="csl-entry">.
     <div class="csl-left-margin"> 郑戈, 译. 商务印书馆, 2005</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中国社会科学 (1993(1))</div> </div>
+    <div class="csl-left-margin">中国社会科学 (1993(1): 83–103)</div> </div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> 梁慧星, 编//民商法论丛. 法律出版社, 1994: 110</div></div>
   <div class="csl-entry">.
@@ -543,14 +544,18 @@
     <div class="csl-left-margin">//邓小平文选. 2 版. 人民出版社, 1994</div></div>
   <div class="csl-entry">.
     <div class="csl-left-margin"> 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971</div></div>
-  <div class="csl-entry">27. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">. 商务印书馆, 2010: 428</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">中国法学 (2006(1): 144–164)</div> </div>
+  <div class="csl-entry">29. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">2005年修订 版.</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">2013年修正 版.</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">(1993-11-12)</div></div>
-  <div class="csl-entry">31. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">33. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">(2007-07-11)</div></div>
   <div class="csl-entry">
@@ -621,9 +626,9 @@
     <div class="csl-left-margin"> Baumann J, 编//Das Abtreibungsverbot des § 218 StGB. 2 版.</div> </div>
   <div class="csl-entry">
     <div class="csl-left-margin">. </div></div>
-  <div class="csl-entry">67. [CSL STYLE ERROR: reference with no printed form.]</div>
-  <div class="csl-entry">68. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">69. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">70. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">71. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">([日期不详])</div></div>
   <div class="csl-entry">
@@ -644,7 +649,7 @@
     <div class="csl-left-margin">(1919-03-03)</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">(1982-07-15)</div></div>
-  <div class="csl-entry">80. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">82. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">([日期不详])</div></div>
   <div class="csl-entry">.

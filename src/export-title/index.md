@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->
 
 ## 样式预览
 
@@ -14,7 +14,7 @@
 
 <div class="csl-bib-body maxoffset-40 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">科学革命的结构: 第 4 版</div></div>
+    <div class="csl-left-margin">科学革命的结构：第 4 版</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Food irradiation research and technology</div></div>
   <div class="csl-entry">
@@ -26,7 +26,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">The genome of eucalyptus grandis</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">第 29 次中国互联网络发展现状统计报告</div></div>
+    <div class="csl-left-margin">第 29 次中国互联网络发展状况统计报告</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Origins and concepts of digital literacy</div></div>
 </div>
@@ -59,7 +59,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">物质结构</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">昌平山水记: 京东考古录</div></div>
+    <div class="csl-left-margin">昌平山水记：京东考古录</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">宋论</div></div>
   <div class="csl-entry">
@@ -73,7 +73,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">汶川地震灾害研究</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中国造纸年鉴: 2003</div></div>
+    <div class="csl-left-margin">中国造纸年鉴：2003</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Probability, random variables, and random signal principles</div></div>
   <div class="csl-entry">
@@ -83,19 +83,19 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Food irradiation research and technology</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">周易外传: 卷 5</div></div>
+    <div class="csl-left-margin">周易外传：卷 5</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">1998 年长江洪水的成因与减灾对策</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">蓟县震旦亚界研究</div></div>
+    <div class="csl-left-margin">蓟县震旦亚界的研究</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">政治经济学批判</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">面向数字素养的高校图书馆数字服务体系研究</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Pathogenic properties of invading microorganism</div></div>
+    <div class="csl-left-margin">Pathogenic properties of invading microorganisms</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Drinking water standards, regulations and goals</div></div>
+    <div class="csl-left-margin">Drinking water standards, regulations, and goals</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">临床内科杂志</div></div>
   <div class="csl-entry">
@@ -103,13 +103,13 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Science</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口</div></div>
+    <div class="csl-left-margin">蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">我们的科技一直在追赶: 访中国工程院院长周济</div></div>
+    <div class="csl-left-margin">我们的科技一直在追赶：访中国工程院院长周济</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">韩国图书馆法</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">循证医学研究方法: 附视频</div></div>
+    <div class="csl-left-margin">循证医学研究方法：附视频</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">“北斗一号”监控管理网设计与实现</div></div>
   <div class="csl-entry">
@@ -127,15 +127,15 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Electronic watermarking method and system: US6915001</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">第 29 次中国互联网络发展现状统计报告</div></div>
+    <div class="csl-left-margin">第 29 次中国互联网络发展状况统计报告</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号</div></div>
+    <div class="csl-left-margin">关于转发北京市企业投资项目核准暂行实施办法的通知</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Origins and concepts of digital literacy</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">About OCLC: History of cooperation</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">UNIMARC and metadata: Dublin core</div></div>
+    <div class="csl-left-margin">UNIMARC and metadata: Dublin Core</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Coffee drinking and cancer of the pancreas</div></div>
   <div class="csl-entry">
@@ -157,9 +157,9 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Social norms and social roles</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Why the west rules for now: the patterns of history, and what they reveal about the future</div></div>
+    <div class="csl-left-margin">Why the West rules—for now: the patterns of history, and what they reveal about the future</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">西方文明史: 问题与源头</div></div>
+    <div class="csl-left-margin">西方文明史：问题与源头</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">国史旧闻</div></div>
   <div class="csl-entry">
@@ -169,17 +169,17 @@
   <div class="csl-entry">
     <div class="csl-left-margin">天津方言的源流关系刍议</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">从几组声母的演变看天津方言形成的自然条件和历史条件</div></div>
+    <div class="csl-left-margin">从几组声母的演变看天津方言形成的自然条件和历史背景</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">科技书刊的总编(主编)的角色要求</div></div>
+    <div class="csl-left-margin">科技书刊的总编（主编）的角色要求</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">现代汉语词典</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中国的青年刊物: 个性特色为本仁</div></div>
+    <div class="csl-left-margin">中国的青年刊物：个性特色为本仁</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">在中国科协学术期刊编辑工作经验交流会上的讲话</div></div>
   <div class="csl-entry">
@@ -189,21 +189,21 @@
   <div class="csl-entry">
     <div class="csl-left-margin">理论物理概论</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">新生儿脑病和脑性瘫痪发病机制与病理生理</div></div>
+    <div class="csl-left-margin">新生儿脑病和脑性瘫痪：发病机制与病理生理</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">康熙字典: 巳集上: 水部</div></div>
+    <div class="csl-left-margin">康熙字典：巳集上：水部</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">增订本草备要</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">中国森林群落分类及其群落特征</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">投资台湾: 大陆企业赴台投资指南</div></div>
+    <div class="csl-left-margin">投资台湾：大陆企业赴台投资指南</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">战前中国经济的增长</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">科学革命的结构: 第 4 版</div></div>
+    <div class="csl-left-margin">科学革命的结构：第 4 版</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">高分子物理: 高分子材料分析、选择与改性</div></div>
+    <div class="csl-left-margin">高分子物理：高分子材料分析、选择与改性</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Future libraries: Dreams, madness, &#38; reality</div></div>
   <div class="csl-entry">
@@ -219,13 +219,13 @@
   <div class="csl-entry">
     <div class="csl-left-margin">台湾光复六十五周年暨抗战史实学术研讨会论文集</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">综合湿地管理: 综合湿地管理国际研讨会论文集</div></div>
+    <div class="csl-left-margin">综合湿地管理：综合湿地管理国际研讨会论文集</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集</div></div>
+    <div class="csl-left-margin">中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Proceedings of the Second International Conference on Soft Computing for Problem Solving</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">国防白皮书: 中国武装力量的多样化运用</div></div>
+    <div class="csl-left-margin">国防白皮书：中国武装力量的多样化运用</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">人体安全重要技术标准研制最终报告: 7178999X–2006BAK04A10/10.2013</div></div>
   <div class="csl-entry">
@@ -247,13 +247,13 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Compiler: US828402</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">文献著录: 第 4 部分 非书资料</div></div>
+    <div class="csl-left-margin">文献著录：第 4 部分 非书资料</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">广播电视音像资料编目规范: 第 2 部分 广播资料</div></div>
+    <div class="csl-left-margin">广播电视音像资料编目规范：第 2 部分 广播资料</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">土壤环境质量标准</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Information and documentation—The Dublin core metadata element set</div></div>
+    <div class="csl-left-margin">Information and documentation—The Dublin Core metadata element set</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">卷 39 乞致仕第一</div></div>
   <div class="csl-entry">
@@ -263,7 +263,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">世界各国和地区名称代码</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">宋史卷三: 本纪第三</div></div>
+    <div class="csl-left-margin">宋史卷三：本纪第三</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">汶川地震基岩地震动特征分析</div></div>
   <div class="csl-entry">
@@ -295,7 +295,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">大风沙过后的思考</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">雾霾来袭, 如何突围?</div></div>
+    <div class="csl-left-margin">雾霾来袭，如何突围？</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">出版业信息化迈入快车道</div></div>
   <div class="csl-entry">
@@ -303,7 +303,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Pennsylvania library laws</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Dublin core metadata element set: version 1.1</div></div>
+    <div class="csl-left-margin">Dublin Core metadata element set: version 1.1</div></div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -445,7 +445,9 @@
   <div class="csl-entry">
     <div class="csl-left-margin">江苏的小农及其副业</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">论近代西北人口波动的主要原因</div></div>
+    <div class="csl-left-margin">论近代西北人口波动的若干主要原因</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">葡萄牙人如何进入澳门问题辨正</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">评黄龟年四劾秦桧</div></div>
   <div class="csl-entry">
@@ -462,8 +464,6 @@
     <div class="csl-left-margin">西南中委反对在宁召开五全会</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">罗隆基政治思想研究（1913—1949）</div></div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">对国际体制和国际制度的理解和翻译</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">对国际体制和国际制度的理解和翻译</div></div>
   <div class="csl-entry">
@@ -546,6 +546,10 @@
   <div class="csl-entry">
     <div class="csl-left-margin">奥本海国际法</div></div>
   <div class="csl-entry">
+    <div class="csl-left-margin">中国法律与中国社会</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">知识产权法官造法批判</div></div>
+  <div class="csl-entry">
     <div class="csl-left-margin">中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">中华人民共和国公司法</div></div>
@@ -619,7 +623,7 @@
     <div class="csl-left-margin">Strafrecht Allgemeiner Teil</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Rechtsphilosophie Studienausgabe</div></div>
-  <div class="csl-entry">64. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">66. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht</div></div>
   <div class="csl-entry">
@@ -632,8 +636,8 @@
     <div class="csl-left-margin">GG</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Strauß-Karikatur, Kunstfreiheit</div></div>
-  <div class="csl-entry">71. [CSL STYLE ERROR: reference with no printed form.]</div>
-  <div class="csl-entry">72. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">73. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">74. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">
     <div class="csl-left-margin">Wissenschaftliches Publizieren</div></div>
   <div class="csl-entry">
@@ -892,7 +896,7 @@
   <div class="csl-entry">
     <div class="csl-left-margin">Interaction Check: Aspirin + Sertraline</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</div></div>
+    <div class="csl-left-margin">Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">Gender-Science IAT</div></div>
   <div class="csl-entry">

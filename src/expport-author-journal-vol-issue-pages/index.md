@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->
 
 ## 样式预览
 
@@ -72,7 +72,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">徐光宪等. . 北京: 科学出版社, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">顾炎武. . 北京: 北京古籍出版社, 1992.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">顾炎武. . 北京: 北京古籍出版社, 1982.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">王夫之. . 刻本 版. 金陵: 湘乡曾国荃, 1865.</div>
@@ -123,7 +123,7 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein L et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein L et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 457–472.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Roberson J A et al. . American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
@@ -147,7 +147,7 @@
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">李炳穆. 图书情报工作, 2008, 52(6): 6–12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平等. 中华移植杂志(电子版), 2010, 4(3): 225–228.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平等. 中华移植杂志（电子版）, 2010, 4(3): 225–228.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">武丽丽等. 测绘科学, 2008, 33(5): 8–9.</div>
@@ -177,7 +177,7 @@
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心. . (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. .</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. (2005-07-12).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Bawden D. . (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -195,7 +195,7 @@
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">刘乃安. . 合肥: 中国科学技术大学, 2000: 17–18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Deverell W et al. . New York: John Wiley &#38; Sons, 2013: 21–22.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Anonymous. . Deverell W et al., eds.. New York: John Wiley &#38; Sons, 2013: 21–22.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Baker S K et al. . New York: The Haworth Press, 1995.</div>
@@ -219,7 +219,7 @@
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Sunstein C R. Columbia Law Review, 1996, 96: 903.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morri I. . New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I. . New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯. . 潘惠霞等, 译. 大连: 东北财经大学出版社, 2011: 15–16.</div>
@@ -234,7 +234,7 @@
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Stieg M F. College &#38; Research Libraries, 1981, 42(6): 549–560.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">王临惠等. 山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">王临惠等. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">王临惠. . 曹志耘, 编//汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
@@ -261,7 +261,7 @@
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">张伯伟. . 南京: 江苏古籍出版社, 2002: 288.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">皮锡瑞. . 北京: 北京图书馆出版社, 2009: 155.</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">皮锡瑞. . 北京: 国家图书馆, 2009: 155.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">胡承正等. . 武汉: 武汉大学出版社, 2010: 112.</div>
@@ -297,7 +297,7 @@
     <div class="csl-left-margin">[80]</div><div class="csl-right-inline">International Federation of Library Association and Institutions. . 3 edition. London: IFLA International Office for UBC, 1977.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">O’Brien J A. . 7 edition. Burr Ridge, III: Irwin, 1994.</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">O’Brien J A. . 7 edition. Burr Ridge, IL: Irwin, 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Kinchy A. . Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -384,7 +384,7 @@
     <div class="csl-left-margin">[109]</div><div class="csl-right-inline">楼梦鳞等. . 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck P R et al. //Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck P R et al. //Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E. //Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
@@ -396,7 +396,7 @@
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">李炳穆. 图书情报工作, 2008, 52(6): 6–21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">于潇等. 清华大学学报(自然科学版), 2012, 52(11): 1518–1523.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">于潇等. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">陈建军. 国土资源导刊, 2010, 7(10): 93.</div>
@@ -420,7 +420,7 @@
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详. 中国青年报, 2000: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勤. 大众科技报, 2000: 7.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勘. 大众科技报, 2000: 7.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚等. 北京青年报, 2000.</div>
@@ -588,19 +588,19 @@
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">杜威·佛克马. . 王宁等, 编//全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247–266.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">鲁迅. //鲁迅全集. 北京: 人民文学出版社, 1981: 325.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">鲁迅. //鲁迅全集. 北京: 人民文学出版社, 1981.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">唐振常. //识史集. 上海: 上海古籍出版社, 1997: 65.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">唐振常. //识史集. 上海: 上海古籍出版社, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李鹏程. . 北京: 人民出版社, 1994.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">楼适夷. . 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998: 2.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">楼适夷. . 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">黄仁宇. //中国大历史. 北京: 三联书店, 1997: 2.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">黄仁宇. //中国大历史. 北京: 三联书店, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">姚际恒. ([日期不详]).</div>
@@ -636,43 +636,43 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">佚名. . 北京: 中华书局, 1987(1987).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 中国史研究, 1998(3).</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 中国史研究, 1998(3): 167–173.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今. 中国经济, 1936, 4(6).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 社会科学, 1990(6).</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 社会科学, 1990(6): 68–73, 86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">黄义豪. 福建论坛, 1997(3).</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康. 社会科学, 1999(9): 63–67.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">倪素香. 武汉大学学报, 2002(4).</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪. 福建论坛, 1997(3): 26–27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">李眉. 四川工人日报, 1986: 2.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香. 武汉大学学报, 2002(4): 512–513.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">伤心人（麦孟华）. 清议报, [日期不详], 第69册: 第1页.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉. 四川工人日报, 1986: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">佚名. 广益丛报, 1910(第8年第19期): 1–2.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）. 清议报, [日期不详], 第69册: 第1页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名. 民国日报, 1925: 4.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名. 广益丛报, 1910(第8年第19期): 第1—2页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 民国日报, 1933: 第1张第4版.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 民国日报, 1925: 4.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">方明东. . 北京师范大学历史系, 2000.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名. 民国日报, 1933: 第1张第4版.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">任东来. . .</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. . 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. //全球化与亚太区域化国际研讨会论文集. .</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. . .</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. (1917-09-15).</div>
@@ -723,7 +723,7 @@
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">[美]富勒. . 郑戈, 译. 商务印书馆, 2005.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">季卫东. 中国社会科学, 1993(1).</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">季卫东. 中国社会科学, 1993(1): 83–103.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">王保树. . 梁慧星, 编//民商法论丛. 法律出版社, 1994: 110.</div>
@@ -789,178 +789,184 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特. . 王铁崖等, 译. 8 版. 商务印书馆, 1971.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">全国人大常委会. .</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">瞿同祖. . 商务印书馆, 2010: 428.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">全国人大常委会. 2005年修订 版. .</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">崔国斌. 中国法学, 2006(1): 144–164.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. 2013年修正 版. .</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">最高人民法院等. (1993-11-12).</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">全国人大常委会. 2005年修订 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. .</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 2013年修正 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">国务院. (2007-07-11).</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院等. (1993-11-12).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">最高人民法院. (2018-02-06).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. (2018-06-27).</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. (2007-07-11).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">国家质量监督检验检疫总局等. (2015).</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. (2018-02-06).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">信春鹰. . (2013-12-23) . [2023-06-19]. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. (2018-06-27).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">中国共产党中央委员会. (2014-10-23).</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">国家质量监督检验检疫总局等. (2015).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">佚名. (2013-02-08).</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰. . (2013-12-23) . [2023-06-19]. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">佚名. (2017-12-16).</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. (2014-10-23).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Barbara Ward. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. (2013-02-08).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Rosenthal A. New York Times, 1990: A1.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. (2017-12-16).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Habermas J. . Rehg W, tran.. MIT Press, 1996: 676.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Horsley J. . Bergsten C F et al., eds.//China: The balance Sheet. Public Affairs Press, 2006.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. New York Times, 1990: A1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Anonymous. . Stat., 1966, 80: 931, 944–947.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. . Rehg W, tran.. MIT Press, 1996: 676.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Anonymous. . U.S.C., 2006, 5.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. . Bergsten C F et al., eds.//China: The balance Sheet. Public Affairs Press, 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Anonymous. (1982).</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Anonymous. . Stat., 1966, 80: 931, 944–947.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Anonymous. (1984).</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Anonymous. . U.S.C., 2006, 5.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. (1973).</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. (1982).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. ([no date]).</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. (1984).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">McDonell S. . (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Anonymous. (1973).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Chevallier M. . 4 版. Paris: Montchrestien, 2003.</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Anonymous. ([no date]).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Poisson M. RGDIP, 2015: 15–47.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. . (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Badiou-Monferran C. La Licorne, 1997(43): 75–94.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Chevallier M. . 4 版. Paris: Montchrestien, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Poisson M. //Le droit des Océans. Éditions de la mer 版. .</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Poisson M. RGDIP, 2015: 15–47.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Poisson M. . (2016-07) .</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Badiou-Monferran C. La Licorne, 1997(43): 75–94.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Poisson M. . (2016-08) .</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Poisson M. //Le droit des Océans. Éditions de la mer 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Poisson M. . l’Université de Marseille, 2016.</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Poisson M. . (2016-07) .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Joyeux-Prunel B. . ([日期不详])[2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Poisson M. . (2016-08) .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Vogel B. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629–649.</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Poisson M. . l’Université de Marseille, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Würdinger M. Juristische Schulung, 2012(3): 234–240.</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Joyeux-Prunel B. . ([日期不详])[2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Fischer T. Die Zeit, 2015.</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Vogel B. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629–649.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Roxin C. . 4 版. C. H. Beck, 2006: 1136.</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Würdinger M. Juristische Schulung, 2012(3): 234–240.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">佚名. . Dreier R等, 编. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003: 286.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Fischer T. Die Zeit, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Schwab M. //Münchener Kommentar BGB. 6 版. .</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Roxin C. . 4 版. C. H. Beck, 2006: 1136.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">Kaufmann A. . Baumann J, 编//Das Abtreibungsverbot des § 218 StGB. 2 版. .</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">佚名. . Dreier R等, 编. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003: 286.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Canaris C-W. . .</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Schwab M. //Münchener Kommentar BGB. 6 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">佚名. .</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A. . Baumann J, 编//Das Abtreibungsverbot des § 218 StGB. 2 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">佚名. .</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C-W. . .</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">佚名. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">佚名. ([日期不详]).</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">佚名. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">佚名. (1999).</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">佚名. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">佚名. (2000).</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">佚名. ([日期不详]).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">Meidenbauer M. . ([日期不详])[2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">佚名. (1999).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">我妻栄. . 有斐閣, 1971.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名. (2000).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">我妻栄等. . 日本評論社, 1950.</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer M. . ([日期不详])[2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">於保不二雄. 民商法雑誌, 1954, 29(5): 1.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">我妻栄. . 有斐閣, 1971.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">佐藤英明. . 金子宏等, 编//租税法と市場. 有斐閣, 2014: 220.</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">我妻栄等. . 日本評論社, 1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">佚名. (1919-03-03).</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">於保不二雄. 民商法雑誌, 1954, 29(5): 1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佚名. (1982-07-15).</div>
+    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佐藤英明. . 金子宏等, 编//租税法と市場. 有斐閣, 2014: 220.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名. .</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名. (1919-03-03).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名. ([日期不详]).</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名. (1982-07-15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名. . ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">欧中坦. . 高道蕴等, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名. ([日期不详]).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. . ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. . ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦. . 高道蕴等, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">佚名. . ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
   </div>
 </div>
 
@@ -1293,7 +1299,7 @@
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. (2011).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M等. . Biostat, 2014(2014).</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M et al. . Biostat, 2014(2014).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. (2016).</div>
