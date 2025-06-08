@@ -1,6 +1,6 @@
 import CSL from "citeproc";
 import fs from "fs-extra";
-import { getIds } from "../data";
+import { getCitationItems, getIds } from "../data";
 
 /**
  * @description 产生 citeproc-js 的 sys 参数
@@ -42,6 +42,20 @@ export function makeCiteprocSys(items: Item[]) {
 
 export function getCiteproc(items: Item[], style: string) {
   const sys = makeCiteprocSys(items);
+
+  // @ts-ignore
+  // CSL.Output.Formats.html["@display/left-margin"] = function (state, str) {
+  //   return str + "\t";
+  // };
+  // // @ts-ignore
+  // CSL.Output.Formats.html["@display/right-inline"] = function (state, str) {
+  //   return str;
+  // };
+  // @ts-ignore
+  CSL.Output.Formats.html["@display/block"] = function (state, str) {
+    return '\n    <div class="csl-block">' + str + "</div>\n  ";
+  };
+
   const citeproc = new CSL.Engine(sys, style);
   citeproc.opt.development_extensions.wrap_url_and_doi = true;
   // citeproc.opt.development_extensions.csl_reverse_lookup_support = true;
@@ -57,15 +71,16 @@ export function getCiteproc(items: Item[], style: string) {
  */
 export function make_citations(
   citeproc: CSL.Engine,
-  cite_items_list: CitationItem[]
+  cite_items_list: CitationItems
 ) {
+  // console.log(cite_items_list);
   var citation_res: any[] = [];
 
   var citation_count = 0;
   var citation_pre: any[] = [];
   var citation_post: string[] = [];
 
-  for (var cite_items of cite_items_list) {
+  for (let cite_items of cite_items_list) {
     citation_count += 1;
     const citaiton_id = "CITATION-" + citation_count;
     var citation = {
@@ -75,6 +90,12 @@ export function make_citations(
         noteIndex: citation_count,
       },
     };
+    if (cite_items[0].mode === "composite") {
+      // @ts-ignore
+      citation.properties.mode = "composite";
+      // 有点奇怪，这里会导致只有第一个样式能正常，后面的都不能
+      // delete cite_items[0].mode;
+    }
     // console.log(citation);
     var citation_items = citeproc.processCitationCluster(
       citation,
@@ -143,18 +164,18 @@ export function make_bibliography(citeproc: CSL.Engine) {
 
 export function getItemResults(
   citeproc: CSL.Engine,
-  citationItems: CitationItem[]
+  citationItems: CitationItems
 ) {
   citeproc.updateItems([]);
   let citation_format = citeproc.opt.xclass;
 
   if (citation_format === "note") {
-    // let cites = getCitations(data, citation_format);
+    // let cites = getCitationItems(citationItems, citation_format);
     // note 类测试 citations
     return make_citations(citeproc, citationItems);
   } else {
     // 其余类型测试 bibliography
-    const ids = getIds(citationItems);
+    const ids = getIds(citationItems.flat());
     citeproc.updateItems(ids);
     let res = make_bibliography(citeproc);
     return res;
@@ -193,19 +214,64 @@ export function getRefTemplate(cslXml: CslXml) {
 }
 
 export function getField(cslXml: CslXml) {
-  return cslXml
-    .getNodesByName(cslXml.dataObj, "category")
-    .filter((node) => "field" in node.attrs)[0]?.attrs["field"];
+  return (
+    cslXml
+      .getNodesByName(cslXml.dataObj, "category")
+      .filter((node) => "field" in node.attrs)[0]?.attrs["field"] ??
+    "generic-base"
+  );
 }
 
 export function getCitationFormat(cslXml: CslXml) {
-  return cslXml
-    .getNodesByName(cslXml.dataObj, "category")
-    .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
-    "citation-format"
-  ];
+  let citationFormat =
+    cslXml
+      .getNodesByName(cslXml.dataObj, "category")
+      .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
+      "citation-format"
+    ] ?? "numeric";
+  if (citationFormat === "author") {
+    citationFormat = "author-date";
+  } else if (citationFormat === "label") {
+    citationFormat = "numeric";
+  }
+  return citationFormat;
 }
 
-export function getSummary(cslXml: CslXml) {
-  return cslXml.getNodesByName(cslXml.dataObj, "summary")[0]?.children[0];
+export function getSummary(cslXml: CslXml): string {
+  return cslXml.getNodesByName(cslXml.dataObj, "summary")[0]
+    ?.children[0] as string;
+}
+
+export function getUpdated(cslXml: CslXml): string {
+  return cslXml.getNodesByName(cslXml.dataObj, "updated")[0]
+    ?.children[0] as string;
+}
+
+export function getRight(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "rights")[0]
+    ?.children[0] as string;
+}
+
+export function getAuthors(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "author").map((v) => {
+    return {
+      name: (
+        v.children.filter(
+          (n) => typeof n !== "string" && n.name === "name"
+        )[0] as Chind
+      )?.children[0] as string,
+    };
+  });
+}
+
+export function getContributors(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "contributor").map((v) => {
+    return {
+      name: (
+        v.children.filter(
+          (n) => typeof n !== "string" && n.name === "name"
+        )[0] as Chind
+      )?.children[0] as string,
+    };
+  });
 }

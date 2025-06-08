@@ -1,21 +1,60 @@
-name: ci
+name: autofix.ci # needed to securely identify the workflow
+
 on:
   push:
+    branches:
+      - main
+  pull_request:
     branches:
       - main
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  sync:
-    name: 同步到 Gitee
+  autofix:
+    name: 自动修复格式和预览
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: northword/push-to-gitee-action@v0
         with:
-          gitee_repo: git@gitee.com:zotero-chinese-x/styles.dev.git
-          gitee_token: ${{ secrets.GITEE_PRIVATE_KEY }}
-          files: "**/*.csl"
+          fetch-depth: 0
+          submodules: recursive
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install
+
+      - run: pnpm build
+      # - run: pnpm format
+
+      - uses: northword/autofix-ci-action@fix-git-cjk-path
+
+  send-dispatch:
+    name: 请求部署上线
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+    needs: autofix
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: zotero-chinese/website
+          event-type: update-triggered-by-styles-repo
+
+  sync:
+    name: 同步到 Gitee
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+    needs: autofix
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "git@github.com:zotero-chinese/styles.git" # github仓库地址
+          destination-repo: "git@gitee.com:zotero-chinese-x/styles.git" # gitee仓库地址

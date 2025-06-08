@@ -16,13 +16,17 @@ import {
   make_bibliography,
   getStyleClass,
   getItemResults,
+  getSummary,
+  getUpdated,
+  getAuthors,
+  getContributors,
 } from "./utils/citeproc.js";
 
 import {
   allDefaultItems,
   getCustomItems,
-  allDefaultCitationItems,
   getCustomCites,
+  getAllDefaultCitationItems,
 } from "./data/index.js";
 
 import { customFields } from "./customFields.js";
@@ -42,9 +46,10 @@ export function generate(cslFilePath: string): StyleFullResult {
   // 获取 citeproc 实例
   const citeproc = getCiteproc(items, style);
   const cslXml = citeproc.cslXml;
+  const citation_format = getCitationFormat(cslXml);
 
   const path: Path = {
-    dir: dirname(cslFilePath).replace("src/", ""),
+    dir: dirname(cslFilePath).replace(/src\/|src\\/, ""),
     file: basename(cslFilePath),
   };
 
@@ -56,18 +61,18 @@ export function generate(cslFilePath: string): StyleFullResult {
     link_self: getRefSelf(cslXml),
     link_template: getRefTemplate(cslXml),
     link_documentation: getRefDocument(cslXml),
-    author: [],
-    contributor: [],
-    citation_format: getCitationFormat(cslXml),
+    author: getAuthors(cslXml),
+    contributor: getContributors(cslXml),
+    citation_format,
     field: getField(cslXml),
-    summary: "",
-    updated: "",
+    summary: getSummary(cslXml),
+    updated: getUpdated(cslXml),
   };
 
   // CSL-JSON CitationItems
-  const citations: { [key: string]: CitationItem[] } = {
-    ...allDefaultCitationItems,
-    custom: getCustomCites(cslFilePath, customItems),
+  const citations: { [key: string]: CitationItems } = {
+    ...getAllDefaultCitationItems(citation_format),
+    custom: getCustomCites(cslFilePath, customItems, citation_format),
   };
 
   // 获取引注和参考文献表信息
@@ -91,6 +96,8 @@ export function generate(cslFilePath: string): StyleFullResult {
     mlc_result: getItemResults(citeproc, citations["mlc"]),
     ssc_result: getItemResults(citeproc, citations["ssc"]),
   };
+
+  // console.log(citations[camelCase(`test_${info.citation_format}`)]);
 
   // 获取自定义字段信息
   // const custom = customFields[path.file] || {};
@@ -135,7 +142,7 @@ export function generateAndWrite(csl_file: string) {
     `<!-- 此文件由脚本自动生成，请勿手动修改！ -->`,
     `<!-- markdownlint-disable -->`,
     `<!-- prettier-ignore -->\n`,
-    `<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->\n`,
+    `<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->\n`,
     `## 样式预览\n`,
     toDetails("引注", result.citations, false),
     toDetails("参考文献表", result.bibliography, false),

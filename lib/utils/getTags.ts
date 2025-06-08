@@ -2,21 +2,21 @@ import { getCiteproc } from "./citeproc";
 
 const items = [
   {
-    "id": "apa.10.1:1",
-    "type": "article-journal",
+    id: "apa.10.1:1",
+    type: "article-journal",
     "container-title": "Psychological Review",
-    "DOI": "10.1037/rev0000126",
-    "ISSN": "1939-1471",
-    "issue": "1",
-    "journalAbbreviation": "Psychol. Rev.",
-    "language": "en-US",
-    "page": "1-51",
-    "title":
+    DOI: "10.1037/rev0000126",
+    ISSN: "1939-1471",
+    issue: "1",
+    journalAbbreviation: "Psychol. Rev.",
+    language: "en-US",
+    page: "1-51",
+    title:
       "Language learning as language use: A cross-linguistic model of child language development",
     "title-short": "Language learning as language use",
-    "URL": "https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000126",
-    "volume": "126",
-    "author": [
+    URL: "https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000126",
+    volume: "126",
+    author: [
       {
         family: "McCauley",
         given: "Stewart M.",
@@ -26,7 +26,7 @@ const items = [
         given: "Morten H.",
       },
     ],
-    "issued": {
+    issued: {
       "date-parts": [["2019"]],
     },
   },
@@ -62,13 +62,13 @@ export function getTags(style: string) {
 
   const tags: Tag[] = [
     result.includes("MCCAULEY") ? "姓名大写" : "姓名小写",
-    result.includes("Language learning as language use") ? "有标题" : "无标题",
-    result.includes("Psychol. Rev.") ? "期刊全称" : "期刊缩写",
+    result.match(/Language learning as language use/i) ? "有标题" : "无标题",
+    result.includes("Psychological Review") ? "期刊全称" : "期刊缩写",
     result.includes("https://psycnet.apa.org") ||
     result.includes("https://doi.org")
-      ? "有DOI"
-      : "无DOI",
-    result.includes("10.1037/rev0000126") ? "有URL" : "无URL",
+      ? "有URL"
+      : "无URL",
+    result.includes("10.1037/rev0000126") ? "有DOI" : "无DOI",
   ];
 
   return { tags };

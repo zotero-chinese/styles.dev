@@ -1,0 +1,84 @@
+name: 样式申请
+description: 申请添加新的 CSL 样式
+title: "新样式："
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 样式信息
+
+  - type: input
+    attributes:
+      label: 期刊 / 学校名称
+      placeholder: XX学报 / XX大学（研究生学位论文）
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: 英文名称
+      placeholder: e.g. Acta Psychologica Sinica / Tsinghua University
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 参考文献格式
+      description: 提供**官网**的链接，并上传一份格式文件。
+      value: |
+        官方网页链接：
+
+        官方文件链接：
+
+        上传格式文件：
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: 相关领域
+      options:
+        - anthropology
+        - astronomy
+        - biology
+        - botany
+        - chemistry
+        - communications
+        - engineering
+        - geography
+        - geology
+        - history
+        - humanities
+        - law
+        - linguistics
+        - literature
+        - math
+        - medicine
+        - philosophy
+        - physics
+        - political_science
+        - psychology
+        - science
+        - social_science
+        - sociology
+        - zoology
+
+  - type: textarea
+    attributes:
+      label: 文件号
+      description: 上述格式文件的编号或期刊 ISSN 号，例如“`研生[2019]10号`”或“`0439-755X`”。
+      value: |
+        - （期刊）ISSN 号：
+        - （学校）文件号：
+        - 参考文献格式的更新日期：
+
+  - type: textarea
+    attributes:
+      label: 相近样式
+      description: 请在 https://zotero-chinese.com/styles 的通用样式（如国标、《综合性期刊文献引证技术规范》）中查找与你需要的最相近的样式，将链接或样式名填写在下面，并简要说明与其差别。
+      value: |
+        相近样式：
+
+        区别：

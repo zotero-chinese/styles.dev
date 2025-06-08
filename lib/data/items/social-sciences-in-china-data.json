@@ -7,13 +7,7 @@
 		"language": "en-US",
 		"title": "Nixon to Kissinger",
 		"issued": {
-			"date-parts": [
-				[
-					"1969",
-					2,
-					1
-				]
-			]
+			"date-parts": [["1969", 2, 1]]
 		}
 	},
 	{
@@ -26,7 +20,6 @@
 		"publisher": "Cambridge University Press",
 		"publisher-place": "Cambridge, Mass.",
 		"title": "The impact of scarcity and plenty on population change in England",
-		"title-short": "Hunger and History",
 		"author": [
 			{
 				"family": "Schfield",
@@ -44,11 +37,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1983"
-				]
-			]
+			"date-parts": [["1983"]]
 		}
 	},
 	{
@@ -72,11 +61,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -95,11 +80,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2000"
-				]
-			]
+			"date-parts": [["2000"]]
 		}
 	},
 	{
@@ -120,12 +101,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1993",
-					4
-				]
-			]
+			"date-parts": [["1993", 4]]
 		}
 	},
 	{
@@ -142,13 +118,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2007",
-					9,
-					13
-				]
-			]
+			"date-parts": [["2007", 9, 13]]
 		}
 	},
 	{
@@ -163,22 +133,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"1998",
-					10,
-					4
-				]
-			]
+			"date-parts": [["1998", 10, 4]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1998",
-					8,
-					16
-				]
-			]
+			"date-parts": [["1998", 8, 16]]
 		}
 	},
 	{
@@ -189,13 +147,7 @@
 		"language": "zh-CN",
 		"title": "傅良佐致国务院电",
 		"issued": {
-			"date-parts": [
-				[
-					"1917",
-					9,
-					15
-				]
-			]
+			"date-parts": [["1917", 9, 15]]
 		}
 	},
 	{
@@ -212,11 +164,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2000"
-				]
-			]
+			"date-parts": [["2000"]]
 		}
 	},
 	{
@@ -232,13 +180,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1986",
-					8,
-					22
-				]
-			]
+			"date-parts": [["1986", 8, 22]]
 		}
 	},
 	{
@@ -248,6 +190,7 @@
 		"issue": "4",
 		"language": "zh-CN",
 		"note": "section: 社会科学版",
+		"page": "512-513",
 		"title": "德育学科的比较研究与理论探索",
 		"author": [
 			{
@@ -255,11 +198,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2002"
-				]
-			]
+			"date-parts": [["2002"]]
 		}
 	},
 	{
@@ -268,16 +207,16 @@
 		"event-place": "天津",
 		"event-title": "全球化与亚太区域化国际研讨会",
 		"language": "zh-CN",
-		"note": "event-date: 2000-06",
-		"page": "9",
 		"publisher-place": "天津",
 		"title": "对国际体制和国际制度的理解和翻译",
 		"author": [
 			{
-				"family": "任东来",
-				"given": ""
+				"literal": "任东来"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [["2000", 6]]
+		}
 	},
 	{
 		"id": "ssc.2.2.2:04",
@@ -289,13 +228,7 @@
 		"publisher-place": "上海",
 		"title": "上海各路商界总联合会致外交部电",
 		"issued": {
-			"date-parts": [
-				[
-					"1925",
-					8,
-					14
-				]
-			]
+			"date-parts": [["1925", 8, 14]]
 		}
 	},
 	{
@@ -304,17 +237,11 @@
 		"container-title": "广益丛报",
 		"language": "zh-CN",
 		"note": "issue: 第8年第19期",
-		"page": "1-2",
+		"page": "第1—2页",
 		"section": "新章",
 		"title": "四川会议厅暂行章程",
 		"issued": {
-			"date-parts": [
-				[
-					"1910",
-					9,
-					3
-				]
-			]
+			"date-parts": [["1910", 9, 3]]
 		}
 	},
 	{
@@ -335,21 +262,19 @@
 		"id": "ssc.2.2.1:03",
 		"type": "article-journal",
 		"container-title": "社会科学",
+		"DOI": "10.15891/j.cnki.cn62-1093/c.1990.06.017",
 		"issue": "6",
 		"language": "zh-CN",
 		"note": "publisher-place: 兰州",
-		"title": "论近代西北人口波动的主要原因",
+		"page": "68-73, 86",
+		"title": "论近代西北人口波动的若干主要原因",
 		"author": [
 			{
 				"literal": "魏丽英"
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1990"
-				]
-			]
+			"date-parts": [["1990"]]
 		}
 	},
 	{
@@ -358,6 +283,7 @@
 		"container-title": "中国史研究",
 		"issue": "3",
 		"language": "zh-CN",
+		"page": "167-173",
 		"title": "读顾诚〈南明史〉",
 		"author": [
 			{
@@ -365,11 +291,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -389,11 +311,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1991"
-				]
-			]
+			"date-parts": [["1991"]]
 		}
 	},
 	{
@@ -416,7 +334,6 @@
 		"container-title": "中国大历史",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "2",
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "为什么称为“中国大历史”？——中文版自序",
@@ -427,11 +344,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -440,7 +353,6 @@
 		"container-title": "识史集",
 		"event-place": "上海",
 		"language": "zh-CN",
-		"page": "65",
 		"publisher": "上海古籍出版社",
 		"publisher-place": "上海",
 		"title": "师承与变法",
@@ -450,11 +362,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -477,11 +385,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -491,7 +395,6 @@
 		"edition": "增补本",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "2",
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "读家书，想傅雷（代序）",
@@ -507,11 +410,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -529,11 +428,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
+			"date-parts": [["1994"]]
 		}
 	},
 	{
@@ -542,7 +437,6 @@
 		"container-title": "鲁迅全集",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "325",
 		"publisher": "人民文学出版社",
 		"publisher-place": "北京",
 		"title": "中国小说的历史的变迁",
@@ -553,11 +447,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1981"
-				]
-			]
+			"date-parts": [["1981"]]
 		}
 	},
 	{
@@ -584,11 +474,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1999"
-				]
-			]
+			"date-parts": [["1999"]]
 		}
 	},
 	{
@@ -628,11 +514,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1982"
-				]
-			]
+			"date-parts": [["1982"]]
 		}
 	},
 	{
@@ -650,11 +532,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1983"
-				]
-			]
+			"date-parts": [["1983"]]
 		}
 	},
 	{
@@ -667,11 +545,7 @@
 		"publisher-place": "西安",
 		"title": "荣庆日记",
 		"issued": {
-			"date-parts": [
-				[
-					"1986"
-				]
-			]
+			"date-parts": [["1986"]]
 		}
 	},
 	{
@@ -684,11 +558,7 @@
 		"title": "马克思恩格斯全集",
 		"volume": "31",
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -706,11 +576,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -727,11 +593,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1989"
-				]
-			]
+			"date-parts": [["1989"]]
 		}
 	},
 	{
@@ -749,11 +611,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2001"
-				]
-			]
+			"date-parts": [["2001"]]
 		}
 	},
 	{
@@ -770,11 +628,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1948"
-				]
-			]
+			"date-parts": [["1948"]]
 		}
 	},
 	{
@@ -791,13 +645,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1936",
-					6,
-					15
-				]
-			]
+			"date-parts": [["1936", 6, 15]]
 		}
 	},
 	{
@@ -807,6 +655,7 @@
 		"issue": "3",
 		"language": "zh-CN",
 		"note": "section: 文史哲版",
+		"page": "26-27",
 		"title": "评黄龟年四劾秦桧",
 		"author": [
 			{
@@ -814,11 +663,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -831,13 +676,7 @@
 		"publisher-place": "上海",
 		"title": "西南中委反对在宁召开五全会",
 		"issued": {
-			"date-parts": [
-				[
-					"1933",
-					8,
-					11
-				]
-			]
+			"date-parts": [["1933", 8, 11]]
 		}
 	},
 	{
@@ -846,14 +685,10 @@
 		"archive": "中共四川省委统战部档案室",
 		"archive_location": "李劼人档案",
 		"language": "zh-CN",
+		"note": "type: collection",
 		"title": "党外人士座谈会记录",
 		"issued": {
-			"date-parts": [
-				[
-					"1950",
-					7
-				]
-			]
+			"date-parts": [["1950", 7]]
 		}
 	},
 	{
@@ -871,11 +706,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1985"
-				]
-			]
+			"date-parts": [["1985"]]
 		}
 	},
 	{
@@ -907,11 +738,7 @@
 		"title": "广东通志",
 		"volume": "15",
 		"issued": {
-			"date-parts": [
-				[
-					"1992"
-				]
-			]
+			"date-parts": [["1992"]]
 		}
 	},
 	{
@@ -926,11 +753,7 @@
 		"title": "旧唐书",
 		"volume": "9",
 		"issued": {
-			"date-parts": [
-				[
-					"1975"
-				]
-			]
+			"date-parts": [["1975"]]
 		}
 	},
 	{
@@ -945,11 +768,7 @@
 		"title": "方苞集",
 		"volume": "6",
 		"issued": {
-			"date-parts": [
-				[
-					"1983"
-				]
-			]
+			"date-parts": [["1983"]]
 		}
 	},
 	{
@@ -964,11 +783,7 @@
 		"title": "清德宗实录",
 		"volume": "435",
 		"issued": {
-			"date-parts": [
-				[
-					"1987"
-				]
-			]
+			"date-parts": [["1987"]]
 		}
 	},
 	{
@@ -983,35 +798,29 @@
 		"title": "太平御览",
 		"volume": "690",
 		"issued": {
-			"date-parts": [
-				[
-					"1985"
-				]
-			]
+			"date-parts": [["1985"]]
 		}
 	},
 	{
-		"id": "ssc.2.3.1:02b",
-		"type": "paper-conference",
-		"container-title": "全球化与亚太区域化国际研讨会论文集",
-		"event-place": "天津",
+		"id": "ssc.2.2.1:04",
+		"type": "article-journal",
+		"container-title": "社会科学",
+		"issue": "9",
 		"language": "zh-CN",
-		"page": "9",
-		"publisher-place": "天津",
-		"title": "对国际体制和国际制度的理解和翻译",
+		"page": "63-67",
+		"source": "CNKI",
+		"title": "葡萄牙人如何进入澳门问题辨正",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&uniplatform=NZKPT&language=CHS",
 		"author": [
 			{
-				"family": "任东来",
-				"given": ""
+				"literal": "费成康"
 			}
 		],
+		"accessed": {
+			"date-parts": [["2024", 6, 12]]
+		},
 		"issued": {
-			"date-parts": [
-				[
-					"2000",
-					6
-				]
-			]
+			"date-parts": [["1999"]]
 		}
 	}
 ]

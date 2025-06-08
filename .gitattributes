@@ -1,1 +1,4 @@
-*.csl linguist-language=CSL
+*.csl linguist-vendored=false
+*.csl linguist-generated=false
+*.csl linguist-documentation=false
+*.csl linguist-detectable=true
