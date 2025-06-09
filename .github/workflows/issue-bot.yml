@@ -13,6 +13,7 @@ permissions: {}
 
 jobs:
   label:
+    if: github.event_name == 'issue' || github.event_name == 'issue_comment'
     permissions:
       issues: write # to add label to an issues (retorquere/label-gun)
       pull-requests: write # to add label, comment on pull request (retorquere/label-gun)
