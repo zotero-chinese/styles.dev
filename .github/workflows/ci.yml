@@ -28,5 +28,5 @@ jobs:
           cache: pnpm
       - run: pnpm install
 
-      - run: pnpm build
+      - run: node --import tsx lib/index.ts all
       # - run: pnpm format
