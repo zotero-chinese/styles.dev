@@ -12,7 +12,7 @@ import path from "node:path";
 const arg = argv[2];
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const workerPath = path.resolve(__dirname, "./worker.ts");
+const workerPath = path.resolve(__dirname, "./worker.mjs");
 const pool = new Tinypool({
   filename: workerPath,
   // execArgv: ["--import", "tsx"],
