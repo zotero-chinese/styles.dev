@@ -15,7 +15,7 @@ const __dirname = path.dirname(__filename);
 const workerPath = path.resolve(__dirname, "./worker.ts");
 const pool = new Tinypool({
   filename: workerPath,
-  execArgv: ["--import", "tsx"],
+  // execArgv: ["--import", "tsx"],
   runtime: "child_process",
 });
 
